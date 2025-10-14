@@ -1,0 +1,31 @@
+site_name: Medizin Lexikon
+site_url: https://lexikon-web.netlify.app   # optional, kannst du später anpassen
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.instant     # Seitenwechsel ohne komplettes Reload
+    - navigation.top         # "Zurück nach oben"-Button
+    - search.suggest         # Vorschläge in der Suche
+    - search.highlight       # Suchbegriffe im Text hervorheben
+    - content.code.copy      # Kopier-Button bei Codeblöcken
+nav:
+  - Start: index.md
+  - Grundlagen:
+      - Anatomie: anatomie.md
+      - Physiologie: physiologie.md
+  - Klinische Themen:
+      - Notfallmedizin: notfall.md
+      - Pharmakologie: pharmakologie.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - footnotes
+  - def_list
+  - attr_list
