@@ -1,5 +1,114 @@
 # Eigenmedikation auf IT
 
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Eigenmedikation ITS – Interaktive Suche</title>
+<style>
+  body {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+    background: #f5f7fa;
+    padding: 20px;
+    color: #333;
+  }
+  h2 { margin-bottom: 10px; }
+  .search-box {
+    position: relative;
+    max-width: 400px;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  .suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 10;
+  }
+  .suggestions div {
+    padding: 8px;
+    cursor: pointer;
+  }
+  .suggestions div:hover {
+    background: #f0f0f0;
+  }
+  .output {
+    border-radius: 10px;
+    padding: 16px;
+    max-width: 600px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    display: none;
+    margin-top: 20px;
+  }
+  .green { background: #e6f9ec; border-left: 6px solid #2e8b57; }
+  .red   { background: #fdeaea; border-left: 6px solid #b22222; }
+  .yellow{ background: #fff9e6; border-left: 6px solid #b38f00; }
+  .title { font-weight: 600; margin-bottom: 6px; font-size: 16px; }
+</style>
+</head>
+<body>
+
+<h2>🩺 Interaktive Medikamentensuche: Eigenmedikation auf ITS</h2>
+<p>Gib einen Medikamentennamen ein:</p>
+
+<div class="search-box">
+  <input type="text" id="drugInput" placeholder="z.B. Levodopa, Bisoprolol, Ramipril...">
+  <div id="suggestions" class="suggestions"></div>
+</div>
+
+<div id="output" class="output"></div>
+
+<script>
+// Datenbank: Medikament -> Kategorie + Text
+const data = {
+  "Levodopa": {color:"green", text:"Essenzielle Weitergabe. Abruptes Absetzen → akinetische Krise. Transdermale Systeme erhalten. CYP2C19-Interaktionen gering."},
+  "Rotigotin": {color:"green", text:"Essenzielle Weitergabe. Abruptes Absetzen → akinetische Krise. Transdermale Systeme erhalten. CYP2C19-Interaktionen gering."},
+  "Levetiracetam": {color:"green", text:"Weitergabe essenziell. TDM empfohlen."},
+  "Valproat": {color:"green", text:"Weitergabe essenziell. TDM empfohlen. Bei Leberinsuffizienz kritisch. CYP2C9 relevant."},
+  "L-Thyroxin": {color:"green", text:"Weitergabe enteral möglich. Keine relevante Interaktion. Monitoring bei Hypothermie."},
+  "Bisoprolol": {color:"green", text:"Weitergabe bei KHK, Tachyarrhythmie. Pause bei Sepsis oder Bradykardie erwägen. CYP2D6 relevant."},
+  "Metoprolol": {color:"green", text:"Weitergabe bei KHK, Tachyarrhythmie. Pause bei Sepsis oder Bradykardie erwägen. CYP2D6 relevant."},
+  "Sertralin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. QT-Zeit beachten. CYP2C19/CYP3A4 relevant."},
+  "Escitalopram": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. QT-Zeit beachten. CYP2C19/CYP3A4 relevant."},
+  "Quetiapin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. Sedierung und Delirrisiko beachten. CYP1A2/CYP3A4 relevant."},
+  "Olanzapin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. Sedierung und Delirrisiko beachten. CYP1A2/CYP3A4 relevant."},
+  "Amlodipin": {color:"green", text:"Weitergabe bei stabiler Hämodynamik. CYP3A4 relevant."},
+  "Valsartan": {color:"green", text:"Weitergabe bei stabiler Hämodynamik. AT1-Blocker besser steuerbar als ACE-Hemmer. CYP3A4 relevant."},
+  "Pantoprazol": {color:"green", text:"Weitergabe bei Ulkusprophylaxe oder Antikoagulation. Übertherapie häufig. CYP2C19 relevant."},
+
+  "Metformin": {color:"red", text:"Absetzen: Risiko für Laktatazidose. Nur Insulin auf ITS."},
+  "Empagliflozin": {color:"red", text:"Absetzen: Risiko für Ketoazidose, Volumenverlust. Nur Insulin auf ITS."},
+  "Torasemid": {color:"red", text:"Substitution durch Furosemid: +kürzere WD, +flexible Titration, –mehr Hypokaliämie. CYP2C9 relevant."},
+  "Ibuprofen": {color:"red", text:"Kontraindiziert: nephrotoxisch, gastrotoxisch, gerinnungshemmend. Paracetamol bevorzugt. CYP2C9 relevant."},
+  "Diclofenac": {color:"red", text:"Kontraindiziert: nephrotoxisch, gastrotoxisch, gerinnungshemmend. Paracetamol bevorzugt. CYP2C9 relevant."},
+  "Oxycodon retard": {color:"red", text:"Substitution durch kurzwirksame Alternativen. Retardierung bei Sondengabe problematisch. CYP3A4 relevant."},
+  "Apixaban": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten. CYP3A4 relevant."},
+  "Rivaroxaban": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten. CYP3A4 relevant."},
+  "Marcumar": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten."},
+  "Simvastatin": {color:"red", text:"Pause bei Leberwertanstieg oder Rhabdomyolyse-Risiko. Re-Evaluation postoperativ. CYP3A4 relevant."},
+  "Allopurinol": {color:"red", text:"Absetzen bei akuter Erkrankung. Interaktionen mit Azathioprin. Xanthinoxidase relevant."},
+  "Finasterid": {color:"red", text:"Nicht relevant auf ITS. Keine Fortführung nötig."},
+
+  "Ramipril": {color:"yellow", text:"Weitergabe bei Herzinsuffizienz. Pause bei Hypertonie als alleiniger Indikation oder Hypotonie."},
+  "Enalapril": {color:"yellow", text:"Weitergabe bei Herzinsuffizienz. Pause bei Hypertonie als alleiniger Indikation oder Hypotonie."},
+  "Haloperidol": {color:"yellow", text:"Weitergabe bei Psychose. Pause bei Delir oder QT-Verlängerung. CYP2D6/CYP3A4 relevant."},
+  "Risperidon": {color:"yellow", text:"Weitergabe bei Psychose. Pause bei Delir oder QT-Verlängerung. CYP2D6/CYP3A4 relevant."},
+  "Donepezil": {color:"yellow", text:"Weitergabe bei stabiler enteraler Gabe. Delirrisiko vs. kognitive Stabilität abwägen. CYP3A4 relevant."},
+  "Rivastigmin": {color:"yellow", text:"Weitergabe bei stabiler enteraler Gabe. Delirrisiko vs. kognitive Stabil
+
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
