@@ -1,6 +1,5 @@
 # Eigenmedikation auf IT
 
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -14,43 +13,22 @@
     color: #333;
   }
   h2 { margin-bottom: 10px; }
-  .search-box {
-    position: relative;
-    max-width: 400px;
-  }
+  .search-box { position: relative; max-width: 400px; }
   input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    font-size: 15px;
-    border-radius: 6px;
-    border: 1px solid #ccc;
+    width: 100%; padding: 10px; font-size: 15px;
+    border-radius: 6px; border: 1px solid #ccc;
   }
   .suggestions {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: #fff;
-    border: 1px solid #ccc;
-    border-top: none;
-    max-height: 200px;
-    overflow-y: auto;
-    z-index: 10;
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: #fff; border: 1px solid #ccc; border-top: none;
+    max-height: 200px; overflow-y: auto; z-index: 10;
   }
-  .suggestions div {
-    padding: 8px;
-    cursor: pointer;
-  }
-  .suggestions div:hover {
-    background: #f0f0f0;
-  }
+  .suggestions div { padding: 8px; cursor: pointer; }
+  .suggestions div:hover { background: #f0f0f0; }
   .output {
-    border-radius: 10px;
-    padding: 16px;
-    max-width: 600px;
+    border-radius: 10px; padding: 16px; max-width: 600px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.1);
-    display: none;
-    margin-top: 20px;
+    display: none; margin-top: 20px;
   }
   .green { background: #e6f9ec; border-left: 6px solid #2e8b57; }
   .red   { background: #fdeaea; border-left: 6px solid #b22222; }
@@ -71,42 +49,57 @@
 <div id="output" class="output"></div>
 
 <script>
-// Datenbank: Medikament -> Kategorie + Text
+// Datenbank: nur 3 Beispiele pro Kategorie
 const data = {
+  // ✅ Weitergabe empfohlen
   "Levodopa": {color:"green", text:"Essenzielle Weitergabe. Abruptes Absetzen → akinetische Krise. Transdermale Systeme erhalten. CYP2C19-Interaktionen gering."},
-  "Rotigotin": {color:"green", text:"Essenzielle Weitergabe. Abruptes Absetzen → akinetische Krise. Transdermale Systeme erhalten. CYP2C19-Interaktionen gering."},
-  "Levetiracetam": {color:"green", text:"Weitergabe essenziell. TDM empfohlen."},
   "Valproat": {color:"green", text:"Weitergabe essenziell. TDM empfohlen. Bei Leberinsuffizienz kritisch. CYP2C9 relevant."},
-  "L-Thyroxin": {color:"green", text:"Weitergabe enteral möglich. Keine relevante Interaktion. Monitoring bei Hypothermie."},
   "Bisoprolol": {color:"green", text:"Weitergabe bei KHK, Tachyarrhythmie. Pause bei Sepsis oder Bradykardie erwägen. CYP2D6 relevant."},
-  "Metoprolol": {color:"green", text:"Weitergabe bei KHK, Tachyarrhythmie. Pause bei Sepsis oder Bradykardie erwägen. CYP2D6 relevant."},
-  "Sertralin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. QT-Zeit beachten. CYP2C19/CYP3A4 relevant."},
-  "Escitalopram": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. QT-Zeit beachten. CYP2C19/CYP3A4 relevant."},
-  "Quetiapin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. Sedierung und Delirrisiko beachten. CYP1A2/CYP3A4 relevant."},
-  "Olanzapin": {color:"green", text:"Weitergabe bei psychiatrischer Indikation. Sedierung und Delirrisiko beachten. CYP1A2/CYP3A4 relevant."},
-  "Amlodipin": {color:"green", text:"Weitergabe bei stabiler Hämodynamik. CYP3A4 relevant."},
-  "Valsartan": {color:"green", text:"Weitergabe bei stabiler Hämodynamik. AT1-Blocker besser steuerbar als ACE-Hemmer. CYP3A4 relevant."},
-  "Pantoprazol": {color:"green", text:"Weitergabe bei Ulkusprophylaxe oder Antikoagulation. Übertherapie häufig. CYP2C19 relevant."},
 
+  // ❌ Kontraindiziert
   "Metformin": {color:"red", text:"Absetzen: Risiko für Laktatazidose. Nur Insulin auf ITS."},
-  "Empagliflozin": {color:"red", text:"Absetzen: Risiko für Ketoazidose, Volumenverlust. Nur Insulin auf ITS."},
-  "Torasemid": {color:"red", text:"Substitution durch Furosemid: +kürzere WD, +flexible Titration, –mehr Hypokaliämie. CYP2C9 relevant."},
   "Ibuprofen": {color:"red", text:"Kontraindiziert: nephrotoxisch, gastrotoxisch, gerinnungshemmend. Paracetamol bevorzugt. CYP2C9 relevant."},
-  "Diclofenac": {color:"red", text:"Kontraindiziert: nephrotoxisch, gastrotoxisch, gerinnungshemmend. Paracetamol bevorzugt. CYP2C9 relevant."},
-  "Oxycodon retard": {color:"red", text:"Substitution durch kurzwirksame Alternativen. Retardierung bei Sondengabe problematisch. CYP3A4 relevant."},
-  "Apixaban": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten. CYP3A4 relevant."},
-  "Rivaroxaban": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten. CYP3A4 relevant."},
-  "Marcumar": {color:"red", text:"Umstellung auf Heparin: +steuerbar, +antagonisierbar, –HIT-Risiko beachten."},
   "Simvastatin": {color:"red", text:"Pause bei Leberwertanstieg oder Rhabdomyolyse-Risiko. Re-Evaluation postoperativ. CYP3A4 relevant."},
-  "Allopurinol": {color:"red", text:"Absetzen bei akuter Erkrankung. Interaktionen mit Azathioprin. Xanthinoxidase relevant."},
-  "Finasterid": {color:"red", text:"Nicht relevant auf ITS. Keine Fortführung nötig."},
 
+  // ⚖️ Situativ
   "Ramipril": {color:"yellow", text:"Weitergabe bei Herzinsuffizienz. Pause bei Hypertonie als alleiniger Indikation oder Hypotonie."},
-  "Enalapril": {color:"yellow", text:"Weitergabe bei Herzinsuffizienz. Pause bei Hypertonie als alleiniger Indikation oder Hypotonie."},
   "Haloperidol": {color:"yellow", text:"Weitergabe bei Psychose. Pause bei Delir oder QT-Verlängerung. CYP2D6/CYP3A4 relevant."},
-  "Risperidon": {color:"yellow", text:"Weitergabe bei Psychose. Pause bei Delir oder QT-Verlängerung. CYP2D6/CYP3A4 relevant."},
-  "Donepezil": {color:"yellow", text:"Weitergabe bei stabiler enteraler Gabe. Delirrisiko vs. kognitive Stabilität abwägen. CYP3A4 relevant."},
-  "Rivastigmin": {color:"yellow", text:"Weitergabe bei stabiler enteraler Gabe. Delirrisiko vs. kognitive Stabil
+  "Spironolacton": {color:"yellow", text:"Weitergabe bei Herzinsuffizienz. Hyperkaliämie-Risiko beachten. CYP3A4 relevant."}
+};
+
+// Autocomplete Logik
+const input = document.getElementById("drugInput");
+const suggestions = document.getElementById("suggestions");
+const output = document.getElementById("output");
+
+input.addEventListener("input", function() {
+  const val = this.value.toLowerCase();
+  suggestions.innerHTML = "";
+  if (!val) return;
+  Object.keys(data).forEach(drug => {
+    if (drug.toLowerCase().includes(val)) {
+      const div = document.createElement("div");
+      div.textContent = drug;
+      div.addEventListener("click", () => selectDrug(drug));
+      suggestions.appendChild(div);
+    }
+  });
+});
+
+function selectDrug(drug) {
+  input.value = drug;
+  suggestions.innerHTML = "";
+  const info = data[drug];
+  output.className = "output " + info.color;
+  output.innerHTML = `<div class="title">${drug}</div><div>${info.text}</div>`;
+  output.style.display = "block";
+}
+</script>
+
+</body>
+</html>
+
+
 
 
 <!DOCTYPE html>
