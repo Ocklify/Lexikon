@@ -1,12 +1,11 @@
-# Unterschied Long COVID vs. ME-CFS
-### 💬 KURZ
+# Unterschied Long COVID vs. ME-CFS  
 
-ME-CFS ist entweder ein Symptoms bei [[Anästhesie bei Long COVID|Long COVID]] oder Long COVID geht im Verlauf in ME-CFS über. 
+## 💬 Kurz
+- ME-CFS ist entweder ein Symptom bei [[Anästhesie bei Long COVID|Long COVID]] oder Long COVID geht im Verlauf in ME-CFS über.  
 
 ---
 
-### 📊 Vergleich: Long Covid vs. ME/CFS
-
+## 📊 Vergleich: Long Covid vs. ME/CFS
 | Merkmal               | Long Covid                                                                                       | ME/CFS                                                                                                              |
 | --------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | **Definition**        | Beschwerden > 4 Wochen nach SARS‑CoV‑2‑Infektion (WHO: Long Covid 4–12 Wo., Post‑Covid > 12 Wo.) | Chronische Erkrankung mit Leitsymptom **Postexertionelle Malaise (PEM)**, Dauer > 6 Monate, unabhängig vom Auslöser |
@@ -17,26 +16,39 @@ ME-CFS ist entweder ein Symptoms bei [[Anästhesie bei Long COVID|Long COVID]] o
 
 ---
 
-### 📑 Abkürzungen:
+<details>
+  <summary>📑 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>CRP</td><td>C‑reaktives Protein</td></tr>
+      <tr><td>EKG</td><td>Elektrokardiogramm</td></tr>
+      <tr><td>LZ‑EKG</td><td>Langzeit‑Elektrokardiogramm</td></tr>
+      <tr><td><a href="MCAS">MCAS</a></td><td>Mastzellaktivierungssyndrom</td></tr>
+      <tr><td>ME‑CFS</td><td>Myalgische Enzephalomyelitis / Chronisches Fatigue‑Syndrom</td></tr>
+      <tr><td>PEM</td><td><a href="Postexertionelle%20Malaise.md">Postexertionelle Malaise</a></td></tr>
+      <tr><td><a href="POTS">POTS</a></td><td>Posturales Orthostatisches Tachykardie‑Syndrom</td></tr>
+      <tr><td>SpO₂</td><td>Periphere Sauerstoffsättigung</td></tr>
+      <tr><td>WHO</td><td>Weltgesundheitsorganisation</td></tr>
+    </tbody>
+  </table>
+</details>  
 
-| Abkürzung | Bedeutung                                                  |
-| --------- | ---------------------------------------------------------- |
-| CRP       | C‑reaktives Protein                                        |
-| EKG       | Elektrokardiogramm                                         |
-| LZ‑EKG    | Langzeit‑Elektrokardiogramm                                |
-| [[MCAS]]  | Mastzellaktivierungssyndrom                                |
-| ME‑CFS    | Myalgische Enzephalomyelitis / Chronisches Fatigue‑Syndrom |
-| PEM       | [Postexertionelle Malaise](Postexertionelle%20Malaise.md)  |
-| [[POTS]]  | Posturales Orthostatisches Tachykardie‑Syndrom             |
-| SpO₂      | periphere Sauerstoffsättigung                              |
-| WHO       | Weltgesundheitsorganisation                                |
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li><a href="https://www.mecfs.de/longcovid/">Deutsche Gesellschaft für ME/CFS – Was ist Long COVID?</a>, aufgerufen am 19.09.2025</li>  
+    <li><a href="https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/COVID-19-Post-COVID-Syndrom/0-post-covid-syndrom-liste.html">Deutsche Rentenversicherung – Post‑COVID‑Syndrom und ME/CFS</a>, aufgerufen am 19.09.2025</li>  
+    <li><a href="https://www.long-covid-plattform.de/me-cfs">Long Covid Plattform – ME/CFS</a>, aufgerufen am 19.09.2025</li>  
+  </ul>
+</details>  
 
----
-### 📚 Quellen:
-1. [Deutsche Gesellschaft für ME/CFS – Was ist Long COVID?](https://www.mecfs.de/longcovid/), aufgerufen am 19.09.2025  
-2. [Deutsche Rentenversicherung – Post‑COVID‑Syndrom und ME/CFS](https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/COVID-19-Post-COVID-Syndrom/0-post-covid-syndrom-liste.html), aufgerufen am 19.09.2025  
-3. [Long Covid Plattform – ME/CFS](https://www.long-covid-plattform.de/me-cfs), aufgerufen am 19.09.2025  
-
----
-### 🏷️ Tags:
-#LongCOVID #ME_CFS #Vergleich #COVID #PostCOVID #POTS #MCAS #PEM #MedizinLexikon 
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#LongCOVID #ME_CFS #Vergleich #COVID #PostCOVID #POTS #MCAS #PEM #MedizinLexikon</p>
+</details>

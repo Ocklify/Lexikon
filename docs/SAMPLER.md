@@ -1,6 +1,6 @@
 # SAMPLER
 
-# 🩺 Strukturierte Notfallanamnese
+## 🩺 Strukturierte Notfallanamnese
 
 🟥 Rot: potenziell medikamentenrelevant oder lebensbedrohlich  
 🟧 Orange: wichtig für Diagnostik und Verlauf  
@@ -55,27 +55,37 @@
 
 ---
 
-### 💬 [OPQRST](Schmerzfrageschema.md)
+## 💬 [OPQRST](Schmerzfrageschema.md)
 
 - Schema zur Erfassung von Schmerzen
 - wird meist unter „S - Symptoms“ verwendet
 
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Kürzel</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>OPQRST</td><td>Schmerzschema: Onset, Provocation, Quality, Radiation, Severity, Time</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li><a href="https://flexikon.doccheck.com/de/SAMPLE-Schema">DocCheck Flexikon – SAMPLE-Schema</a></li>
+    <li><a href="https://app.sop-easy.de/algorithmen/sampler-schema">SOP-EASY – SAMPLER-Schema</a></li>
+    <li><a href="https://www.rescuelearn.de/wissen/samplers-schema/">Rescuelearn – SAMPLERS Schema</a></li>
+  </ul>
+</details>
 
-| Kürzel | Bedeutung                                                             |
-| ------ | --------------------------------------------------------------------- |
-| OPQRST | Schmerzschema: Onset, Provocation, Quality, Radiation, Severity, Time |
-
----
-
-### 📚 Quellen
-- [DocCheck Flexikon – SAMPLE-Schema](https://flexikon.doccheck.com/de/SAMPLE-Schema) [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://flexikon.doccheck.com/de/SAMPLE-Schema?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=258BEE6A-125C-4759-B554-C4E96DB2FF8E&citationTitle=DocCheck%20Fle...&citationFullTitle=DocCheck%20Flexikon&chatItemId=6Z5j5RGxDbCp9xhtXjHqx) 
-- [SOP-EASY – SAMPLER-Schema](https://app.sop-easy.de/algorithmen/sampler-schema) [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://app.sop-easy.de/algorithmen/sampler-schema?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=A21104F0-ADD0-426B-A4DA-FF4042842541&citationTitle=SOP-EASY&citationFullTitle=SOP-EASY&chatItemId=6Z5j5RGxDbCp9xhtXjHqx)  
-- Rescuelearn – SAMPLERS Schema [9F742443-6C92-4C44-BF58-8F5A7C53B6F1](https://www.rescuelearn.de/wissen/samplers-schema/?citationMarker=9F742443-6C92-4C44-BF58-8F5A7C53B6F1&citationId=F0F03CB4-0D73-4F99-9F7A-4FD72C5A7D3D&citationTitle=Rescuelearn&citationFullTitle=Rescuelearn&chatItemId=6Z5j5RGxDbCp9xhtXjHqx)
-
----
-
-### 🏷️ Tags
-#SAMPLER #Notfallanamnese #SAMPLE #Erstversorgung #OPQRST #Trauma #Rettungsdienst #Anamnese
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#SAMPLER #Notfallanamnese #SAMPLE #Erstversorgung #OPQRST #Trauma #Rettungsdienst #Anamnese</p>
+</details>

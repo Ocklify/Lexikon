@@ -2,7 +2,7 @@
 = Atemnot
 = subjektives Gefühl
 
-### 📊 EPIDEMIOLOGIE
+## 📊 EPIDEMIOLOGIE
 - 10–70 % der Tumorpatienten  
 - 60–100 % der Palliativpatienten  
 - Häufigstes Symptom in der terminalen Phase vieler Erkrankungen  
@@ -10,9 +10,9 @@
 
 ---
 
-### ❓ URSACHEN
+## ❓ URSACHEN
 
-##### 1. Herz ❤️
+#### 1. Herz ❤️
 → Merkhilfe: „[CHAMPIT](CHAMPIT.md)“
 - C oronarsyndrom (ACS)  
 - H ypertensiver Notfall  
@@ -22,10 +22,10 @@
 - I schämien anderer Genese
 - T akotsubo, Trauma oder toxisch
 
-##### 2. Lunge 🫁
+#### 2. Lunge 🫁
 - Pneumonie  
 - COPD  
-- [[Asthma Bronchiale ⚙️]]
+- [[Asthma Bronchiale]]
 - Lungenembolie  
 - Pneumothorax  
 - Pleuraerguss  
@@ -36,7 +36,7 @@
 - Massive Hämoptyse
 - COVID-19
 
-##### 3. Sonstige
+#### 3. Sonstige
 - Anämie 🩸  
 - CO-Vergiftung 💨  
 - Skelettdeformitäten 💀  
@@ -49,26 +49,26 @@
 
 ---
 
-### 🚑 KLINIK
+## 🚑 KLINIK
 
-##### 1. [[Asthma Bronchiale ⚙️]]
+#### 1. [[Asthma Bronchiale]]
 - Anfallsartige Atemnot  
 - Allergische Disposition  
 - Giemen, verlängerte Exspiration
 
-##### 2. COPD
+#### 2. COPD
 - Chronische Atemnot  
 - Raucheranamnese 🚬 
 - Giemen, verlängerte Exspiration  
 - Fassthorax
 
-##### 3. Herzinsuffizienz
+#### 3. Herzinsuffizienz
 - Belastungsdyspnoe  
 - Stauungszeichen (Halsvenenstauung, periphere Ödeme)  
 - dritter Herzton  
 - Basale Rasselgeräusche
 
-##### 4. KHK
+#### 4. KHK
 - Belastungsdyspnoe  
 - Angina-Pectoris Beschwerden  
 - Strömungsgeräusche  
@@ -76,24 +76,24 @@
 
 ---
 
-### 🩺 DIAGNOSTIK
-##### 1. Klinische Untersuchung 👀
+## 🩺 DIAGNOSTIK
+#### 1. Klinische Untersuchung 👀
 - Atemfrequenz
 - SpO₂
 - Auskultation
 - Hautkolorit
-##### 2. Labor 🧪
+#### 2. Labor 🧪
 - BB
 - BGA
 - Troponin
 - BNP/NT-proBNP
 - D-Dimere
 - CRP
-##### 3. EKG 〽️
-##### 4. Bildgebung 🩻
+#### 3. EKG 〽️
+#### 4. Bildgebung 🩻
 - Röntgen-Thorax
 - ggf. CT-Angiographie bei V. a. LAE
-##### 5. MRC-Dyspnoe-Skala 📄
+#### 5. MRC-Dyspnoe-Skala 📄
    1. Keine Dyspnoe  
    2. Beim Bergaufgehen  
    3. Bei längeren Gehstrecken  
@@ -102,16 +102,16 @@
 
 ---
 
-### 🏥 THERAPIE
+## 🏥 THERAPIE
 
-##### 1. Allgemein 💬
+#### 1. Allgemein 💬
 - Oberkörper hoch  
 - Sauerstoffgabe  
 	→ Ziel-SpO₂: 88–92 % bei **COPD**
 	→ sonst Ziel-SpO₂ > 94 %
 - Monitoring (SpO₂, EKG, RR)
 
-##### 2. Exazerbierte COPD 🫁
+#### 2. Exazerbierte COPD 🫁
 🚨B-Problem🚨
 - Oberkörper hoch  
 - O₂ vorsichtig titrieren (Atemantrieb 💡)  
@@ -123,28 +123,28 @@
 - Prednisolon 50–100 mg i.v.  
 - Morphin niedrig dosiert bei schwerer Dyspnoe (Off-Label, palliativ gut belegt)
 
-##### 3. Fremdkörper / Bolusgeschehen 🍽️
+#### 3. Fremdkörper / Bolusgeschehen 🍽️
 🚨A-Problem🚨
 - Sofortige Entfernung, ggf. Magill-Zange / Bronchoskopie  
 - Bei kompletter Obstruktion: Heimlich-Manöver / Notfallkoniotomie
 
-##### 4. Kardiale Dekompensation
+#### 4. Kardiale Dekompensation
 - Oberkörper hoch  
 - O₂  
 - Ggf. NIV  
 - Furosemid 20–40 mg i.v.  
 - Morphin 2–5 mg i.v. (Symptomlinderung)
 
-##### 5. Pleuraerguss
+#### 5. Pleuraerguss
 - Punktion / Drainage  
 - Bei malignem Erguss: Talkum-Pleurodese oder PleurX-Katheter
 
-##### 6. Trachealeinengung durch Tumor
+#### 6. Trachealeinengung durch Tumor
 - Stentimplantation  
 - Laser- oder Kryotherapie  
 - Regelmäßige Bronchoskopie zur Reinigung
 
-##### 7. Palliativpatienten
+#### 7. Palliativpatienten
 **Allgemein**💬
 - Aktivität fördern, Pausen einplanen  
 - Luftzug (Ventilator, Fenster)  
@@ -163,47 +163,63 @@
 - Sauerstoff nur bei Hypoxämie
 
 ---
+<details>
+<summary>🔤 Abkürzungen</summary>
 
-### 📋 ABKÜRZUNGEN
+<table>
+  <thead>
+    <tr>
+      <th>Kürzel</th>
+      <th>Bedeutung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>ACS</td><td>Akutes Koronarsyndrom</td></tr>
+    <tr><td>AP</td><td>Angina pectoris</td></tr>
+    <tr><td>BB</td><td>Blutbild</td></tr>
+    <tr><td>BGA</td><td>Blutgasanalyse</td></tr>
+    <tr><td>BNP</td><td>Brain Natriuretic Peptide</td></tr>
+    <tr><td>BSK</td><td>Bronchoskopie</td></tr>
+    <tr><td>CO</td><td>Kohlenmonoxid</td></tr>
+    <tr><td>COPD</td><td>Chronic Obstructive Pulmonary Disease</td></tr>
+    <tr><td>CRP</td><td>C-reaktives Protein</td></tr>
+    <tr><td>CT</td><td>Computertomografie</td></tr>
+    <tr><td>DGP</td><td>Deutsche Gesellschaft für Palliativmedizin</td></tr>
+    <tr><td>DIVI</td><td>Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin</td></tr>
+    <tr><td>EKG</td><td>Elektrokardiogramm</td></tr>
+    <tr><td>KHK</td><td>Koronare Herzkrankheit</td></tr>
+    <tr><td>LAE</td><td>Lungenembolie</td></tr>
+    <tr><td>NIV</td><td>Nicht-invasive Beatmung</td></tr>
+    <tr><td>NT-proBNP</td><td>N-terminales pro B-type Natriuretic Peptide</td></tr>
+    <tr><td>PE</td><td>Pleuraerguss</td></tr>
+    <tr><td>RR</td><td>Blutdruck</td></tr>
+    <tr><td>SpO₂</td><td>periphere Sauerstoffsättigung</td></tr>
+    <tr><td>VATS</td><td>Video-assistierte Thorakoskopie</td></tr>
+  </tbody>
+</table>
 
-| Kürzel    | Bedeutung                                                               |
-| --------- | ----------------------------------------------------------------------- |
-| ACS       | Akutes Koronarsyndrom                                                   |
-| AP        | Angina pectoris                                                         |
-| BB        | Blutbild                                                                |
-| BGA       | Blutgasanalyse                                                          |
-| BNP       | Brain Natriuretic Peptide                                               |
-| BSK       | Bronchoskopie                                                           |
-| CO        | Kohlenmonoxid                                                           |
-| COPD      | Chronic Obstructive Pulmonary Disease                                   |
-| CRP       | C-reaktives Protein                                                     |
-| CT        | Computertomografie                                                      |
-| DGP       | Deutsche Gesellschaft für Palliativmedizin                              |
-| DIVI      | Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin |
-| EKG       | Elektrokardiogramm                                                      |
-| KHK       | Koronare Herzkrankheit                                                  |
-| LAE       | Lungenembolie                                                           |
-| NIV       | Nicht-invasive Beatmung                                                 |
-| NT-proBNP | N-terminales pro B-type Natriuretic Peptide                             |
-| PE        | Pleuraerguss                                                            |
-| RR        | Blutdruck                                                               |
-| SpO₂      | periphere Sauerstoffsättigung                                           |
-| VATS      | Video-assistierte Thorakoskopie                                         |
+</details>
 
----
+<details>
+<summary>📚 Quellen</summary>
 
-### 📚 QUELLEN
-1. [https://www.cme-kurs.de/cdn2/pdf/Handout_Diagnose_bei_unklarer_Dyspnoe.pdf](https://www.cme-kurs.de/cdn2/pdf/Handout_Diagnose_bei_unklarer_Dyspnoe.pdf)
-2. Notarztkurs, 9.12.19
-3. Basiskurs Palliativmedizin, Merwe Carstens, 12.1.25
-4. Modul I Palliativmedizin, F. Krizanits, 15.2.25
-5. DGAI – Leitlinienregister: [https://www.dgai.de/mitglieder-publikationen/publikationen/leitlinien.html](https://www.dgai.de/mitglieder-publikationen/publikationen/leitlinien.html)  
-6. DIVI – Empfehlungen Intensiv- und Notfallmedizin: [https://www.divi.de/publikationen/alle-publikationen/empfehlungen/default](https://www.divi.de/publikationen/alle-publikationen/empfehlungen/default)  
-7. DGP – Leitlinie Atemnot in der letzten Lebensphase (S1): [https://www.dgpalliativmedizin.de/images/stories/pdf/Leitlinie_Atemnot_end.pdf](https://www.dgpalliativmedizin.de/images/stories/pdf/Leitlinie_Atemnot_end.pdf)  
-8. AWMF-Leitlinie 020/020 „Akute Dyspnoe“ (2024): [https://register.awmf.org/de/leitlinien/detail/020-020](https://register.awmf.org/de/leitlinien/detail/020-020)  
-9. Notarztkursmaterialien, aktualisiert 2025
+<ol>
+  <li><a href="https://www.cme-kurs.de/cdn2/pdf/Handout_Diagnose_bei_unklarer_Dyspnoe.pdf">https://www.cme-kurs.de/cdn2/pdf/Handout_Diagnose_bei_unklarer_Dyspnoe.pdf</a></li>
+  <li>Notarztkurs, 9.12.19</li>
+  <li>Basiskurs Palliativmedizin, Merwe Carstens, 12.1.25</li>
+  <li>Modul I Palliativmedizin, F. Krizanits, 15.2.25</li>
+  <li>DGAI – Leitlinienregister: <a href="https://www.dgai.de/mitglieder-publikationen/publikationen/leitlinien.html">https://www.dgai.de/mitglieder-publikationen/publikationen/leitlinien.html</a></li>
+  <li>DIVI – Empfehlungen Intensiv- und Notfallmedizin: <a href="https://www.divi.de/publikationen/alle-publikationen/empfehlungen/default">https://www.divi.de/publikationen/alle-publikationen/empfehlungen/default</a></li>
+  <li>DGP – Leitlinie Atemnot in der letzten Lebensphase (S1): <a href="https://www.dgpalliativmedizin.de/images/stories/pdf/Leitlinie_Atemnot_end.pdf">https://www.dgpalliativmedizin.de/images/stories/pdf/Leitlinie_Atemnot_end.pdf</a></li>
+  <li>AWMF-Leitlinie 020/020 „Akute Dyspnoe“ (2024): <a href="https://register.awmf.org/de/leitlinien/detail/020-020">https://register.awmf.org/de/leitlinien/detail/020-020</a></li>
+  <li>Notarztkursmaterialien, aktualisiert 2025</li>
+</ol>
 
----
+</details>
 
-### 🏷️ Tags: 
-#Notfall #Dyspnoe #Anästhesie #Palliativmedizin #Intensivmedizin #Notarztdienst #OP #ITS #Atemnot #Akutmedizin 
+<details>
+<summary>🏷️ Tags</summary>
+
+#Notfall #Dyspnoe #Anästhesie #Palliativmedizin #Intensivmedizin #Notarztdienst #OP #ITS #Atemnot #Akutmedizin  
+
+</details>

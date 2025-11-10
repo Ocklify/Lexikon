@@ -2,23 +2,22 @@
 = Müdigkeit, Mattigkeit, Erschöpfung
 
 ---
-### 📊 EPIDEMIOLOGIE
+## 📊 EPIDEMIOLOGIE
 - ca. 70–90% bei Tumorerkrankten
 - ca. 30-60% bei [[Anästhesie bei Long COVID|Long COVID]]
 
 ---
-### ⚙️ PATHOGENESE 
-
-1. **Erschöpfungstheorie**  
+## ⚙️ PATHOGENESE 
+#### 1. Erschöpfungstheorie  
    → Folge des psychischen und physischen Stresses durch die lang anhaltende Belastung der Tumorerkrankung
 
-2. **Neurophysiologische Theorie**  
+#### 2. Neurophysiologische Theorie  
    → Durch Erkrankung und Therapie bedingte umfassende Schädigung der Muskelfasern, der neuromuskulären Übertragung und des Nervensystems auf allen Ebenen, insbesondere des Hypothalamus
 
-3. **Stoffwechseltheorie**  
+#### 3. Stoffwechseltheorie
    → Durch Tumorzellen oder Therapeutika produzierte Stoffe bewirken eine Veränderung des Fett- und Proteinstoffwechsels
 
-4. **Biophysiologisches Modell („Pipermodel“) – fasst 1–3 zusammen**  
+#### 4. Biophysiologisches Modell („Pipermodel“) – fasst 1–3 zusammen  
    - Ansammlung schädlicher Stoffwechselprodukte  
    - Änderungen im Energiestoffwechsel  
    - Die Grunderkrankung  
@@ -32,22 +31,23 @@
    - Individuelle Faktoren  
 
 ---
-### 🚑 KLINIK 
+## 🚑 KLINIK 
 - Schlafen ist nicht erholsam  
 - Schwäche, Kraftlosigkeit  
 - Hilflosigkeit, Reizbarkeit, Traurigkeit, Angst, Antriebslosigkeit  
 - Appetitlosigkeit  
 
 ---
-### 🩺 DIAGNOSTIK 
+## 🩺 DIAGNOSTIK 
 - z. B. MIDOS‑Symptomerhebungsbogen (Bild 1)
 	→ https://www.dgpalliativmedizin.de/images/Fragebogen_MIDOS2_2019.pdf
 
-![](MIDOS.jpeg)
+![MIDOS](img/MIDOS.jpeg){ width="200"}
+
 (Bild 1)
 
 ---
-### 🔀 DIFFERENTIALDIAGNOSEN
+## 🔀 DIFFERENTIALDIAGNOSEN
 - Anorexie‑/Kachexie‑Syndrom  
 - Depression  
 - Nebenwirkungen von Medikamenten  
@@ -57,11 +57,11 @@
 - Schlafstörungen  
 
 ---
-### 🏥 THERAPIE 
+## 🏥 THERAPIE 
 → multimodales Therapiekonzept  
 → vor allem nicht‑medikamentöse Maßnahmen
 
-##### 1. Allgemein 💬
+#### 1. Allgemein 💬
 - regelmäßige körperliche Aktivität / Physiotherapie  
 - gezieltes körperliches Widerstandstraining  
 - psychosoziale Therapie / Interventionen  
@@ -77,12 +77,12 @@
 	- Sozialdienst des Krankenhauses  
 	- Selbsthilfegruppen  
 
-##### 2. Ursachenspezifisch 🎯 
+#### 2. Ursachenspezifisch 🎯 
 - Anämie ausgleichen  
 - Elektrolytverschiebungen ausgleichen  
 - Begleiterkrankungen behandeln  
 
-##### 3. Medikamente 💊
+#### 3. Medikamente 💊
 **Stimulanzien:**  
 - Methylphenidat („Ritalin“): 
 	- 5–30 mg/Tag  
@@ -102,21 +102,42 @@
 - möglichst Präparate mit kurzer Wirkdauer  
 
 ---
-### 🔤 Abkürzungen:
+<details>
+<summary>🔤 Abkürzungen</summary>
 
-| Abkürzung | Bedeutung                                                                    |
-| --------- | ---------------------------------------------------------------------------- |
-| BGA       | Blutgasanalyse                                                               |
-| CAVE      | (lat. „Vorsicht!“) – Hinweis auf besondere Gefahren oder wichtige Merkpunkte |
-| mg        | Milligramm                                                                   |
-| MIDOS     | Minimal Documentation System – Fragebogen zur Symptomerhebung                |
+<table>
+  <thead>
+    <tr>
+      <th>Abkürzung</th>
+      <th>Bedeutung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>BGA</td><td>Blutgasanalyse</td></tr>
+    <tr><td>CAVE</td><td>(lat. „Vorsicht!“) – Hinweis auf besondere Gefahren oder wichtige Merkpunkte</td></tr>
+    <tr><td>mg</td><td>Milligramm</td></tr>
+    <tr><td>MIDOS</td><td>Minimal Documentation System – Fragebogen zur Symptomerhebung</td></tr>
+  </tbody>
+</table>
 
----
-### 📚 Quellen: 
-1. Basiskurs Palliativmedizin, S. Preuss, 26.01.2025  
-2. Modul I Palliativmedizin, F. Krizanits, 14.02.2025
-3. https://deutsche-fatigue-gesellschaft.de/service/infomaterial, aufgerufen am 22.09.25
+</details>
 
----
-### 🏷️ Tags:
-#Fatigue #Palliativmedizin #Depression #COVID #LongCovid 
+<details>
+<summary>📚 Quellen</summary>
+
+<ol>
+  <li>Preuss S. Basiskurs Palliativmedizin. Seminarunterlagen. 26. Januar 2025.</li>
+  <li>Krizanits F. Modul I Palliativmedizin. Seminarunterlagen. 14. Februar 2025.</li>
+  <li>Deutsche Fatigue Gesellschaft. Informationsmaterial zu Fatigue und MIDOS.  
+    <a href="https://deutsche-fatigue-gesellschaft.de/service/infomaterial">https://deutsche-fatigue-gesellschaft.de/service/infomaterial</a> (Zugriff am 22.09.2025)
+  </li>
+</ol>
+
+</details>
+
+<details>
+<summary>🏷️ Tags</summary>
+
+#Fatigue #Palliativmedizin #Depression #COVID #LongCovid  
+
+</details>

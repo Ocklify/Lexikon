@@ -1,74 +1,78 @@
-# Tiffenau Index
-### 📖 DEFINITION
+# Tiffeneau-Index  
 
-Der Tiffeneau-Index ist das Verhältnis von
-$$\text{FEV}_1 / \text{FVC}$$
-FEV₁  = forciertes exspiratorisches Volumen 
-FVC = Forcierte Vitalkapazität
+## 📖 Definition
+Der Tiffeneau-Index ist das Verhältnis von  
+$$\text{FEV}_1 / \text{FVC}$$  
+FEV₁ = forciertes exspiratorisches Volumen  
+FVC = forcierte Vitalkapazität  
 
-Der Index dient der Beurteilung des Strömungswiderstands der Atemwege und wird im Rahmen der Spirometrie gemessen.
-
----
-### 🫁 Durchführung (Spirometrie)
-
-1. Maximale Inspiration
-2. Schnellstmögliche, vollständige Exspiration in ein Spirometer
-3. Messung von:
-	- FEV₁: Luftvolumen, das in der ersten Sekunde ausgeatmet wird
-	- FVC: Gesamtvolumen der forcierten Ausatmung
-
-4. Berechnung:
-$$\text{Tiffeneau-Index} = \frac{\text{FEV}_1}{\text{FVC}} \times 100%
-$$
-![[Lungenvolumina.jpeg]]
-(Bild 1)
+Der Index dient der Beurteilung des Strömungswiderstands der Atemwege und wird im Rahmen der Spirometrie gemessen.  
 
 ---
+## 🫁 Durchführung (Spirometrie)
+1. Maximale Inspiration  
+2. Schnellstmögliche, vollständige Exspiration in ein Spirometer  
+3. Messung von:  
+	- FEV₁: Luftvolumen, das in der ersten Sekunde ausgeatmet wird  
+	- FVC: Gesamtvolumen der forcierten Ausatmung  
+4. Berechnung:  
+$$\text{Tiffeneau-Index} = \frac{\text{FEV}_1}{\text{FVC}} \times 100\%$$  
 
-### 📊 Normwerte
+![Lungenvolumina](img/Lungenvolumina.jpeg){ width="200"}  
 
-- Gesunde Erwachsene: ca. ≥ 70 % (nach GOLD-Kriterien)
-- Altersabhängig: Bei Jüngeren oft höher, bei Älteren physiologisch niedriger
-- LLN (Lower Limit of Normal) beachten, um Fehldiagnosen zu vermeiden
+(Bild 1)  
 
 ---
+## 📊 Normwerte
+- Gesunde Erwachsene: ca. ≥ 70 % (nach GOLD-Kriterien)  
+- Altersabhängig: Bei Jüngeren oft höher, bei Älteren physiologisch niedriger  
+- LLN (Lower Limit of Normal) beachten, um Fehldiagnosen zu vermeiden  
 
-### 🚑  Klinische Bedeutung
-
+---
+## 🚑 Klinische Bedeutung
 | Befund                     | Typische Interpretation                                                 |
 | -------------------------- | ----------------------------------------------------------------------- |
-| ↓ Tiffeneau-Index (< 70 %) | **Obstruktive Ventilationsstörung** (z. B. COPD, [[Asthma Bronchiale ⚙️]]) |
+| ↓ Tiffeneau-Index (< 70 %) | **Obstruktive Ventilationsstörung** (z. B. COPD, [[Asthma Bronchiale]]) |
 | Normaler Index + ↓ FVC     | **Restriktive Ventilationsstörung** (z. B. Lungenfibrose)               |
-![[Obstruktion vs. Restriktion.jpeg]]
-(Bild 2)
+
+![ObstruktionVsRestrikion](img/ObstruktionVsRestriktion.jpeg){ width="200"}  
+
+(Bild 2)  
 
 ---
 
-### 🔤 Abkürzungen:
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>COPD</td><td>Chronic Obstructive Pulmonary Disease (chronisch obstruktive Lungenerkrankung)</td></tr>
+      <tr><td>FEV₁</td><td>Forciertes exspiratorisches Volumen in 1 Sekunde</td></tr>
+      <tr><td>FVC</td><td>Forcierte Vitalkapazität</td></tr>
+      <tr><td>GOLD</td><td>Global Initiative for Chronic Obstructive Lung Disease</td></tr>
+      <tr><td>LLN</td><td>Lower Limit of Normal (untere Normgrenze)</td></tr>
+    </tbody>
+  </table>
+</details>  
 
-| Abkürzung | Bedeutung                                                                 |
-|-----------|----------------------------------------------------------------------------|
-| COPD      | Chronic Obstructive Pulmonary Disease (chronisch obstruktive Lungenerkrankung) |
-| FEV₁      | Forciertes exspiratorisches Volumen in 1 Sekunde                          |
-| FVC       | Forcierte Vitalkapazität                                                  |
-| GOLD      | Global Initiative for Chronic Obstructive Lung Disease                    |
-| LLN       | Lower Limit of Normal (untere Normgrenze)                                 |
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li><a href="https://flexikon.doccheck.com/de/Tiffeneau-Test">DocCheck Flexikon – Tiffeneau-Test</a>  
+    Ausführliche Definition, Durchführung, Auswertung und diagnostische Bedeutung des Tiffeneau-Index.</li>
+    <li><a href="http://lungenfunktion.eu/grundlagen/spirometrie-quantitativ.htm">lungenfunktion.eu – Spirometrie quantitativ</a>  
+    Grundlagen der Spirometrie mit Messparametern, Normwerten und Interpretation bei obstruktiven und restriktiven Ventilationsstörungen.</li>
+    <li><a href="https://www.altmeyers.org/de/innere-medizin/atemstosstest-nach-tiffeneau-110904">Altmeyers Enzyklopädie – Atemstoßtest nach Tiffeneau</a>  
+    Medizinische Fachbeschreibung, Normbereiche und klinische Relevanz des Tiffeneau-Index.</li>
+  </ul>
+</details>  
 
----
-
-### 📚 Quellen:
-
-1. DocCheck Flexikon – Tiffeneau-Test
-Ausführliche Definition, Durchführung, Auswertung und diagnostische Bedeutung des Tiffeneau-Index.
-https://flexikon.doccheck.com/de/Tiffeneau-Test
-2. lungenfunktion.eu – Spirometrie quantitativ
-Grundlagen der Spirometrie mit Messparametern, Normwerten und Interpretation bei obstruktiven und restriktiven Ventilationsstörungen.
-http://lungenfunktion.eu/grundlagen/spirometrie-quantitativ.htm
-3. Altmeyers Enzyklopädie – Atemstoßtest nach Tiffeneau
-Medizinische Fachbeschreibung, Normbereiche und klinische Relevanz des Tiffeneau-Index.
-https://www.altmeyers.org/de/innere-medizin/atemstosstest-nach-tiffeneau-110904
-
----
-
-### 🏷️ Tags: 
-#Pneumologie #Lungenfunktion #Spirometrie #TiffeneauIndex #MedizinBasics 
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#Pneumologie #Lungenfunktion #Spirometrie #TiffeneauIndex #MedizinBasics</p>
+</details>

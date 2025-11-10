@@ -1,15 +1,15 @@
 # Kalium
 
-### 🔎 NORMWERTE
+## 🔎 NORMWERTE
 - Serum: **3,5–5,3 mmol/l**  
 - Täglicher Bedarf: **1–2 mmol/kg**  
 	  ➔ entspricht ca. 100 mmol bzw. 4 g pro Tag  
 
 ---
 
-### ❓ URSACHEN
+## ❓ URSACHEN
 
-##### 1. Hypokaliämie
+#### 1. Hypokaliämie
 - **Verlust**  
 	- Hyperaldosteronismus / -cortisolismus
 	- Medikamente: 
@@ -21,7 +21,7 @@
 	- Insulin
 	- Beta-Agonisten (z. B. Salbutamol)  
 
-##### 2. Hyperkaliämie
+#### 2. Hyperkaliämie
 - **Überschuss**
 	- Niereninsuffizienz
 	- Hypoaldosteronismus / -cortisolismus
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚙️ PATHOPHYSIOLOGIE
+## ⚙️ PATHOPHYSIOLOGIE
 - K⁺ ist überwiegend intrazellulär.
 - Hypokaliämie: 
 	→ Membranpotential ↑ 
@@ -47,9 +47,9 @@
 
 ---
 
-### 🚑 KLINIK
+## 🚑 KLINIK
 
-##### 1. Hypokaliämie
+#### 1. Hypokaliämie
 - tachykarde Herzrhythmusstörungen
 	→ z. B. VES, SVES, VHF  
 - Muskelschwäche
@@ -57,7 +57,7 @@
 - Obstipation  
 - Polyurie ([ADH](ADH.md)-Resistenz 💡)
 
-##### 2. Hyperkaliämie
+#### 2. Hyperkaliämie
 - bradykarde Herzrhythmusstörungen
 	→ z. B. AV-Block
 - Muskelzucken, gesteigerte Reflexe  
@@ -65,18 +65,20 @@
 
 ---
 
-### 🩺 DIAGNOSTIK
+## 🩺 DIAGNOSTIK
 
-##### 1. Labor 🧪 
+#### 1. Labor 🧪 
 - Serumkalium  
 - BGA: pH-Bestimmung
 	- Azidose → Hyperkaliämie
 	- Alkalose → Hypokaliämie
 
-##### 2. EKG 〽️
+#### 2. EKG 〽️
 
-![](Kalium%20EKG.jpeg)
+![KaliumEKG](img/KaliumEKG.jpeg){ width="200"}
+
 (Bild 1)
+
 - **Hypokaliämie**: 
 	- T-Abflachung 
 		→ „no pot no tea“
@@ -92,9 +94,9 @@
 
 ---
 
-### 🏥 THERAPIE
+## 🏥 THERAPIE
 
-##### 1. Hypokaliämie
+#### 1. Hypokaliämie
 - Langsame Substitution
 	- Rekawan (8 mmol, Tablette)
 	- Kalinor Brause (40 mmol, Brausetablette)
@@ -105,7 +107,7 @@
 			→ max. 20–40 mmol/h 
 - Immer pH & Elektrolyte (inkl. Mg²⁺) kontrollieren  
 
-##### 2. Hyperkaliämie
+#### 2. Hyperkaliämie
 
 | Medi                  | Dosis               | WE      | WD       |
 | --------------------- | ------------------- | ------- | -------- |
@@ -121,7 +123,8 @@
 - Calcium **nicht** mit NaBiC kombinieren!  
 - Resonium: GI-Nebenwirkungen, zeitversetzte Einnahme anderer Medikamente beachten 
 
-![](Hyperkaliämie%20Therapie.jpeg)
+![HyperkaliämieTherapie](img/HyperkaliaemieTherapie.jpeg){width="200"}
+
 (Bild 2)
 
 **Kalium shiften**
@@ -148,49 +151,60 @@
 
 ---
  
-### ❌ KOMPLIKATIONEN
-##### 1. Hypokaliämie
+## ❌ KOMPLIKATIONEN
+#### 1. Hypokaliämie
 - verstärkte Digitaliswirkung  
 	→ K und Digitalis konkurrieren an der Na⁺/K⁺-ATPase
 	→ weniger K → stärkere Digitaliswirkung  
-##### 2. Hyperkaliämie
+#### 2. Hyperkaliämie
 - lebensbedrohliche Rhythmusstörungen  
 	→ Kammerflimmern, Asystolie  
 
 ---
 
-### 🔤 Abkürzungen:
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="ADH.md">ADH</a></td><td>Antidiuretisches Hormon</td></tr>
+      <tr><td>AV-Block</td><td>Atrioventrikulärer Block</td></tr>
+      <tr><td>BGA</td><td>Blutgasanalyse</td></tr>
+      <tr><td>CaCl</td><td>Calciumchlorid</td></tr>
+      <tr><td>GI</td><td>Gastrointestinal</td></tr>
+      <tr><td>HRST</td><td>Herzrhythmusstörungen</td></tr>
+      <tr><td>IE</td><td>Internationale Einheiten</td></tr>
+      <tr><td>KI</td><td>Kontraindikation</td></tr>
+      <tr><td>MS</td><td>Magensonde</td></tr>
+      <tr><td>NaBiC</td><td>Natriumbicarbonat</td></tr>
+      <tr><td>NaCl</td><td>Natriumchlorid</td></tr>
+      <tr><td>VES</td><td>ventrikuläre Extrasystolen</td></tr>
+      <tr><td>VHF</td><td>Vorhofflimmern</td></tr>
+      <tr><td>SVES</td><td>supraventrikuläre Extrasystolen</td></tr>
+      <tr><td>WE</td><td>Wirkungseintritt</td></tr>
+      <tr><td>WD</td><td>Wirkdauer</td></tr>
+      <tr><td>ZVK</td><td>Zentraler Venenkatheter</td></tr>
+    </tbody>
+  </table>
+</details>
 
-| Abkürzung     | Bedeutung                       |
-| ------------- | ------------------------------- |
-| [ADH](ADH.md) | Antidiuretisches Hormon         |
-| AV-Block      | Atrioventrikulärer Block        |
-| BGA           | Blutgasanalyse                  |
-| CaCl          | calciumchlorid                  |
-| GI            | Gastrointestinal                |
-| HRST          | Herzrhythmusstörungen           |
-| IE            | Internationale Einheiten        |
-| KI            | Kontraindikation                |
-| MS            | Magensonde                      |
-| NaBiC         | Natriumbicarbonat               |
-| NaCl          | Natriumchlorid                  |
-| VES           | ventrikuläre Extrasystolen      |
-| VHF           | Vorhofflimmern                  |
-| SVES          | supraventrikuläre Extrasystolen |
-| WE            | Wirkungseintritt                |
-| WD            | Wirkdauer                       |
-| ZVK           | Zentraler Venenkatheter         |
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li>ITS Kurs 2018, KNN</li>
+    <li>„Hyperkaliämie Management - Update 2018“, cme-kurs.de, 4.7.2018</li>
+    <li>Miamed „Elektrolytstörungen Kalium“, 29.10.2018</li>
+    <li>Wikipedia „Hypokaliämie“, 29.10.2018</li>
+    <li>A&amp;I, 11/18</li>
+  </ul>
+</details>
 
----
-
-### 📚 Quellen: 
-1. ITS Kurs 2018, KNN  
-2. „Hyperkaliämie Management - Update 2018“, cme-kurs.de, 4.7.2018  
-3. miamed „Elektrolytstörungen Kalium“, 29.10.2018  
-4. Wikipedia „Hypokaliämie“, 29.10.2018  
-5. A&I, 11/18  
-
----
-
-### 🏷️ Tags:
-#Elektrolytstörungen #Hypokaliämie #Hyperkaliämie #Kalium 
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#Elektrolytstörungen #Hypokaliämie #Hyperkaliämie #Kalium</p>
+</details>

@@ -1,7 +1,7 @@
 # Fibrinogen
 = Gerinnungsfaktor I
 
-### 🔎 NORMWERTE
+## 🔎 NORMWERTE
 - **200–400 mg/dl** (≈ 2–4 g/l)  
 - **Kritisch:** <150 mg/dl oder <7 mm im FIBTEM  
 - **Wichtig:** 
@@ -11,14 +11,14 @@
 
 ---
 
-### 💊 DOSIERUNG
+## 💊 DOSIERUNG
 - **25–50 mg/kg** (≈ 2–6 g)  
 - **1 g i.v.** erhöht Fibrinogen um ca. **25–30 mg/dl**  
 - **Zielwert:** ≥150–200 mg/dl (bei schwerer Blutung ggf. höher)  
 
 ---
 
-### 📌 KLINISCHE HINWEISE
+## 📌 KLINISCHE HINWEISE
 - **Funktion:** 
 	- Vorstufe von Fibrin
 	- essenziell für Gerinnselstabilität  
@@ -34,31 +34,54 @@
 	- ROTEM/TEG (FIBTEM)
 	- Labor-Fibrinogen (Clauss-Methode)  
 
-![Gerinnung](img/Gerinnung1.jpeg)
+![Gerinnung](img/Gerinnung1.jpeg){ width="200"}
+
 (Bild 1)
 
 ---
+<details>
+<summary>🔤 Abkürzungen</summary>
 
-### 🔤 Abkürzungen:
+<table>
+  <thead>
+    <tr>
+      <th>Abkürzung</th>
+      <th>Bedeutung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>DIC</td><td>Disseminierte intravasale Koagulopathie</td></tr>
+    <tr><td>i.v.</td><td>intravenös</td></tr>
+    <tr><td>mg/dl</td><td>Milligramm pro Deziliter</td></tr>
+    <tr><td>mg/kg</td><td>Milligramm pro Kilogramm Körpergewicht</td></tr>
+    <tr><td>ROTEM</td><td>Rotationsthromboelastometrie</td></tr>
+    <tr><td>TEG</td><td>Thromboelastographie</td></tr>
+    <tr><td>FIBTEM</td><td>Fibrinogen-spezifischer ROTEM-Test</td></tr>
+  </tbody>
+</table>
 
-| Abkürzung | Bedeutung                                      |
-|-----------|------------------------------------------------|
-| DIC       | Disseminierte intravasale Koagulopathie        |
-| i.v.      | intravenös                                     |
-| mg/dl     | Milligramm pro Deziliter                       |
-| mg/kg     | Milligramm pro Kilogramm Körpergewicht         |
-| ROTEM     | Rotationsthromboelastometrie                   |
-| TEG       | Thromboelastographie                           |
-| FIBTEM    | Fibrinogen-spezifischer ROTEM-Test             |
+</details>
 
----
+<details>
+<summary>📚 Quellen</summary>
 
-### 📚 Quellen:
-1. Laborlexikon – Fibrinogen: [http://www.laborlexikon.de/Lexikon/Infoframe/f/Fibrinogen.htm](http://www.laborlexikon.de/Lexikon/Infoframe/f/Fibrinogen.htm)
-2. Anästhesiologie & Intensivmedizin 03/2018  
-3. Patient Blood Management, Uni Frankfurt, 15.09.2018  
+<ol>
+  <li>Laborlexikon. Fibrinogen – Laborwerte und Interpretation.  
+    <a href="http://www.laborlexikon.de/Lexikon/Infoframe/f/Fibrinogen.htm">http://www.laborlexikon.de/Lexikon/Infoframe/f/Fibrinogen.htm</a>
+  </li>
+  <li>Redaktion. Gerinnungsdiagnostik mit ROTEM und TEG.  
+    <i>Anästhesiologie & Intensivmedizin</i>. Ausgabe 03/2018.
+  </li>
+  <li>Universitätsklinikum Frankfurt. Patient Blood Management – Fortbildungsmaterial.  
+    Seminarunterlagen vom 15. September 2018.
+  </li>
+</ol>
 
----
+</details>
 
-### 🏷️ Tags: 
-#Gerinnung #Fibrinogen #FFP #Notfallmedizin #Intensivmedizin #OP 
+<details>
+<summary>🏷️ Tags</summary>
+
+#Gerinnung #Fibrinogen #FFP #Notfallmedizin #Intensivmedizin #OP  
+
+</details>

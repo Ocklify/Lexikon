@@ -1,7 +1,8 @@
 # Remifentanil 
 = Ultiva ®
 
-### 🚨 CAVE / MERKE 💡
+---
+## 🚨 CAVE / MERKE 💡
 - selektiver Vollagonist am µ-Opioidrezeptor
 	→ ca. 200x stärker als Morphin
 - kurzer WE (1 min), kurze WD (<5 min)
@@ -13,7 +14,7 @@
 
 ---
 
-### 💊 DOSIERUNG
+## 💊 DOSIERUNG
 - initialer Bolus: 0,5–1  μg/kg über ≥30 s (optional)
 	→ 40–80 μg bei 80 kg 😉
 - Perfusor (OP): 0,1–0,3 μg/kg/min
@@ -27,7 +28,7 @@
 
 ---
 
-<h3>📌 INTERAKTIVER RECHNER</h3>
+<h2>📌 INTERAKTIVER RECHNER</h2>
 
 <label for="kg">Körpergewicht (kg):</label><br>
 <input type="number" id="kg" value="70" min="30" max="150" step="1"><br><br>
@@ -65,10 +66,10 @@ calculate();
 
 ---
 
-### 📌 PERFUSORLISTEN
+## 📌 PERFUSORLISTEN
 
-##### 💧 Ultiva® 1 mg / 50 ml NaCl (20 μg/ml) 
-##### 🕖 Eingriffe bis zu 1 Stunde  
+#### 💧 Ultiva® 1 mg / 50 ml NaCl (20 μg/ml) 
+#### 🕖 Eingriffe bis zu 1 Stunde  
 
 | Dosierung (μg/kg/min) | 50 kg | 60 kg | 70 kg | 80 kg | 90 kg | 100 kg |
 |------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
@@ -81,8 +82,8 @@ calculate();
 
 ---
 
-##### 💧 Ultiva® 2 mg / 50 ml NaCl (40 μg/ml)
-##### 🕖 Eingriffe von 1 bis 2 Stunden  
+#### 💧 Ultiva® 2 mg / 50 ml NaCl (40 μg/ml)
+#### 🕖 Eingriffe von 1 bis 2 Stunden  
 
 | Dosierung (μg/kg/min) | 50 kg | 60 kg | 70 kg | 80 kg | 90 kg | 100 kg |
 |------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
@@ -95,8 +96,8 @@ calculate();
 
 ---
 
-##### 💧 Ultiva® 5 mg / 50 ml NaCl (100 μg/ml)
-##### 🕖 längere Eingriffe    
+#### 💧 Ultiva® 5 mg / 50 ml NaCl (100 μg/ml)
+#### 🕖 längere Eingriffe    
 
 | Dosierung (μg/kg/min) | 50 kg | 60 kg | 70 kg | 80 kg | 90 kg | 100 kg |
 |------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
@@ -109,7 +110,7 @@ calculate();
 
 ---
 
-### ⚗️ PHARMAKOLOGIE
+## ⚗️ PHARMAKOLOGIE
 
 | Parameter                   | Wert                                      |
 | --------------------------- | ----------------------------------------- |
@@ -120,54 +121,65 @@ calculate();
 
 ---
 
-### 🚦 INDIKATIONEN
+## 🚦 INDIKATIONEN
 - intraoperative Analgesie (v.a. bei TIVA)  
 - Analgesie bei beatmeten Intensivpatienten ≥18 J
 - neurochirurgische Eingriffe mit engmaschiger Steuerung
 
 ---
 
-### ❌ KONTRAINDIKATIONEN
+## ❌ KONTRAINDIKATIONEN
 - bekannte Überempfindlichkeit  
 - nicht zur postoperativen Schmerztherapie geeignet
 
 ---
 
-### 🔄 WECHSELWIRKUNGEN
+## 🔄 WECHSELWIRKUNGEN
 - Wirkungsverstärkung durch Hypnotika, Benzodiazepine, Inhalationsanästhetika (z. B. [Propofol](Propofol.md), Isofluran)  
 - Dosisreduktion dieser Substanzen möglich
 
 ---
 
-### 🌀 NEBENWIRKUNGEN
+## 🌀 NEBENWIRKUNGEN
 - Atemdepression  
 - Bradykardie, Hypotonie  
 - Muskelrigidität bei Bolusgabe ⚠️
 - Übelkeit, Erbrechen
 
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Kürzel</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>DALI</td><td>Dosisanpassung bei Leberinsuffizienz</td></tr>
+      <tr><td>DANI</td><td>Dosisanpassung bei Niereninsuffizienz</td></tr>
+      <tr><td>TCI</td><td>Target Controlled Infusion</td></tr>
+      <tr><td>TIVA</td><td>Total Intravenöse Anästhesie</td></tr>
+      <tr><td>WE</td><td>Wirkungseintritt</td></tr>
+      <tr><td>WD</td><td>Wirkdauer</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li>Stanski et al. (1995): Pharmacokinetics and pharmacodynamics of remifentanil. <i>Anesthesiology</i>, 82(4), 899–915. <a href="https://pubmed.ncbi.nlm.nih.gov/7703930/">PubMed</a></li>
+    <li>Egan et al. (2004): Remifentanil vs. fentanyl: pharmacokinetics and clinical implications. <i>Drugs</i>, 64(8), 865–886. <a href="https://link.springer.com/article/10.2165/00003495-200464080-00003">SpringerLink</a></li>
+    <li>„Pharmakotherapie in der Anästhesie und Intensivmedizin", 2011</li>
+    <li>Der Anästhesist, 08/18</li>
+    <li>„Analgesie bei Traumapatienten in der Notfallmedizin", N+R, 06/19</li>
+    <li>Fachinfo Remifentanil, abgerufen am 14.10.2025: <a href="https://www.fachinfo.de/fi/pdf/013638">Link</a></li>
+  </ul>
+</details>
 
-| Kürzel | Bedeutung                             |
-| ------ | ------------------------------------- |
-| DALI   | Dosisanpassung bei Leberinsuffizienz  |
-| DANI   | Dosisanpassung bei Niereninsuffizienz |
-| TCI    | Target Controlled Infusion            |
-| TIVA   | Total Intravenöse Anästhesie          |
-| WE     | Wirkungseintritt                      |
-| WD     | Wirkdauer                             |
-
----
-
-### 📚 Quellen
-- Stanski et al. (1995): Pharmacokinetics and pharmacodynamics of remifentanil. *Anesthesiology*, 82(4), 899–915. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7703930/)  
-- Egan et al. (2004): Remifentanil vs. fentanyl: pharmacokinetics and clinical implications. *Drugs*, 64(8), 865–886. [SpringerLink](https://link.springer.com/article/10.2165/00003495-200464080-00003)  
-- „Pharmakotherapie in der Anästhesie und Intensivmedizin", 2011
-- ﻿﻿Der Anästhesist, 08/18
-- ﻿﻿„Analgesie bei Traumapatienten in der Notfallmedizin", N+R, 06/19
-- Fachinfo Remifentanil, abgerufen am 14.10.2025: https://www.fachinfo.de/fi/pdf/013638
-
----
-### 🏷️ Tags
-#Narkose  #Opioid  #Schmerztherapie  #TIVA #Anästhesie  #Intensivmedizin  #Pharmakologie #Perfusorschema  #Dosierung  #Wirkung  #Nebenwirkungen  
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#Narkose #Opioid #Schmerztherapie #TIVA #Anästhesie #Intensivmedizin #Pharmakologie #Perfusorschema #Dosierung #Wirkung #Nebenwirkungen</p>
+</details>

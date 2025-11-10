@@ -1,11 +1,12 @@
 # HAS-BLED Score
 
-- Der **HAS-BLED-Score** dient der **Abschätzung des Blutungsrisikos** bei Patienten mit Vorhofflimmern, die eine orale Antikoagulation erhalten sollen
+---
+## 💬 KURZ
+- Der **HAS-BLED-Score** dient der **Abschätzung des Blutungsrisikos** bei Patienten mit Vorhofflimmern, die eine orale Antikoagulation erhalten sollen  
 - Er ergänzt den [CHA₂DS₂-VASc Score](CHA₂DS₂-VASc%20Score.md)
 
 ---
-
-### 📊 SCORE
+## 📊 SCORE
 
 | Kürzel | Risikofaktor                                                                                                                         | Punkte |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------ |
@@ -16,13 +17,14 @@
 | L      | **Labile INR** – instabile Einstellung, TTR < 60 %                                                                                   | 1      |
 | E      | Elderly – Alter > 65 Jahre                                                                                                           | 1      |
 | D      | Drugs: [TAH](TAH.md), NSAR oder C2                                                                                                   | je 1   |
-⚠️ **Maximalwert:** 9 Punkte
-⚠️ Ein hoher Score ist **kein Grund, gegen Antikoagulation**, sondern ein **„Alarmzeichen“**, die Risikofaktoren zu beachten .
+
+⚠️ **Maximalwert:** 9 Punkte  
+⚠️ Ein hoher Score ist **kein Grund, gegen Antikoagulation**, sondern ein **„Alarmzeichen“**, die Risikofaktoren zu beachten.
 
 ---
+## 🧠 INTERPRETATION
 
-### 🧠 INTERPRETATION 
-##### 1. Kurz
+#### 1. Kurz
 <table>
   <thead>
     <tr>
@@ -31,19 +33,18 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color:#d0f0c0">
+    <tr style="background-color:rgba(208,240,192,0.3);">
       <td>0–2</td>
       <td>Geringes Blutungsrisiko</td>
     </tr>
-    <tr style="background-color:#ffb6c1">
+    <tr style="background-color:rgba(255,182,193,0.3);">
       <td>≥ 3</td>
       <td>Erhöhtes Blutungsrisiko</td>
     </tr>
   </tbody>
 </table>
 
-
-##### 2. Ausführlich 
+#### 2. Ausführlich
 <table>
   <thead>
     <tr>
@@ -54,43 +55,43 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color:#d0f0c0">
+    <tr style="background-color:rgba(208,240,192,0.3);">
       <td>0</td>
       <td>Niedrig</td>
       <td>≈ 1.1</td>
       <td>Standardrisiko, OAK unproblematisch</td>
     </tr>
-    <tr style="background-color:#fdfd96">
+    <tr style="background-color:rgba(253,253,150,0.3);">
       <td>1</td>
       <td>Moderat</td>
       <td>≈ 1.0</td>
       <td>OAK möglich, beeinflussbare Faktoren beachten</td>
     </tr>
-    <tr style="background-color:#fdfd96">
+    <tr style="background-color:rgba(253,253,150,0.3);">
       <td>2</td>
       <td>Moderat</td>
       <td>≈ 1.9</td>
       <td>OAK mit Vorsicht, Risikofaktoren optimieren</td>
     </tr>
-    <tr style="background-color:#ffb6c1">
+    <tr style="background-color:rgba(255,182,193,0.3);">
       <td>3</td>
       <td>Hoch</td>
       <td>≈ 3.7</td>
       <td>Engmaschige Kontrolle, striktes Risikomanagement</td>
     </tr>
-    <tr style="background-color:#ffb6c1">
+    <tr style="background-color:rgba(255,182,193,0.3);">
       <td>4</td>
       <td>Hoch</td>
       <td>≈ 8.7</td>
       <td>Nur bei klarer Indikation, sehr engmaschig überwachen</td>
     </tr>
-    <tr style="background-color:#ff9999">
+    <tr style="background-color:rgba(255,153,153,0.3);">
       <td>5</td>
       <td>Sehr hoch</td>
       <td>≈ 12.5</td>
       <td>Nur bei zwingender Indikation, Spezialistenkonsil</td>
     </tr>
-    <tr style="background-color:#ff9999">
+    <tr style="background-color:rgba(255,153,153,0.3);">
       <td>≥ 6</td>
       <td>Sehr hoch</td>
       <td>–</td>
@@ -99,33 +100,46 @@
   </tbody>
 </table>
 
-
 ---
+<details>
+<summary>🔤 Abkürzungen</summary>
 
-## 🔤 Abkürzungen
+<table>
+  <thead>
+    <tr>
+      <th>Kürzel</th>
+      <th>Bedeutung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>ALT</td><td>Alanin-Aminotransferase</td></tr>
+    <tr><td>AP</td><td>Alkalische Phosphatase</td></tr>
+    <tr><td>AST</td><td>Aspartat-Aminotransferase</td></tr>
+    <tr><td>C2</td><td>$\text{C}_2\text{H}_5\text{OH}$ = Alkohol</td></tr>
+    <tr><td>INR</td><td>International Normalized Ratio</td></tr>
+    <tr><td>NSAR</td><td>Nichtsteroidale Antirheumatika</td></tr>
+    <tr><td>RR</td><td>Blutdruck</td></tr>
+    <tr><td>TTR</td><td>Time in Therapeutic Range</td></tr>
+  </tbody>
+</table>
 
-| Kürzel | Bedeutung                                 |
-| ------ | ----------------------------------------- |
-| ALT    | Alanin-Aminotransferase                   |
-| AP     | Alkalische Phosphatase                    |
-| AST    | Aspartat-Aminotransferase                 |
-| C2     | $\text{C}_2\text{H}_5\text{OH}$ = Alkohol |
-| INR    | International Normalized Ratio            |
-| NSAR   | Nichtsteroidale Antirheumatika            |
-| RR     | Blutdruck                                 |
-| TTR    | Time in Therapeutic Range                 |
+</details>
 
----
+<details>
+<summary>📚 Quellen</summary>
 
-## 📚 Quellen
+<ol>
+  <li>Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJ, Lip GY. <i>A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey</i>. Chest. 2010;138(5):1093–1100.</li>
+  <li>Kirchhof P, et al. <i>2020 ESC Guidelines for the diagnosis and management of atrial fibrillation</i>. Eur Heart J. 2020;42(5):373–498.</li>
+  <li><a href="https://www.notfallguru.de/leitsymptome/tabellen-und-checklisten/akronyme">Notfallguru – Akronyme</a></li>
+  <li><a href="https://flexikon.doccheck.com/de/HAS-BLED-Score">DocCheck Flexikon – HAS-BLED-Score</a></li>
+</ol>
 
-- Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJ, Lip GY. *A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey*. Chest. 2010;138(5):1093–1100.  
-- Kirchhof P, et al. *2020 ESC Guidelines for the diagnosis and management of atrial fibrillation*. Eur Heart J. 2020;42(5):373–498.  
-- [Notfallguru – Akronyme](https://www.notfallguru.de/leitsymptome/tabellen-und-checklisten/akronyme)  
-- [DocCheck Flexikon – HAS-BLED-Score](https://flexikon.doccheck.com/de/HAS-BLED-Score)
+</details>
 
----
+<details>
+<summary>🏷️ Tags</summary>
 
-## 🏷️ Tags
+#HASBLED #Blutungsrisiko #Antikoagulation #Vorhofflimmern #ESC #Score #Notfallmedizin  
 
-#HASBLED #Blutungsrisiko #Antikoagulation #Vorhofflimmern #ESC #Score #Notfallmedizin
+</details>

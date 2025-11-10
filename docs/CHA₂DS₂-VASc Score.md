@@ -1,5 +1,7 @@
 # CHA₂DS₂-VASc Score
+---
 
+## 💬 KURZ
 - Der CHA₂DS₂-VASc Score dient der **Risikostratifizierung für Schlaganfälle** bei Patienten mit **Vorhofflimmern**
 - Weiterentwicklung des CHADS₂-Scores
 - wird in den aktuellen **ESC-Leitlinien** zur Entscheidung über eine orale Antikoagulation empfohlen
@@ -7,7 +9,7 @@
 
 ---
 
-### 📊 SCORE
+## 📊 SCORE
 
 | Kürzel | Risikofaktor                                          | Punkte |
 | ------ | ----------------------------------------------------- | ------ |
@@ -25,7 +27,7 @@
 	
 ---
 
-### 🧠 INTERPRETATION
+## 🧠 INTERPRETATION
 
 - **Therapieentscheidung**:  
 	  - Männer: Antikoagulation ab Score ≥ 2 empfohlen  
@@ -36,8 +38,8 @@
 <table>
   <thead>
     <tr>
-      <th>CHA₂DS₂‑VASc Punkte</th>
-      <th>Jährliches Schlaganfallrisiko*</th>
+      <th>Score</th>
+      <th>Jährliches Schlaganfallrisiko</th>
       <th>Interpretation</th>
     </tr>
   </thead>
@@ -95,28 +97,35 @@
   </tbody>
 </table>
 
-
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Kürzel</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>ESC</td><td>European Society of Cardiology</td></tr>
+      <tr><td>pAVK</td><td>periphere arterielle Verschlusskrankheit</td></tr>
+      <tr><td>TIA</td><td>Transitorisch ischämische Attacke</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li>Kirchhof P, et al. <i>2020 ESC Guidelines for the diagnosis and management of atrial fibrillation</i>. Eur Heart J. 2020;42(5):373–498.</li>
+    <li>Lip GYH, Nieuwlaat R, Pisters R, Lane DA, Crijns HJ. <i>Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Heart Survey on AF</i>. Chest. 2010;137(2):263–272.</li>
+    <li><a href="https://www.notfallguru.de/leitsymptome/tabellen-und-checklisten/akronyme">Notfallguru – Akronyme</a></li>
+    <li><a href="https://flexikon.doccheck.com/de/CHA2DS2-VASc-Score">DocCheck Flexikon – CHA₂DS₂-VASc-Score</a></li>
+  </ul>
+</details>
 
-| Kürzel | Bedeutung                          |
-|--------|-------------------------------------|
-| ESC    | European Society of Cardiology     |
-| pAVK   | periphere arterielle Verschlusskrankheit |
-| TIA    | Transitorisch ischämische Attacke  |
-
----
-
-### 📚 Quellen
-
-- Kirchhof P, et al. *2020 ESC Guidelines for the diagnosis and management of atrial fibrillation*. Eur Heart J. 2020;42(5):373–498.  
-- Lip GYH, Nieuwlaat R, Pisters R, Lane DA, Crijns HJ. *Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Heart Survey on AF*. Chest. 2010;137(2):263–272.  
-- [Notfallguru – Akronyme](https://www.notfallguru.de/leitsymptome/tabellen-und-checklisten/akronyme)  
-- [DocCheck Flexikon – CHA₂DS₂-VASc-Score](https://flexikon.doccheck.com/de/CHA2DS2-VASc-Score)
-
----
-
-### 🏷️ Tags
-
-#CHA2DS2VASc #Vorhofflimmern #Schlaganfallrisiko #Antikoagulation #ESC #Score #Notfallmedizin
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#CHA2DS2VASc #Vorhofflimmern #Schlaganfallrisiko #Antikoagulation #ESC #Score #Notfallmedizin</p>
+</details>

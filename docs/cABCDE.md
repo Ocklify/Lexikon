@@ -1,6 +1,7 @@
 # cABCDE
 
-# 🚑 cABCDE – Strukturierte Erstversorgung bei Notfällen
+## 🚑 cABCDE – Strukturierte Erstversorgung bei Notfällen
+---
 
 🟥 Rot: sofort lebensbedrohlich  
 🟧 Orange: kritisch, potenziell instabil  
@@ -51,7 +52,7 @@
 
 ---
 
-### 💬 Ergänzung: COMA-Merkschema
+## 💬 Ergänzung: COMA-Merkschema
 
 | Kürzel | Bedeutung             |
 |--------|-----------------------|
@@ -61,28 +62,36 @@
 | A      | Access (i.v./i.o.)    |
 
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Kürzel</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>BZ</td><td>Blutzucker</td></tr>
+      <tr><td>FAST</td><td>Focused Assessment with Sonography for Trauma</td></tr>
+      <tr><td>GCS</td><td>Glasgow Coma Scale</td></tr>
+      <tr><td>i.o.</td><td>intraossär</td></tr>
+      <tr><td>i.v.</td><td>intravenös</td></tr>
+      <tr><td>O₂</td><td>Sauerstoff</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li><a href="https://www.notfallguru.de/leitsymptome/allgemeines/kritisch">Notfallguru – Kritisch Kranke</a></li>
+    <li>Nolan JP et al. (2020). <i>Advanced Life Support</i>. European Resuscitation Council.</li>
+    <li>Greif R et al. (2021). <i>European Resuscitation Council Guidelines for Trauma Care</i>. <i>Resuscitation</i>.</li>
+  </ul>
+</details>
 
-| Kürzel | Bedeutung                          |
-|--------|-------------------------------------|
-| BZ     | Blutzucker                         |
-| FAST   | Focused Assessment with Sonography for Trauma |
-| GCS    | Glasgow Coma Scale                 |
-| i.o.   | intraossär                         |
-| i.v.   | intravenös                         |
-| O₂     | Sauerstoff                         |
-
----
-
-### 📚 Quellen
-
-- [Notfallguru – Kritisch Kranke](https://www.notfallguru.de/leitsymptome/allgemeines/kritisch)
-- Nolan JP et al. (2020). *Advanced Life Support*. European Resuscitation Council.
-- Greif R et al. (2021). *European Resuscitation Council Guidelines for Trauma Care*. _Resuscitation_.
-
----
-
-### 🏷️ Tags
-
-#cABCDE #Notfallmedizin #Erstversorgung #Trauma #KritischKranke #COMA #PrimarySurvey
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#cABCDE #Notfallmedizin #Erstversorgung #Trauma #KritischKranke #COMA #PrimarySurvey #Score</p>
+</details>

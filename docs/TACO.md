@@ -1,19 +1,18 @@
 # TACO
 
-### 💬 KURZ
+## 💬 KURZ
 - TACO ist eine transfusionsassoziierte **Volumenüberlastung** mit **akuter kardialer Dekompensation**. 
 - Sie tritt meist innerhalb von 12 Stunden nach Transfusion auf und ist eine der **häufigsten** transfusionsbedingten Komplikationen.
 
 ---
-
-### 🚨 CAVE / MERKE 💡
+## 🚨 CAVE / MERKE 💡
 - Häufige Verwechslung mit **[TRALI](TRALI.md)**
 - **Diuretika helfen bei TACO!
 	→ wichtiges Unterscheidungsmerkmal❗️
 - Eine der **häufigsten transfusionsassoziierten Todesursachen** (Bild 1)
 
 ---
-### 📊 EPIDEMIOLOGIE
+## 📊 EPIDEMIOLOGIE
 - Häufigste transfusionsassoziierte Komplikation in Industrienationen
 - deutlich häufiger als [TRALI](TRALI.md)
 - Inzidenz: 
@@ -23,19 +22,18 @@
 	→ Ältere Patienten und Kinder
 	→ Herz- oder Niereninsuffizienz
 
-![Transfusionsrisiken](img/Transfusionsrisiken.jpeg)
+![Transfusionsrisiken](img/Transfusionsrisiken.jpeg){ width="200"}
+
 (Bild 1)
 
 ---
-
-### ❓ URSACHEN
+## ❓ URSACHEN
 - Zu hohe Transfusionsgeschwindigkeit  
 - Zu großes Transfusionsvolumen  
 - Prädisposition bei Herz- oder Niereninsuffizienz  
 
 ---
-
-### ⚙️ PATHOPHYSIOLOGIE
+## ⚙️ PATHOPHYSIOLOGIE
 1. Akute Volumenüberlastung 
 2. Linksherzinsuffizienz
 	→ Anstieg des hydrostatischen Drucks in den Lungenkapillaren  
@@ -44,8 +42,7 @@
 	→ Stauungszeichen (Halsvenen, periphere Ödeme)  
 
 ---
-
-### 🚑 KLINIK
+## 🚑 KLINIK
 - **Beginn**: akut oder innerhalb von 12 h
 - **Respiratorisch** 🫁:
 	→ Dyspnoe, Husten, Zyanose, Lungenödem  
@@ -59,8 +56,7 @@
 	→ Unruhe  
 
 ---
-
-### 🩺 DIAGNOSTIK
+## 🩺 DIAGNOSTIK
 - **Pulmonal** 🫁:
 	→ SpO₂ <90% unter Raumluft
 	→ Rasselgeräusche  
@@ -73,11 +69,10 @@
 	→ Zeichen der Volumenüberlastung  
 
 ---
-
-### 🔀 DIFFERENTIALDIAGNOSEN
+## 🔀 DIFFERENTIALDIAGNOSEN
 - **[TRALI](TRALI.md)**: Hypotonie, Fieber, keine Besserung durch Diuretika
 
-| Merkmal            | [TACO](TACO.md)                                                                                             | TRALI                                                         |
+| Merkmal            | TACO                                                                                                        | TRALI                                                         |
 | ------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | **Kurz**           | Volumenüberladung, Hypertonie, kard. Dekompensation, Lungenödem, Stauungszeichen, proBNP↑, Diuretika helfen | Immunologisch, Fieber, Hypotonie, ARDS-ähnlich, ggf. Beatmung |
 | **Ursache**        | Volumenüberlastung, kardiale Dekompensation                                                                 | Immunologisch vermittelt (AK gegen Leukos)                    |
@@ -94,8 +89,7 @@
 - **Anaphylaxie**: Bronchospasmus, Hautsymptome, Hypotonie  
 
 ---
-
-### 🏥 THERAPIE
+## 🏥 THERAPIE
 - Transfusion sofort stoppen  
 - Oberkörperhochlagerung  
 - Sauerstoffgabe, ggf. nicht-invasive oder invasive Beatmung (lungenprotektiv)  
@@ -103,8 +97,7 @@
 - Intensivmedizinische Überwachung bei schweren Verläufen  
 
 ---
-
-### ⏰ VERLAUF
+## ⏰ VERLAUF
 - Meist **gute Prognose** bei rechtzeitiger Therapie  
 - Prävention:  
 	  - langsame Transfusionsgeschwindigkeit  
@@ -112,35 +105,44 @@
 	  - ggf. Diuretika-Prophylaxe bei Risikopatienten  
 
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>ARDS</td><td>Acute Respiratory Distress Syndrome</td></tr>
+      <tr><td>BGA</td><td>Blutgasanalyse</td></tr>
+      <tr><td>BNP</td><td>Brain Natriuretic Peptide</td></tr>
+      <tr><td>NT-proBNP</td><td>N-terminal pro Brain Natriuretic Peptide</td></tr>
+      <tr><td>O₂</td><td>Sauerstoff</td></tr>
+      <tr><td>RR</td><td>Blutdruck (Riva-Rocci)</td></tr>
+      <tr><td>SpO₂</td><td>Periphere Sauerstoffsättigung</td></tr>
+      <tr><td>TACO</td><td>Transfusion Associated Circulatory Overload</td></tr>
+      <tr><td><a href="TRALI.md">TRALI</a></td><td>Transfusion Related Acute Lung Injury</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen:
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li>Miamed. AMBOSS: Transfusionsmedizin – Transfusionsreaktionen. Berlin: Miamed GmbH; 2021.</li>
+    <li>Larsen R. <i>Repetitorium Anästhesiologie</i>. 8. Auflage. Springer Medizin Verlag; 2015. S. 115–118.</li>
+    <li>Lieberman L, Maskens C, Cserti-Gazdewich C, Hansen M, Lin Y, Pendergrast J, et al. <i>Transfusion-associated circulatory overload: risk factors, outcomes, and prevention</i>. Transfusion. 2014;54(1):34–43. doi:10.1111/trf.12238</li>
+    <li>Tobian AA, Kleinman S, Tirnauer JS. <i>Transfusion-associated circulatory overload (TACO)</i>. In: UpToDate [Internet]. Waltham, MA: Wolters Kluwer; 2025. <a href="https://www.uptodate.com/contents/transfusion-associated-circulatory-overload-taco">Link</a></li>
+    <li>Serious Hazards of Transfusion (SHOT). <i>TACO Cumulative Data</i>. Annual Reports 2012–2024. Birmingham, UK: SHOT; 2024. <a href="https://www.shotuk.org/resources/transfusion-associated-circulatory-overload-taco-cumulative-data-2/">Link</a></li>
+    <li>Fink B, Antwerpes F. <i>Transfusion-associated Circulatory Overload</i>. DocCheck Flexikon; 2023. <a href="https://flexikon.doccheck.com/de/Transfusion-associated_Circulatory_Overload">Link</a></li>
+    <li>Clifford L, Singh A, Wilson GA, Toy P, Gajic O, Murphy EL, et al. <i>EHR surveillance algorithms facilitate the detection of TACO</i>. Transfusion. 2013;53(6):1205–16. doi:10.1111/j.1537-2995.2012.03892.x</li>
+    <li>Li G, Rachmale S, Kojicic M, Shahjehan K, Malinchoc M, Kor DJ, et al. <i>Incidence and transfusion risk factors for TACO</i>. Transfusion. 2011;51(2):338–43. doi:10.1111/j.1537-2995.2010.02819.x</li>
+  </ul>
+</details>
 
-| Abkürzung                     | Bedeutung                                   |
-| ----------------------------- | ------------------------------------------- |
-| **ARDS**                      | Acute Respiratory Distress Syndrome         |
-| **BGA**                       | Blutgasanalyse                              |
-| **BNP**                       | Brain Natriuretic Peptide                   |
-| **NT-proBNP**                 | N-terminal pro Brain Natriuretic Peptide    |
-| **O₂**                        | Sauerstoff                                  |
-| **RR**                        | Blutdruck (Riva-Rocci)                      |
-| **SpO₂**                      | Periphere Sauerstoffsättigung               |
-| **TACO**                      | Transfusion Associated Circulatory Overload |
-| **[TRALI](TRALI.md)** | Transfusion Related Acute Lung Injury       |
-
----
-
-### 📚 Quellen:
-
-1. Miamed. AMBOSS: Transfusionsmedizin – Transfusionsreaktionen. Berlin: Miamed GmbH; 2021.  
-2. Larsen R. *Repetitorium Anästhesiologie*. 8. Auflage. Berlin, Heidelberg: Springer Medizin Verlag; 2015. S. 115–118.  
-3. Lieberman L, Maskens C, Cserti-Gazdewich C, Hansen M, Lin Y, Pendergrast J, et al. Transfusion-associated circulatory overload: risk factors, outcomes, and prevention. *Transfusion*. 2014;54(1):34–43. doi:10.1111/trf.12238  
-4. Tobian AA, Kleinman S, Tirnauer JS. Transfusion-associated circulatory overload (TACO). In: *UpToDate* [Internet]. Waltham, MA: Wolters Kluwer; 2025 [zitiert 2025 Sep 25]. Verfügbar unter: https://www.uptodate.com/contents/transfusion-associated-circulatory-overload-taco  
-5. Serious Hazards of Transfusion (SHOT). *Transfusion-Associated Circulatory Overload (TACO) Cumulative Data*. SHOT Annual Reports 2012–2024. Birmingham, UK: SHOT; 2024. Verfügbar unter: https://www.shotuk.org/resources/transfusion-associated-circulatory-overload-taco-cumulative-data-2/  
-6. Fink B, Antwerpes F. Transfusion-associated Circulatory Overload. In: *DocCheck Flexikon* [Internet]. Köln: DocCheck; 2023 [zitiert 2025 Sep 25]. Verfügbar unter: https://flexikon.doccheck.com/de/Transfusion-associated_Circulatory_Overload  
-7. Clifford L, Singh A, Wilson GA, Toy P, Gajic O, Murphy EL, et al. Electronic health record surveillance algorithms facilitate the detection of transfusion-associated circulatory overload. *Transfusion*. 2013;53(6):1205–16. doi:10.1111/j.1537-2995.2012.03892.x  
-8. Li G, Rachmale S, Kojicic M, Shahjehan K, Malinchoc M, Kor DJ, et al. Incidence and transfusion risk factors for transfusion-associated circulatory overload among medical intensive care unit patients. *Transfusion*. 2011;51(2):338–43. doi:10.1111/j.1537-2995.2010.02819.x  
-
----
-
-### 🏷️ Tags:
-#Bluttransfusion #PBM #TRALI #Diuretika #Hämotherapie #Transfusion #TACO #Komplikationen #Notfallmedizin 
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#Bluttransfusion #PBM #TRALI #Diuretika #Hämotherapie #Transfusion #TACO #Komplikationen #Notfallmedizin</p>
+</details>

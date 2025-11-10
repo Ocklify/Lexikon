@@ -70,37 +70,59 @@
 </div>
 
 ---
+<details>
+<summary>🔤 Abkürzungen</summary>
 
-### 🔤 Abkürzungen
+<table>
+  <thead>
+    <tr>
+      <th>Kürzel</th>
+      <th>Bedeutung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>ACE</td><td>Angiotensin-Converting-Enzyme</td></tr>
+    <tr><td>AT1</td><td>Angiotensin-II-Rezeptor Typ 1</td></tr>
+    <tr><td>CYP</td><td>Cytochrom-P450-Enzymfamilie</td></tr>
+    <tr><td>DOAK</td><td>Direkte orale Antikoagulanzien</td></tr>
+    <tr><td>ITS</td><td>Intensivstation</td></tr>
+    <tr><td>NSAR</td><td>Nichtsteroidale Antirheumatika</td></tr>
+    <tr><td>PPI</td><td>Protonenpumpenhemmer</td></tr>
+    <tr><td>QT</td><td>Zeitintervall im EKG</td></tr>
+    <tr><td>SSRI</td><td>Selektive Serotonin-Wiederaufnahmehemmer</td></tr>
+    <tr><td>TDM</td><td>Therapeutisches Drug Monitoring</td></tr>
+    <tr><td>TAH</td><td>Thrombozytenaggregationshemmer</td></tr>
+    <tr><td>WD</td><td>Wirkdauer</td></tr>
+  </tbody>
+</table>
 
-| Kürzel | Bedeutung                          |
-|--------|-------------------------------------|
-| ACE    | Angiotensin-Converting-Enzyme       |
-| AT1    | Angiotensin-II-Rezeptor Typ 1       |
-| CYP    | Cytochrom-P450-Enzymfamilie         |
-| DOAK   | Direkte orale Antikoagulanzien      |
-| ITS    | Intensivstation                     |
-| NSAR   | Nichtsteroidale Antirheumatika      |
-| PPI    | Protonenpumpenhemmer                |
-| QT     | Zeitintervall im EKG                |
-| SSRI   | Selektive Serotonin-Wiederaufnahmehemmer |
-| TDM    | Therapeutisches Drug Monitoring     |
-| TAH    | Thrombozytenaggregationshemmer      |
-| WD     | Wirkdauer                           |
+</details>
 
----
+<details>
+<summary>📚 Quellen</summary>
 
-### 📚 Quellen
-- [KBV: Top 30 Arzneimittel in Deutschland](http://gesundheitsdaten.kbv.de/cms/html/17053.php)  
-- [Health-Rise: Häufigste Medikamente in Deutschland](https://www.health-rise.de/blog/Diese-Medikamente-nehmen-die-Deutschen-am-haeufigsten-ein)  
-- [Gelbe Liste: CYP-450-Interaktionen](https://www.gelbe-liste.de/arzneimitteltherapiesicherheit/cyp-interaktionen)  
-- [Thieme: Arzneimittelinteraktionen in der Intensivmedizin](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-1153-2110.pdf)
+<ol>
+  <li>Kassenärztliche Bundesvereinigung (KBV). Top 30 Arzneimittel in Deutschland.  
+    <a href="http://gesundheitsdaten.kbv.de/cms/html/17053.php">http://gesundheitsdaten.kbv.de/cms/html/17053.php</a>
+  </li>
+  <li>Health-Rise Redaktion. Diese Medikamente nehmen die Deutschen am häufigsten ein.  
+    <i>Health-Rise Blog</i>.  
+    <a href="https://www.health-rise.de/blog/Diese-Medikamente-nehmen-die-Deutschen-am-haeufigsten-ein">https://www.health-rise.de/blog/Diese-Medikamente-nehmen-die-Deutschen-am-haeufigsten-ein</a>
+  </li>
+  <li>Gelbe Liste Pharmindex. CYP-450-Interaktionen – Übersicht und Bedeutung für die Arzneimitteltherapie.  
+    <a href="https://www.gelbe-liste.de/arzneimitteltherapiesicherheit/cyp-interaktionen">https://www.gelbe-liste.de/arzneimitteltherapiesicherheit/cyp-interaktionen</a>
+  </li>
+  <li>Thal SC, et al. Arzneimittelinteraktionen in der Intensivmedizin.  
+    <i>Notfall + Rettungsmedizin</i>. 2020;23(6):456–464.  
+    <a href="https://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-1153-2110.pdf">https://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-1153-2110.pdf</a>
+  </li>
+</ol>
 
----
+</details>
 
-### 🏷️ Tags
-#Intensivmedizin #Anästhesie #Eigenmedikation #Medikationsanamnese #Hausmedikation #Pharmakologie #Interaktionen #CYP #Delir #Organdysfunktion #TDM #Substitution #operativeITS 
+<details>
+<summary>🏷️ Tags</summary>
 
+#Intensivmedizin #Anästhesie #Eigenmedikation #Medikationsanamnese #Hausmedikation #Pharmakologie #Interaktionen #CYP #Delir #TDM  
 
----
-
+</details>

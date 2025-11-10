@@ -1,11 +1,12 @@
 # Antidota
-### 📞 GIFTNOTRUF
+---
+## 📞 GIFTNOTRUFE
 - Berlin: [030-19240](tel:030-19240)
 - München: [089-19240](tel:089-19240)
 
 ---
 
-### 📜 Liste
+## 📜 Liste
 
 | Giftstoff / Substanz                 | Antidot / Maßnahme                                                    | Dosierung / Hinweise                                                                                                                                                                                                                                                      |
 | ------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,52 +81,51 @@
 | Tollkirsche                          | ➔ siehe „Anticholinergika“                                            |                                                                                                                                                                                                                                                                           |
 | UFH                                  | ➔ siehe „Heparin“                                                     |                                                                                                                                                                                                                                                                           |
 | Zaleplon, Zolpidem, Zopiclon         | ➔ siehe „Benzodiazepine“                                              |                                                                                                                                                                                                                                                                           |
+|                                      |                                                                       |                                                                                                                                                                                                                                                                           |
 
 ---
-### 🔤 Abkürzungen:
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>ACC</td><td>Acetylcystein</td></tr>
+      <tr><td>DMPS</td><td>Dimercapto-Propansulfonsäure</td></tr>
+      <tr><td>INR</td><td>International Normalized Ratio</td></tr>
+      <tr><td>KI</td><td>Kurzinfusion</td></tr>
+      <tr><td>KOF</td><td>Körperoberfläche</td></tr>
+      <tr><td>Mg</td><td>Magnesium</td></tr>
+      <tr><td>NaBiC</td><td>Natriumhydrogencarbonat (NaHCO₃)</td></tr>
+      <tr><td>NMH</td><td>Niedermolekulares Heparin</td></tr>
+      <tr><td>UFH</td><td>Unfraktioniertes Heparin</td></tr>
+    </tbody>
+  </table>
+</details>
 
-| Abkürzung | Bedeutung                        |
-| --------- | -------------------------------- |
-| ACC       | Acetylcystein                    |
-| DMPS      | Dimercapto-Propansulfonsäure     |
-| INR       | International Normalized Ratio   |
-| KI        | Kurzinfusion                     |
-| KOF       | Körperoberfläche                 |
-| Mg        | Magnesium                        |
-| NaBiC     | Natriumhydrogencarbonat (NaHCO₃) |
-| NMH       | Niedermolekulares Heparin        |
-| UFH       | Unfraktioniertes Heparin         |
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li>Bayerische Landesärztekammer (Hrsg.). Drei Highlights aus der Toxikologie. <i>Bayerisches Ärzteblatt</i>, Ausgabe 03/2018, S. 142–146.</li>
+    <li>Notfallmedizin App. Algorithmen und Leitlinien für präklinische und klinische Notfallmedizin. Online-Ressource, laufend aktualisiert.</li>
+    <li>Rote Liste Service GmbH (Hrsg.). <i>Rote Liste – Arzneimittelverzeichnis für Deutschland</i>. Frankfurt am Main: Rote Liste Service GmbH, jährliche Aktualisierung.</li>
+    <li>Klinisches Notfallnetzwerk (KNN). Interdisziplinärer Intensivkurs – Modul Toxikologie. Kursunterlagen, 2018.</li>
+    <li>Klinisches Notfallnetzwerk Süd (KNS). Wöchentliche Fachinformation – Schwerpunkt Toxikologie. Kalenderwoche 22, internes Rundschreiben.</li>
+    <li>Hahn A., Müller D. <i>Vergiftungen und ihre Antidotbehandlung</i>. 4., überarbeitete Auflage. Stuttgart: Wissenschaftliche Verlagsgesellschaft, 2016.</li>
+    <li>Schneider T., et al. Intoxikation im Erwachsenen- und Kindesalter aus präklinischer Sicht. <i>Anästhesie & Intensivmedizin</i>, 62(1), 2021, S. 12–25.</li>
+    <li>Giftinformationszentrum Nord (Hrsg.). Toxikologische Datenbank und Antidotempfehlungen. Online abgerufen am 15.09.2025: <a href="https://www.giz-nord.de">Link</a></li>
+    <li>UK National Poisons Information Service. TOXBASE – Clinical Toxicology Database. Birmingham, UK. Aufgerufen am 15.09.2025.</li>
+    <li>Boyer EW, Shannon M. Clinical Toxicology. In: <i>UpToDate</i>, Wolters Kluwer Health, laufend aktualisiert. Aufgerufen am 15.09.2025.</li>
+    <li>Nelson LS, Howland MA, Lewin NA, et al. <i>Goldfrank’s Toxicologic Emergencies</i>. 11th ed. New York: McGraw-Hill Education, 2019.</li>
+    <li>World Health Organization. <i>Guidelines for Poison Control</i>. Geneva: WHO Press, 1997.</li>
+  </ul>
+</details>
 
----
-
-### 📚 Quellen:
-
-1. Bayerisches Ärzteblatt
-Bayerische Landesärztekammer (Hrsg.). Drei Highlights aus der Toxikologie. Bayerisches Ärzteblatt, Ausgabe 03/2018, S. 142–146.
-2. Notfallmedizinapp.com
-Notfallmedizin App. Algorithmen und Leitlinien für präklinische und klinische Notfallmedizin. Online-Ressource, laufend aktualisiert.
-3. Fachinformationen zu Arzneimitteln
-Rote Liste Service GmbH (Hrsg.). Rote Liste – Arzneimittelverzeichnis für Deutschland. Frankfurt am Main: Rote Liste Service GmbH, jährliche Aktualisierung.
-4. ITS-Kurs, KNN, 2018
-Klinisches Notfallnetzwerk (KNN). Interdisziplinärer Intensivkurs – Modul Toxikologie. Kursunterlagen, 2018.
-5. Wochenmail KNS, KW 22
-Klinisches Notfallnetzwerk Süd (KNS). Wöchentliche Fachinformation – Schwerpunkt Toxikologie. Kalenderwoche 22, internes Rundschreiben.
-6. Fachbuch: „Vergiftungen und ihre Antidotbehandlung“
-Hahn, A., & Müller, D. Vergiftungen und ihre Antidotbehandlung. 4., überarbeitete Auflage. Stuttgart: Wissenschaftliche Verlagsgesellschaft, Februar 2016.
-7. A&I – Anästhesie & Intensivmedizin
-Schneider, T., et al. Intoxikation im Erwachsenen- und Kindesalter aus präklinischer Sicht. Anästhesie & Intensivmedizin, 62(1), 2021, S. 12–25.
-8. GIZ-Nord – Giftinformationszentrum Nord
-Giftinformationszentrum Nord (Hrsg.). Toxikologische Datenbank und Antidotempfehlungen. Online abgerufen am 15.09.2025: https://www.giz-nord.de
-9. TOXBASE
-UK National Poisons Information Service. TOXBASE – Clinical Toxicology Database. Birmingham, UK. Aufgerufen am 15.09.2025
-10. UpToDate – Clinical Toxicology
-Boyer, E. W., & Shannon, M. Clinical Toxicology. In: UpToDate, Wolters Kluwer Health, laufend aktualisiert. Aufgerufen am 15.09.2025
-11. Goldfrank’s Toxicologic Emergencies
-Nelson, L. S., Howland, M. A., Lewin, N. A., et al. Goldfrank’s Toxicologic Emergencies. 11th ed. New York: McGraw-Hill Education, 2019.
-12. WHO Guidelines for Poison Control
-World Health Organization. Guidelines for Poison Control. Geneva: WHO Press, 1997.
-
----
-
-### 🏷️ Tags: 
-#Gift #Antidota #Vergiftung #Intoxikation #Notfallmedizin #Toxikologie #Pharmakologie #Klinik #Akutmedizin
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#Gift #Antidota #Vergiftung #Intoxikation #Notfallmedizin #Toxikologie #Pharmakologie #Klinik #Akutmedizin #Medikament</p>
+</details>

@@ -2,7 +2,7 @@
 = Mastzellaktivierungssyndrom
 
 ---
-### 💬 KURZ
+## 💬 KURZ
 
 - Überaktive Mastzellen setzen vermehrt Botenstoffe frei 🎯
 - Multisystemische Symptome, oft ohne klassischen Allergieauslöser
@@ -10,7 +10,7 @@
 	🚨Adrenalin + H1- & H2-Blocker + Salbutamol
 
 ---
-### 🚨 CAVE / MERKE 💡
+## 🚨 CAVE / MERKE 💡
 - Häufigkeit bei [[Anästhesie bei Long COVID|Long COVID]] erhöht
 - Kann andere Symptome verstärken:
 	- [Fatigue](Fatigue.md)
@@ -24,8 +24,7 @@
 	- Medikamente
 
 ---
-### 🚑 KLINIK
-
+## 🚑 KLINIK
 - **Leitsymptom:** wiederkehrende, teils schubweise Beschwerden in mehreren Organsystemen
 - Haut 🖐️
 	- Rötung, Juckreiz, Quaddeln
@@ -39,8 +38,7 @@
 	- Brain Fog, Kopfschmerzen
 
 ---
-### 🩺 DIAGNOSTIK 
-
+## 🩺 DIAGNOSTIK 
 - Anamnese & Symptomtagebuch 🗣️
 - Labor 🧪 
 	- Histamin
@@ -53,16 +51,15 @@
 	- Histaminfreisetzende Medikamente möglichst vermeiden
 
 ---
-### ⚙️ PATHOPHYSIOLOGIE 
-
+## ⚙️ PATHOPHYSIOLOGIE 
 - Fehlgesteuerte Aktivierung von Mastzellen
 	- Freisetzung von Histamin, Prostaglandinen, Leukotrienen, Zytokinen
 - Folge: Entzündung, Gefäßerweiterung, erhöhte Gefäßpermeabilität, Muskelkontraktionen
 
 ---
-### 🧪 FREIGESETZTE BOTENSTOFFE
+## 🧪 FREIGESETZTE BOTENSTOFFE
 
-##### Vorgebildete Mediatoren (sofort freigesetzt)
+#### Vorgebildete Mediatoren (sofort freigesetzt)
 - Histamin 
 	→ Vasodilatation, Permeabilität ↑, Juckreiz, Magensäuresekretion, Bronchokonstriktion
 - Tryptase 
@@ -72,7 +69,7 @@
 - Heparin 
 	→ Gerinnungshemmung, Permeabilität ↑
 
-##### Neu synthetisierte Mediatoren (nach Aktivierung gebildet)
+#### Neu synthetisierte Mediatoren (nach Aktivierung gebildet)
 - Prostaglandine (v. a. PGD₂) 
 	→ Entzündung, Bronchokonstriktion, Vasodilatation
 - Leukotriene (LTC₄, LTD₄, LTE₄) 
@@ -83,14 +80,14 @@
 	→ Immunmodulation, Entzündung
 
 ---
-### 🏥 THERAPIE 
+## 🏥 THERAPIE 
 
-##### 1. Allgemein 💬
+#### 1. Allgemein 💬
 - symptomorientiert, keine Heilung
 - Triggervermeidung (Ernährung, Umwelt, Stress)
 - Entzündungshemmende Ernährung 🍎🥦
 
-##### 2. Notfallmedikamente 💊🚨
+#### 2. Notfallmedikamente 💊🚨
 - Adrenalin
 	- 1 mg i.v. (verdünnt auf 10 ml NaCl 0,9 %)  
 	- Bei Bedarf alle 5 Minuten wiederholen  
@@ -115,7 +112,7 @@
 - Theophyllin (Reserve)
 	- 240–480 mg i.v. langsam  
 	⚠️ Nur bei therapierefraktären Fällen
-##### 3. Medikamente 💊
+#### 3. Medikamente 💊
 - H1-Blocker
 	- Fexofenadin: 180 mg 1–2×/Tag  
 	- Desloratadin: 5 mg 1–2×/Tag  
@@ -132,7 +129,7 @@
 		- 1–2 mg 2×/Tag (H1-Blocker + Mastzellstabilisator)
 - Leukotrien‑Antagonisten
 	- Montelukast: 10 mg 1×/Tag  
-		→ v. a. bei Atemwegssymptomen, [Asthma Bronchiale ⚙️](Asthma%20Bronchiale%20⚙️.md)
+		→ v. a. bei Atemwegssymptomen, [Asthma Bronchiale](Asthma%20Bronchiale.md)
 - Vitamin C
 	- 500–1000 mg/Tag  
 		→ antioxidativ, mastzellstabilisierend
@@ -146,37 +143,48 @@
 		⚠️ Langzeitgabe wegen Nebenwirkungen kritisch
 
 ---
+<details>
+  <summary>🔤 Abkürzungen</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Abkürzung</th>
+        <th>Bedeutung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>GI</td><td>Gastrointestinal</td></tr>
+      <tr><td>H1</td><td>Histamin-1-Rezeptor</td></tr>
+      <tr><td>H2</td><td>Histamin-2-Rezeptor</td></tr>
+      <tr><td>IgE</td><td>Immunglobulin E</td></tr>
+      <tr><td>IL</td><td>Interleukin</td></tr>
+      <tr><td>i.v.</td><td>intravenös</td></tr>
+      <tr><td>LTE₄</td><td>Leukotrien E4</td></tr>
+      <tr><td>LTC₄</td><td>Leukotrien C4</td></tr>
+      <tr><td>LTD₄</td><td>Leukotrien D4</td></tr>
+      <tr><td>NaCl</td><td>Natriumchlorid</td></tr>
+      <tr><td>PAF</td><td>Plättchenaktivierender Faktor</td></tr>
+      <tr><td>PGD₂</td><td>Prostaglandin D2</td></tr>
+      <tr><td><a href="Postexertionelle%20Malaise.md">PEM</a></td><td>Post-Exertional Malaise (Zustandsverschlechterung nach Belastung)</td></tr>
+      <tr><td><a href="POTS.md">POTS</a></td><td>Posturales Orthostatisches Tachykardie-Syndrom</td></tr>
+      <tr><td>TNF‑α</td><td>Tumornekrosefaktor Alpha</td></tr>
+    </tbody>
+  </table>
+</details>
 
-### 🔤 Abkürzungen:
+<details>
+  <summary>📚 Quellen</summary>
+  <ul>
+    <li><a href="https://www.dr-med-kristina-schultheiss.de/post/mastzellaktivierung-mcas-und-seine-bedeutung-bei-long-covid-me-cfs">Dr. med. Kristina Schultheiß – Mastzellaktivierung und Long Covid / ME‑CFS</a>, aufgerufen am 19.09.2025</li>
+    <li><a href="https://histafit.de/covid-19-und-mcas/">HistaFit – Covid‑19, Long‑Covid und Mastzellen</a>, aufgerufen am 19.09.2025</li>
+    <li><a href="https://ganzemedizin.at/long-covid-zusammenhang-mit-mastzell-aktivier-syndrom/">Ganzemedizin.at – Zusammenhang Long Covid &amp; MCAS</a>, aufgerufen am 19.09.2025</li>
+    <li><a href="https://mcas-hope.de/mcas/mcas-therapie/">MCAS Hope – Therapieübersicht</a></li>
+    <li><a href="https://systemisches-mastzellaktivierungssyndrom-mcas.de/MCAS/Therapie/">Systemisches MCAS – Medikamentenliste &amp; Notfallset</a></li>
+    <li><a href="https://www.mastzellaktivierung.info/downloads/SIGHI-Medikamentenfuehrer_VORSCHAU.pdf">SIGHI Medikamentenführer (Vorschau)</a></li>
+  </ul>
+</details>
 
-| Abkürzung                            | Bedeutung                                                         |
-| ------------------------------------ | ----------------------------------------------------------------- |
-| GI                                   | Gastrointestinal                                                  |
-| H1                                   | Histamin-1-Rezeptor                                               |
-| H2                                   | Histamin-2-Rezeptor                                               |
-| IgE                                  | Immunglobulin E                                                   |
-| IL                                   | Interleukin                                                       |
-| i.v.                                 | intravenös                                                        |
-| LTE₄                                 | Leukotrien E4                                                     |
-| LTC₄                                 | Leukotrien C4                                                     |
-| LTD₄                                 | Leukotrien D4                                                     |
-| NaCl                                 | Natriumchlorid                                                    |
-| PAF                                  | Plättchenaktivierender Faktor                                     |
-| PGD₂                                 | Prostaglandin D2                                                  |
-| [PEM](Postexertionelle%20Malaise.md) | Post-Exertional Malaise (Zustandsverschlechterung nach Belastung) |
-| [POTS](POTS.md)                      | Posturales Orthostatisches Tachykardie-Syndrom                    |
-| TNF‑α                                | Tumornekrosefaktor Alpha                                          |
-
----
-### 📚 Quellen: 
-
-- Dr. med. Kristina Schultheiß – Mastzellaktivierung und Long Covid / ME‑CFS: https://www.dr-med-kristina-schultheiss.de/post/mastzellaktivierung-mcas-und-seine-bedeutung-bei-long-covid-me-cfs, aufgerufen am 19.09.2025
-- HistaFit – Covid‑19, Long‑Covid und Mastzellen: https://histafit.de/covid-19-und-mcas/, aufgerufen am 19.09.2025
-- Ganzemedizin.at – Zusammenhang Long Covid & MCAS: https://ganzemedizin.at/long-covid-zusammenhang-mit-mastzell-aktivier-syndrom/, aufgerufen am 19.09.2025
-- MCAS Hope – Therapieübersicht: https://mcas-hope.de/mcas/mcas-therapie/  
-- Systemisches MCAS – Medikamentenliste & Notfallset: https://systemisches-mastzellaktivierungssyndrom-mcas.de/MCAS/Therapie/  
-- SIGHI Medikamentenführer (Vorschau): https://www.mastzellaktivierung.info/downloads/SIGHI-Medikamentenfuehrer_VORSCHAU.pdf
-
----
-### 🏷️ Tags:
-#LongCovid #MCAS #Immunologie #ME_CFS #MedizinLexikon #Histamin #Medikamente 
+<details>
+  <summary>🏷️ Tags</summary>
+  <p>#LongCovid #MCAS #Immunologie #ME_CFS #MedizinLexikon #Histamin #Medikamente</p>
+</details>
