@@ -1,2 +1,0 @@
-# NIR
-= Nahinfrarot
