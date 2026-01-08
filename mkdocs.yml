@@ -15,13 +15,15 @@ nav:
 
 plugins:
   - search
+  - callouts
   - glightbox
   - gen-files:
       scripts:
-        - scripts/generate_index.py
+        - docs/scripts/generate_index_grid.py
 
 markdown_extensions:
   - admonition
+  - nl2br
   - tables
   - toc:
       permalink: true
@@ -29,11 +31,18 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
 
 extra_css:
   - styles/extra.css
+  - styles/admonitions.css
+  - styles/grid.css
+
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - scripts/config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
