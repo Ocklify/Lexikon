@@ -5,7 +5,6 @@
 ---
 https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 ---
-
 ## 🚨 CAVE / MERKE 💡
 - Trigger wie Intubation, Medikamente oder Stress können Asthmaanfälle auslösen
 - Häufig! Ca. 330 Millionen weltweit  
@@ -14,8 +13,7 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 - 10 % der Kinder  
 
 ---
-
-## 🩺 Anästhesiologische Relevanz
+## 🩺 ANÄSTHESIOLOGISCHE RELEVANZ
 
 #### Präoperativ
 - Anamnese: Schweregrad, letzte Exazerbation, Medikation  
@@ -33,13 +31,11 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 
 #### Postoperativ
 - Monitoring: SpO₂, Atemfrequenz, Auskultation  
-- PONV-Prophylaxe  
+- [PONV](PONV.md)-Prophylaxe  
 - Analgesie: regional bevorzugt, Opioide sparsam  
 
 ---
-
-## ❓ Ursachen
-
+## ❓ URSACHEN 
 #### 1. Allergisch (= extrinsisches Asthma)
 - Größter Risikofaktor: Atopie  
 - Pollen, Gräser, Tierhaare, Schimmel  
@@ -54,8 +50,7 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 - Belastungsasthma  
 
 ---
-
-## ⚙️ Pathophysiologie
+## ⚙️ PATHOPHYSIOLOGIE
 - Bronchiale Hyperreagibilität mit Verdickung der Basalmembran  
 - Bronchiale Obstruktion durch  
   → Bronchospasmus  
@@ -67,8 +62,7 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 *(Bild 1)*
 
 ---
-
-## 🚑 Klinik
+## 🚑 KLINIK
 - Leitsymptome:  
   1. Anfallsartige Dyspnoe  
   2. Exspiratorischer Stridor („Luft geht nicht raus“)  
@@ -77,17 +71,14 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 - Bei Chronifizierung: Emphysem & Infektneigung  
 
 ---
-
-## 🩺 Diagnostik
-
+## 🩺 DIAGNOSTIK
 #### 1. Anamnese 🗣️
-| Asthma                     | COPD             |
+| Asthma                     | [COPD](COPD.md)  |
 | -------------------------- | ---------------- |
 | häufig Raucher 🚬 (40 %)   | bei COPD auch✅   |
 | variabler Verlauf          | bei COPD kaum❌   |
 | häufig nächtliche Anfälle  | bei COPD selten❌ |
 | gute Wirkung von Steroiden | bei COPD selten❌ |
-
 #### 2. Untersuchung 🔍
 - **Perkussion**: hypersonorer Klopfschall, tiefstehendes Zwerchfell  
 - **Auskultation**: „silent lung“, exspiratorisches Giemen, Tachypnoe  
@@ -442,15 +433,13 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 - Zeichen der Überblähung: 
 	- Fassthorax, tiefes Zwerchfell, verbreiterte Intercostalräume *(Bild 2)*
 - DD: 
-	- COPD, Asthma cardiale, Lungenembolie, Pneumothorax  
+	- [COPD](COPD.md), Asthma cardiale, Lungenembolie, Pneumothorax  
 
 #### 6. Hauttests 🖐️
 - Prick-Test: Allergenexposition auf der Haut  
 
 ---
-
-## 🏥 Therapie
-
+## 🏥 THERAPIE
 ### 1. Notfalltherapie 🆘
 - **SABA** inhalativ: Salbutamol, Fenoterol  
 - **Glukokortikoide i.v.**: Prednisolon  

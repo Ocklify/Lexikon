@@ -1,6 +1,7 @@
 # Fibrinogen
 = Gerinnungsfaktor I
 
+---
 ## 🔎 NORMWERTE
 - **200–400 mg/dl** (≈ 2–4 g/l)  
 - **Kritisch:** <150 mg/dl oder <7 mm im FIBTEM  
@@ -10,14 +11,12 @@
 	→ das heißt oft **falsch-hoch** 😉
 
 ---
-
 ## 💊 DOSIERUNG
 - **25–50 mg/kg** (≈ 2–6 g)  
 - **1 g i.v.** erhöht Fibrinogen um ca. **25–30 mg/dl**  
 - **Zielwert:** ≥150–200 mg/dl (bei schwerer Blutung ggf. höher)  
 
 ---
-
 ## 📌 KLINISCHE HINWEISE
 - **Funktion:** 
 	- Vorstufe von Fibrin
@@ -28,7 +27,7 @@
 	- selten kongenital  
 - **Therapieoptionen:** 
 	- Fibrinogenkonzentrat (Standard)
-	- [Fresh Frozen Plasma](Fresh%20Frozen%20Plasma.md)
+	- [Fresh-Frozen-Plasma](Fresh-Frozen-Plasma.md)
 	- alternativ Kryopräzipitat (nicht überall verfügbar)  
 - **Monitoring:** 
 	- ROTEM/TEG (FIBTEM)

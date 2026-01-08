@@ -3,20 +3,20 @@
 ---
 ## 💬 KURZ
 - Der **HAS-BLED-Score** dient der **Abschätzung des Blutungsrisikos** bei Patienten mit Vorhofflimmern, die eine orale Antikoagulation erhalten sollen  
-- Er ergänzt den [CHA₂DS₂-VASc Score](CHA₂DS₂-VASc%20Score.md)
+- Er ergänzt den [CHA₂DS₂-VASc-Score](CHA₂DS₂-VASc-Score.md)
 
 ---
 ## 📊 SCORE
 
-| Kürzel | Risikofaktor                                                                                                                         | Punkte |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| H      | **Hypertension**<br>unkontrollierter RR > 160 mmHg                                                                                   | 1      |
-| A      | **Abnorme Nieren- oder Leberfunktion**<br>→ Dialyse, Kreatinin > 200 µmol/l<br>*oder*<br>→ Zirrhose, Bilirubin > 2×, AST/ALT/AP > 3× | je 1   |
-| S      | **Stroke**                                                                                                                           | 1      |
-| B      | **Bleeding** – Blutungsneigung                                                                                                       | 1      |
-| L      | **Labile INR** – instabile Einstellung, TTR < 60 %                                                                                   | 1      |
-| E      | Elderly – Alter > 65 Jahre                                                                                                           | 1      |
-| D      | Drugs: [TAH](TAH.md), NSAR oder C2                                                                                                   | je 1   |
+| Kürzel | Risikofaktor                                                                                                                                            | Punkte |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| H      | **Hypertension**<br>unkontrollierter RR > 160 mmHg                                                                                                      | 1      |
+| A      | **Abnorme Nieren- oder Leberfunktion**<br>→ [Dialyse](CiCa-Dialyse.md), Kreatinin > 200 µmol/l<br>*oder*<br>→ Zirrhose, Bilirubin > 2×, AST/ALT/AP > 3× | je 1   |
+| S      | **Stroke**                                                                                                                                              | 1      |
+| B      | **Bleeding** – Blutungsneigung                                                                                                                          | 1      |
+| L      | **Labile INR** – instabile Einstellung, TTR < 60 %                                                                                                      | 1      |
+| E      | Elderly – Alter > 65 Jahre                                                                                                                              | 1      |
+| D      | Drugs: [TAH](TAH.md), NSAR oder C2                                                                                                                      | je 1   |
 
 ⚠️ **Maximalwert:** 9 Punkte  
 ⚠️ Ein hoher Score ist **kein Grund, gegen Antikoagulation**, sondern ein **„Alarmzeichen“**, die Risikofaktoren zu beachten.
@@ -25,78 +25,98 @@
 ## 🧠 INTERPRETATION
 
 #### 1. Kurz
-<table>
+<table class="color-table">
   <thead>
     <tr>
-      <th>Punkte</th>
-      <th>Risiko</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Punkte</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Risiko</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr style="background-color:rgba(208,240,192,0.3);">
+
+    <!-- 0–2 = Grün -->
+    <tr style="background: var(--ct-green-bg); color: var(--ct-green-text);">
       <td>0–2</td>
       <td>Geringes Blutungsrisiko</td>
     </tr>
-    <tr style="background-color:rgba(255,182,193,0.3);">
+
+    <!-- ≥3 = Rot (kritisch) -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
       <td>≥ 3</td>
       <td>Erhöhtes Blutungsrisiko</td>
     </tr>
+
   </tbody>
 </table>
 
+
 #### 2. Ausführlich
-<table>
+<table class="color-table">
   <thead>
     <tr>
-      <th>Punkte</th>
-      <th>Risiko</th>
-      <th>Blutungsrate / 100 Pat.-Jahre</th>
-      <th>Interpretation / Maßnahme</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Punkte</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Risiko</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Blutungsrate / 100 Pat.-Jahre</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Interpretation / Maßnahme</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr style="background-color:rgba(208,240,192,0.3);">
+
+    <!-- 0 = Grün -->
+    <tr style="background: var(--ct-green-bg); color: var(--ct-green-text);">
       <td>0</td>
       <td>Niedrig</td>
       <td>≈ 1.1</td>
       <td>Standardrisiko, OAK unproblematisch</td>
     </tr>
-    <tr style="background-color:rgba(253,253,150,0.3);">
+
+    <!-- 1–2 = Gelb -->
+    <tr style="background: var(--ct-yellow-bg); color: var(--ct-yellow-text);">
       <td>1</td>
       <td>Moderat</td>
       <td>≈ 1.0</td>
       <td>OAK möglich, beeinflussbare Faktoren beachten</td>
     </tr>
-    <tr style="background-color:rgba(253,253,150,0.3);">
+
+    <tr style="background: var(--ct-yellow-bg); color: var(--ct-yellow-text);">
       <td>2</td>
       <td>Moderat</td>
       <td>≈ 1.9</td>
       <td>OAK mit Vorsicht, Risikofaktoren optimieren</td>
     </tr>
-    <tr style="background-color:rgba(255,182,193,0.3);">
+
+    <!-- 3–4 = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
       <td>3</td>
       <td>Hoch</td>
       <td>≈ 3.7</td>
       <td>Engmaschige Kontrolle, striktes Risikomanagement</td>
     </tr>
-    <tr style="background-color:rgba(255,182,193,0.3);">
+
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
       <td>4</td>
       <td>Hoch</td>
       <td>≈ 8.7</td>
       <td>Nur bei klarer Indikation, sehr engmaschig überwachen</td>
     </tr>
-    <tr style="background-color:rgba(255,153,153,0.3);">
+
+    <!-- 5–6 = Rot -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
       <td>5</td>
       <td>Sehr hoch</td>
       <td>≈ 12.5</td>
       <td>Nur bei zwingender Indikation, Spezialistenkonsil</td>
     </tr>
-    <tr style="background-color:rgba(255,153,153,0.3);">
-      <td>≥ 6</td>
+
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
+      <td>≥ 6</td>
       <td>Sehr hoch</td>
       <td>–</td>
       <td>Individuelle Entscheidung, evtl. nicht‑pharmakologische Optionen</td>
     </tr>
+
   </tbody>
 </table>
 

@@ -1,7 +1,7 @@
 # Desmopressin-Clamp
 
 = Gabe von [Desmopressin](Desmopressin.md) (1–2 µg i.v./s.c.), um die Wasserdiurese zu blockieren und den Na‑Anstieg zu bremsen
-= Verhinderung einer zu schnellen Überkorrektur bei [Hyponatriämie](Hyponatriämie.md)
+= Verhinderung einer zu schnellen Überkorrektur bei [Hyponatriaemie](Hyponatriaemie.md)
 
 ---
 ## 🚨 CAVE / MERKE 💡
@@ -11,7 +11,6 @@
 	→ konzentrierter Urin + verdünntes Blut
 
 ---
-
 <details>
 <summary>📚 Quellen</summary>
 

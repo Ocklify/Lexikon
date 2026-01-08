@@ -3,18 +3,20 @@
 = Inkretinmimetika
 
 ---
-
 ## 💬 KURZ
 - Antidiabetika mit starker Wirkung auf Blutzucker, Gewicht und Magenentleerung  
-- verlängerte Magenentleerung  
+- verzögerte Magenentleerung  
 - **erhöhtes Aspirationsrisiko**
 
 ---
-
-<div style="border:2px solid #e53935; background-color:rgba(244,67,54,0.1); padding:12px; border-radius:8px;">
-  <strong style="color:#e53935;">🚨 CAVE:</strong> <em>Verzögerte Magenentleerung</em><br> → erhöhtes Aspirationsrisiko bei Narkose<br>
-  <span style="color:inherit;">💡 <em title="Empfehlung der DGAI 2023">GLP-1-Analoga pausieren</em><br> → bei wöchentlicher Gabe, 1 Woche Pause<br> → bei täglicher Gabe, 24 h Pause<br> → immer RSI erwägen<br> → längere Nahrungskarenz erwägen, 12–24 h, Datenlage insuffizient</span>
-</div>
+## 🚨 CAVE / MERKE 💡
+- erhöhtes **Aspirationsrisiko**  
+	→ wegen verzögerter Magenentleerung  
+- bei wöchentlicher Einnahme → 1 Woche Pause  
+- bei täglicher Einnahme → 24 h Pause  
+- immer **RSI** erwägen  
+- **längere Nahrungskarenz** erwägen, 12–24 h, Datenlage noch unzureichend  
+	→ ggf. Sono des Magens präOP  
 
 ---
 ## ✨ WIRKUNG
@@ -23,20 +25,14 @@
 - Verzögerung der Magenentleerung  
 - Gewichtsreduktion (durch Appetitreduktion)  
 - HbA1c-Senkung um 0,5–1,5 % in 3 Monaten  
+	→ *Tirzepatid* teils >2%
 - Kardiovaskulär neutral bis positiv (ELIXA, SUSTAIN-6)
 
 ---
-## 💊 DOSIERUNG
-- Einschleichende Dosierung empfohlen (gastrointestinale NW minimieren)  
-- Gabe s.c., unabhängig von Mahlzeiten (außer Exenatide)  
-- Kombination mit Insulin/Sulfonylharnstoffen  
-  → Dosisanpassung nötig
-
----
 ## 🚦 INDIKATIONEN
-- Diabetes mellitus Typ 2 bei unzureichender Monotherapie oder Lifestyle-Modifikation  
+- **Diabetes** mellitus Typ 2   
 - Therapieintensivierung bei Insulinpflichtigkeit und Gewichtszunahme  
-- Tirzepatid auch bei Adipositas ohne Diabetes zugelassen
+- teilweise auch **Adipositas**  
 
 ---
 ## ❌ KONTRAINDIKATIONEN
@@ -47,12 +43,12 @@
 
 #### Relativ:  
 - Gastroparese  
-- Schwere Niereninsuffizienz  
+- Schwere Niereninsuffizienz bei *Exenatid*  
 - GIT-Motilitätsstörungen
 
 ---
 ## 🌀 NEBENWIRKUNGEN
-- Initial: Übelkeit, Erbrechen, Diarrhoe  
+- Initial: Übelkeit, Erbrechen, Völlegefühl, Diarrhoe  
 - **Verzögerte Magenentleerung → Aspiration!**  
 - Pankreatitis (selten, aber relevant)  
 - Warnhinweise bzgl. Schilddrüsenkarzinom  
@@ -60,43 +56,31 @@
 
 ---
 ## 📜 LISTE
+### Aktuell zugelassene GLP‑1/GIP‑Therapien
 
-<table style="width:100%; border-collapse:collapse; font-size:0.95em;">
-  <thead>
-    <tr style="background-color:rgba(255,255,255,0.05);">
-      <th style="padding:8px;">💊 Wirkstoff</th>
-      <th style="padding:8px;">🕒 Frequenz</th>
-      <th style="padding:8px;">🍽️ Einnahme</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:8px; background-color:rgba(255,255,255,0.08); font-style:italic;">Liraglutid</td>
-      <td style="padding:8px; background-color:rgba(76,175,80,0.2);">1× täglich</td>
-      <td style="padding:8px; background-color:rgba(76,175,80,0.2);">unabhängig</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; background-color:rgba(255,255,255,0.08); font-style:italic;">Semaglutid</td>
-      <td style="padding:8px; background-color:rgba(244,67,54,0.2);">1× wöchentlich</td>
-      <td style="padding:8px; background-color:rgba(76,175,80,0.2);">unabhängig</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; background-color:rgba(255,255,255,0.08); font-style:italic;">Dulaglutid</td>
-      <td style="padding:8px; background-color:rgba(244,67,54,0.2);">1× wöchentlich</td>
-      <td style="padding:8px; background-color:rgba(76,175,80,0.2);">unabhängig</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; background-color:rgba(255,255,255,0.08); font-style:italic;">Exenatide</td>
-      <td style="padding:8px; background-color:rgba(255,235,59,0.2);">2× täglich / 1× wöchentlich</td>
-      <td style="padding:8px; background-color:rgba(244,67,54,0.2);">1 h vor dem Essen</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; background-color:rgba(255,255,255,0.08); font-style:italic;">Tirzepatid</td>
-      <td style="padding:8px; background-color:rgba(244,67,54,0.2);">1× wöchentlich</td>
-      <td style="padding:8px; background-color:rgba(76,175,80,0.2);">unabhängig</td>
-    </tr>
-  </tbody>
-</table>
+| **Wirkstoff (Handelsname)**          | **Verabreichungen**           | **Besonderheiten**                    |
+| ------------------------------------ | ----------------------------- | ------------------------------------- |
+| **Dulaglutid** (*Trulicity*)         | 📆 wöchentlich<br>💉 subkutan | flexible Tageszeit                    |
+| **Exenatid** (*Byetta*)              | ⏰ täglich<br>💉 subkutan      | 🧭 kurzwirksame Variante              |
+| **Exenatid** (*Bydureon*)            | 📆 wöchentlich<br>💉 subkutan | ⏳ langwirksame Variante               |
+| **Liraglutid** (*Victoza / Saxenda*) | ⏰ täglich<br>💉 subkutan      | Indikation auch <br>Adipositas ⚖️     |
+| **Semaglutid** (*Ozempic / Wegovy*)  | 📆 wöchentlich<br>💉 subkutan | Indikation auch <br>Adipositas ⚖️     |
+| **Semaglutid** (*Rybelsus*)          | ⏰ täglich<br>💊 oral          | 💊orale Form                          |
+| **Tirzepatid** (*Mounjaro*)          | 📆 wöchentlich<br>💉 subkutan | Dualer Agonist: GLP‑1 + [GIP](GIP.md) |
+
+### In Entwicklung / noch nicht zugelassen
+
+| **Wirkstoff (Handelsname)**        | **Verabreichungen**           | **Besonderheiten**     |
+| ---------------------------------- | ----------------------------- | ---------------------- |
+| **Orforglipron** (*experimentell*) | ⏰ täglich<br>💊 oral          | ❌ noch nicht verfügbar |
+| **Retatrutide** (*experimentell*)  | 📆 wöchentlich<br>💉 subkutan | ❌ in Entwicklung       |
+
+### Nicht mehr vermarktet / veraltet
+
+| **Wirkstoff (Handelsname)** | **Verabreichungen**           | **Besonderheiten**          |
+| --------------------------- | ----------------------------- | --------------------------- |
+| **Albiglutid** (*Tanzeum*)  | 📆 wöchentlich<br>💉 subkutan | ❌nicht mehr vertrieben      |
+| **Lixisenatid** (*Adlyxin*) | ⏰ täglich<br>💉 subkutan      | eher veraltet, nur Diabetes |
 
 ---
 <details>
@@ -112,6 +96,7 @@
   <tbody>
     <tr><td>DGAI</td><td>Deutsche Gesellschaft für Anästhesiologie und Intensivmedizin</td></tr>
     <tr><td>ELIXA</td><td>Evaluation of Lixisenatide in Acute Coronary Syndrome</td></tr>
+    <tr><td>GIP</td><td>Glucose-dependent Insulinotropic Polypeptide</td></tr>
     <tr><td>GIT</td><td>Gastrointestinaltrakt</td></tr>
     <tr><td>GLP-1</td><td>Glucagon-like Peptide 1</td></tr>
     <tr><td>HbA1c</td><td>Glykiertes Hämoglobin (Langzeitblutzuckerwert)</td></tr>

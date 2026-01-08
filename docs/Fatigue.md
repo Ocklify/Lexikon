@@ -1,11 +1,19 @@
 # Fatigue
 = Müdigkeit, Mattigkeit, Erschöpfung
+= vielschichtiges Leiden
 
 ---
 ## 📊 EPIDEMIOLOGIE
-- ca. 70–90% bei Tumorerkrankten
-- ca. 30-60% bei [[Anästhesie bei Long COVID|Long COVID]]
-
+- ca. 70–90% bei Tumorerkrankten  
+	→ akut 70–90%
+	→ Langzeit (Monate bis Jahre): 40%
+- ca. 30-60% bei [[Anaesthesie-bei-Long-COVID|Long COVID]]  
+	→ aber das ist eigentlich CFS
+---
+## ❓ URSACHEN / TRIGGER
+- OP
+- Chemotherapie
+- Strahlentherapie
 ---
 ## ⚙️ PATHOGENESE 
 #### 1. Erschöpfungstheorie  
@@ -29,16 +37,53 @@
    - Prägende Ereignisse des bisherigen Lebens  
    - Umgebung und Umwelt des Patienten  
    - Individuelle Faktoren  
+---
+## 📊 EINTEILUNG 
 
+#### 1. primäre Fatigue
+- Teil des Tumorsyndroms  
+	→ Inflammation  
+- Häufig Koinzidenz mit:  
+	- Depression  
+	- Anorexie-Kachexie-Syndrom  
+
+#### 2. sekundäre Fatigue
+- Tumorfolgen  
+- therapiebegleitende Symptome  
+- Komorbiditäten  
 ---
 ## 🚑 KLINIK 
+#### physisch  
 - Schlafen ist nicht erholsam  
 - Schwäche, Kraftlosigkeit  
-- Hilflosigkeit, Reizbarkeit, Traurigkeit, Angst, Antriebslosigkeit  
 - Appetitlosigkeit  
+#### emotional  
+- Hilflosigkeit, Reizbarkeit, Traurigkeit, Angst, Antriebslosigkeit  
+
+#### kognitiv
+- Konzentrationsstörungen  
+- Probleme im Denken  
 
 ---
 ## 🩺 DIAGNOSTIK 
+#### 1. Fatigue nach der Fatigue Coalition 
+(Zusammenschluss von Experten auf dem Gebiet der Fatigue)  
+- **Fatigue** = A1 + 5 weitere Symptome
+	→ innerhalb von 2 Wochen  
+
+- A1 Signifikante Fatigue, Energieverlust, gesteigerter Bedarf an Ruhepausen, der nicht im Verhältnis steht zur aktuellen Aktivität
+- A2 Allgemeine Schwäche, Schwere der Gliedmaßen
+- A3 Verringerte Aufmerksamkeit oder Konzentrationsfähigkeit
+- A4 Motivationsmangel, fehlendes Interesse an üblichen Aktivitäten
+- A5 Schlaflosigkeit oder vermehrte Schläfrigkeit / Schlafsucht
+- A6 Schlaferleben als nicht erfrischend oder oder nicht erholsam
+- A7 Gefühlte Anstrengung, um Inaktivität zu überwinden
+- A8 Ausgeprägte emotionale Reaktion auf das Gefühl von Fatigue (Traurigkeit, Frustration, Gereiztheit)
+- A9 Schwierigkeiten mit der Bewältigung der Alltagsaufgaben
+- A10 Schwierigkeiten mit dem Kurzzeitgedächtnis
+- A11 Nach Anstrengung Unwohlsein über mehrere Stunden
+
+#### 2. standardisierte Fragebögen
 - z. B. MIDOS‑Symptomerhebungsbogen (Bild 1)
 	→ https://www.dgpalliativmedizin.de/images/Fragebogen_MIDOS2_2019.pdf
 
@@ -49,7 +94,12 @@
 ---
 ## 🔀 DIFFERENTIALDIAGNOSEN
 - Anorexie‑/Kachexie‑Syndrom  
+	→ häufig beides!
 - Depression  
+	→ 2-Fragen-Test:
+	→ 1. Fühlten Sie sich im letzten Monat häufig niedergeschlagen, traurig, bedrückt oder hoffnungslos?
+	→ 2. Hatten Sie im letzten Monat deutlich weniger Lust und Freude an Dingen, die Sie sonst gerne tun?
+- CFS
 - Nebenwirkungen von Medikamenten  
 - Anämie  
 - Infekte  
@@ -80,12 +130,17 @@
 #### 2. Ursachenspezifisch 🎯 
 - Anämie ausgleichen  
 - Elektrolytverschiebungen ausgleichen  
+- Vitamine substituieren  
 - Begleiterkrankungen behandeln  
 
 #### 3. Medikamente 💊
 **Stimulanzien:**  
-- Methylphenidat („Ritalin“): 
-	- 5–30 mg/Tag  
+- Methylphenidat („Ritalin“, „Medikinet“): 
+	- 5–30(–60) mg/Tag  
+		- 5–10 mg initial
+		- immer Bedarfsmedikation: 5 mg
+			→ CAVE: 2 h Pause zu vorherigen Methylphenidat-Einname  
+		- je älter, desto weniger
 	- Einnahme: 30 min vor gewünschtem Effekt  
 	- Wirkdauer: 2–4 h  
 	- Vorteile: günstig (~20 €)  
@@ -95,7 +150,7 @@
 	- CAVE🚨: kardiovaskuläre Nebenwirkungen  
 	- Nachteile: teuer 💰, Übelkeit/Erbrechen, Appetit↓, Depression  
 - Dexamethason: 
-	- 4–8 mg/Tag  
+	- 4–8 mg/Tag, 1-0-0  
 
 **Schlaffördernde Medikamente:**  
 - nur am Abend  
@@ -115,6 +170,7 @@
   <tbody>
     <tr><td>BGA</td><td>Blutgasanalyse</td></tr>
     <tr><td>CAVE</td><td>(lat. „Vorsicht!“) – Hinweis auf besondere Gefahren oder wichtige Merkpunkte</td></tr>
+    <tr><td>CFS</td><td>Chronic-Fatigue-Syndrome</td></tr>
     <tr><td>mg</td><td>Milligramm</td></tr>
     <tr><td>MIDOS</td><td>Minimal Documentation System – Fragebogen zur Symptomerhebung</td></tr>
   </tbody>

@@ -8,50 +8,64 @@
 🟨 Gelb: neurologisch relevant  
 🟩 Grün: ergänzend, Reevaluation
 
-<table>
+<table class="color-table">
   <thead>
     <tr>
-      <th>Kürzel</th>
-      <th>Bedeutung</th>
-      <th>Maßnahme / Fokus</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Kürzel</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Bedeutung</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Maßnahme / Fokus</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr style="background-color:#ff9999">
-      <td>c</td>
+
+    <!-- C – Critical Bleeding = Rot -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
+      <td><b>🩸 c</b></td>
       <td>Critical Bleeding</td>
-      <td>Blutstillung, Tourniquet, Kompression, OP-Vorbereitung</td>
+      <td>Blutstillung, Tourniquet, Kompression, OP‑Vorbereitung</td>
     </tr>
-    <tr style="background-color:#ffcc99">
-      <td>A</td>
+
+    <!-- A – Airway = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
+      <td><b>🫁 A</b></td>
       <td>Airway</td>
       <td>Atemweg sichern: Inspektion, Absaugung, Intubation</td>
     </tr>
-    <tr style="background-color:#ffcc99">
-      <td>B</td>
+
+    <!-- B – Breathing = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
+      <td><b>🌬️ B</b></td>
       <td>Breathing</td>
-      <td>Atmung prüfen: O₂-Gabe, Thoraxdekompression, Beatmung</td>
+      <td>Atmung prüfen: O₂‑Gabe, Thoraxdekompression, Beatmung</td>
     </tr>
-    <tr style="background-color:#ffcc99">
-      <td>C</td>
+
+    <!-- C – Circulation = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
+      <td><b>❤️ C</b></td>
       <td>Circulation</td>
       <td>Kreislauf stabilisieren: Volumen, Blutung, Rhythmus</td>
     </tr>
-    <tr style="background-color:#ffffcc">
-      <td>D</td>
+
+    <!-- D – Disability = Gelb -->
+    <tr style="background: var(--ct-yellow-bg); color: var(--ct-yellow-text);">
+      <td><b>🧠 D</b></td>
       <td>Disability</td>
       <td>Neurologischer Status: GCS, Pupillen, FAST, BZ</td>
     </tr>
-    <tr style="background-color:#ccffcc">
-      <td>E</td>
+
+    <!-- E – Exposure = Grün -->
+    <tr style="background: var(--ct-green-bg); color: var(--ct-green-text);">
+      <td><b>🧊 E</b></td>
       <td>Exposure / Environment</td>
-      <td>Entkleiden, Wärmeerhalt, Ganzkörper-Check, Reevaluation</td>
+      <td>Entkleiden, Wärmeerhalt, Ganzkörper‑Check, Reevaluation</td>
     </tr>
+
   </tbody>
 </table>
 
----
 
+---
 ## 💬 Ergänzung: COMA-Merkschema
 
 | Kürzel | Bedeutung             |

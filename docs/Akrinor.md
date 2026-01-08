@@ -1,4 +1,4 @@
-## Akrinor
+# Akrinor
 = Cafedrin & Theodrenalin  
 = Theophyllin + Norephedrin (Cafedrin) &  
   Theophyllin + Noradrenalin (Theodrenalin)  
@@ -7,7 +7,6 @@
 = Inotropikum  
 
 ---
-
 ## 🚨 CAVE / MERKE 💡
 - keine Kombination mit MAO-Hemmern  
   → s. Komplikationen  
@@ -16,7 +15,6 @@
   → beeinflusst die Durchblutung der Plazenta nicht wesentlich  
 
 ---
-
 ## ✨ WIRKUNG
 - v.a. Beta-mimetisch, kaum α-Rezeptor-Wirkung  
 - β1- und β2-mimetische Wirkung:  
@@ -28,7 +26,6 @@
 - WD: 1 h  
 
 ---
-
 ## 🚦 INDIKATIONEN
 - Akute Hypotonie bei Anästhesie oder Schock  
 - Kreislaufversagen in der Notfallmedizin  
@@ -36,7 +33,6 @@
   → keine relevante Beeinträchtigung der Plazentadurchblutung  
 
 ---
-
 ## 💊 DOSIERUNG
 - nach Wirkung  
 - mit 1/4 Ampulle anfangen = 0,5 ml  
@@ -47,7 +43,6 @@
 - Maximaldosis: 3 Ampullen pro Tag  
 
 ---
-
 ## ❌ KONTRAINDIKATIONEN
 - Kombi mit MAO-Hemmern  
   → s. Wechselwirkungen  
@@ -60,7 +55,6 @@
 - Prostataadenom  
 
 ---
-
 ## 🔄 WECHSELWIRKUNGEN
 - MAO-Hemmer:  
   → z.B. Tranylcypromin, Selegilin  
@@ -75,7 +69,6 @@
   → Wirkungsabschwächung (z.B. Guanethidin)  
 
 ---
-
 ## 🌀 NEBENWIRKUNGEN
 #### 1. Herz-Kreislauf ❤️
 - Palpitationen, Tachykardie  
@@ -88,7 +81,6 @@
   → Tremor  
 
 ---
-
 <details>
   <summary>🔤 Abkürzungen</summary>
   <table>

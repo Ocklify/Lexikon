@@ -2,6 +2,7 @@
 = Atemnot
 = subjektives Gefühl
 
+---
 ## 📊 EPIDEMIOLOGIE
 - 10–70 % der Tumorpatienten  
 - 60–100 % der Palliativpatienten  
@@ -9,9 +10,7 @@
 - Notfallmedizin: nach Thoraxschmerz einer der häufigsten Einsatzgründe
 
 ---
-
 ## ❓ URSACHEN
-
 #### 1. Herz ❤️
 → Merkhilfe: „[CHAMPIT](CHAMPIT.md)“
 - C oronarsyndrom (ACS)  
@@ -24,7 +23,7 @@
 
 #### 2. Lunge 🫁
 - Pneumonie  
-- COPD  
+- [COPD](COPD.md)  
 - [[Asthma Bronchiale]]
 - Lungenembolie  
 - Pneumothorax  
@@ -45,18 +44,16 @@
 - Fieber 🤒  
 - Schmerz
 - Tumore
--  [Medikamentennebenwirkungen / Intoxikationen](Antidota.md)
+- [Medikamentennebenwirkungen / Intoxikationen](Antidota.md)
 
 ---
-
 ## 🚑 KLINIK
-
 #### 1. [[Asthma Bronchiale]]
 - Anfallsartige Atemnot  
 - Allergische Disposition  
 - Giemen, verlängerte Exspiration
 
-#### 2. COPD
+#### 2. [COPD](COPD.md)
 - Chronische Atemnot  
 - Raucheranamnese 🚬 
 - Giemen, verlängerte Exspiration  
@@ -75,7 +72,6 @@
 - Abgeschwächte Pulse
 
 ---
-
 ## 🩺 DIAGNOSTIK
 #### 1. Klinische Untersuchung 👀
 - Atemfrequenz
@@ -101,17 +97,16 @@
    5. In Ruhe / beim Verlassen des Hauses
 
 ---
-
 ## 🏥 THERAPIE
 
 #### 1. Allgemein 💬
 - Oberkörper hoch  
 - Sauerstoffgabe  
-	→ Ziel-SpO₂: 88–92 % bei **COPD**
+	→ Ziel-SpO₂: 88–92 % bei **[COPD](COPD.md)**
 	→ sonst Ziel-SpO₂ > 94 %
 - Monitoring (SpO₂, EKG, RR)
 
-#### 2. Exazerbierte COPD 🫁
+#### 2. Exazerbierte [COPD](COPD.md) 🫁
 🚨B-Problem🚨
 - Oberkörper hoch  
 - O₂ vorsichtig titrieren (Atemantrieb 💡)  
@@ -120,7 +115,7 @@
 	→ Salbutamol + Ipratropiumbromid  
 - ggf. systemisches β₂-Mimetikum
 	→ Reproterol  
-- Prednisolon 50–100 mg i.v.  
+- ggf. Prednisolon 50–100 mg i.v.  
 - Morphin niedrig dosiert bei schwerer Dyspnoe (Off-Label, palliativ gut belegt)
 
 #### 3. Fremdkörper / Bolusgeschehen 🍽️

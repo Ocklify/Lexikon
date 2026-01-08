@@ -6,12 +6,10 @@
 - Klinisch werden sie v. a. bei Tachyarrhythmien, Herzinsuffizienz, KHK und hypertensiven Krisen eingesetzt  
 
 ---
-
 ## 🚨 CAVE / MERKE 💡
 - **Absetzen**: Nie abrupt, da Rebound-Tachykardie und hypertensive Krisen drohen  
 
 ---
-
 ## 🧩 EINTEILUNG
 - β1-selektiv (kardioselektiv):  
 	→ *Bisoprolol, Metoprolol, Esmolol, Landiolol*  
@@ -25,7 +23,6 @@
 	→ lang (*Bisoprolol, Nadolol*)    
 
 ---
-
 ## ✨ WIRKUNG
 - Herz-Kreislauf: **negativ chrono-, dromo- und inotrop**, Blutdrucksenkung durch:  
 	→ Herzzeitvolumen ↓   
@@ -36,7 +33,6 @@
 	→ ZNS-Effekte (Müdigkeit, Schlafstörungen, Albträume)  
 
 ---
-
 ## 🚦 INDIKATIONEN
 - Tachyarrhythmien (z. B. Vorhofflimmern, supraventrikuläre Tachykardien)  
 - Akuter Myokardinfarkt (Sekundärprophylaxe)  
@@ -48,7 +44,6 @@
 - Glaukom (lokale Anwendung, z. B. Timolol)  
 
 ---
-
 ## 💊 DOSIERUNG
 - ***Landiolol***  
 	  - **Perfusor** 💉⏱️:  
@@ -60,7 +55,7 @@
 	  - **Hinweis**:  
 		→ Ultrakurzwirksam  
 		→ Sehr hohe β1-Selektivität (250:1), daher weniger negative Inotropie, weniger Hypotonie, weniger Bronchospasmus, dafür teurer  
-		→ bevorzugt bei *kritisch Kranken auf IT mit Tachykardien*  
+		→ bevorzugt bei *kritisch Kranken auf IT mit Tachykardien* 
 
 - ***Esmolol***  
 	  - **Perfusor** 💉⏱️:  
@@ -139,17 +134,15 @@
 	  - **Hinweis**: Kombinierte β- und α-Blockade, Mittel der Wahl bei *hypertensiven Notfällen*, auch in *Schwangerschaft*.
 
 ---
-
 ## ❌ KONTRAINDIKATIONEN
 - höhergradiger AV-Block  
 - ausgeprägte Bradykardie  
 - kardiogener Schock  
 - dekompensierte Herzinsuffizienz  
 - [Asthma Bronchiale](Asthma%20Bronchiale.md) (bei nicht-selektiven Substanzen)  
-- relative KI: COPD, pAVK, Schwangerschaft/Stillzeit (substanzabhängig)  
+- relative KI: [COPD](COPD.md), pAVK, Schwangerschaft/Stillzeit (substanzabhängig)  
 
 ---
-
 ## 🌀 NEBENWIRKUNGEN
 - Bradykardie, Hypotonie bis Asystolie  
 - AV-Blockierungen  

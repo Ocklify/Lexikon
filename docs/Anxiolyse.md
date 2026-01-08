@@ -2,24 +2,21 @@
 = gezielte medikamentöse Angstlösung
 
 ---
-
 ## ✨ DEFINITION
 - Anxiolyse bezeichnet die **pharmakologische Reduktion von Angstzuständen**, ohne vollständige Sedierung oder Bewusstseinsverlust.  
 - Ziel: Beruhigung bei erhaltenem Bewusstsein – z. B. vor Eingriffen, bei Panik oder akuter Belastung.  
 
 ---
-
 ## ⚗️ WIRKSTOFFKLASSEN
 | Klasse         | Beispiele                                          |
 | -------------- | -------------------------------------------------- |
-| Benzodiazepine | Midazolam, Lorazepam                               |
+| Benzodiazepine | [Midazolam](Midazolam.md), Lorazepam               |
 | Sedativa       | [Propofol](Propofol.md) (low-dose), Dexmedetomidin |
 | Antidepressiva | SSRI, SNRI (langfristig)                           |
 
 ---
-
 ## 📌 MERKE
-- Midazolam i.v.  
+- [Midazolam](Midazolam.md) i.v.  
 	→ anxiolytisch ab ca. 0,5–1 mg  
 - Wirkung über [GABA](GABA.md)-A  
 	→ neuronale Hemmung  
@@ -28,7 +25,6 @@
 - Monitoring empfohlen (Atmung, Vigilanz)  
 
 ---
-
 <details>
   <summary>🔤 Abkürzungen</summary>
   <table>

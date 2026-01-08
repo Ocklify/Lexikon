@@ -6,50 +6,66 @@
 🟧 Orange: kritisch, potenziell instabil  
 🟨 Gelb: strukturell oder rhythmogen
 
-<table>
+<table class="color-table">
   <thead>
     <tr>
-      <th>Kürzel</th>
-      <th>Ursache</th>
-      <th>Beispiel / Fokus</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Kürzel</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Ursache</th>
+      <th style="background: var(--header-bg); color: var(--text-color);">Beispiel / Fokus</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr style="background-color:#ff9999">
-      <td>C</td>
+
+    <!-- C – Coronarsyndrom = Rot -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
+      <td><b>C</b></td>
       <td>Coronarsyndrom</td>
       <td>STEMI, NSTEMI, instabile AP → Ischämie, Pumpversagen</td>
     </tr>
-    <tr style="background-color:#ffcc99">
-      <td>H</td>
+
+    <!-- H – Hypertensive Krise = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
+      <td><b>H</b></td>
       <td>Hypertensive Krise</td>
       <td>RR > 180/110 mmHg mit kardialer Dekompensation</td>
     </tr>
-    <tr style="background-color:#ffffcc">
-      <td>A</td>
+
+    <!-- A – Arrhythmien = Gelb -->
+    <tr style="background: var(--ct-yellow-bg); color: var(--ct-yellow-text);">
+      <td><b>A</b></td>
       <td>Arrhythmien</td>
       <td>Vorhofflimmern, Kammerflimmern, Bradykardien, Tachykardien</td>
     </tr>
-    <tr style="background-color:#ff9999">
-      <td>M</td>
+
+    <!-- M – Mechanische Ursachen = Rot -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
+      <td><b>M</b></td>
       <td>Mechanische Ursachen</td>
       <td>Myokardruptur, Klappeninsuffizienz, Tamponade, Spannungspneumothorax</td>
     </tr>
-    <tr style="background-color:#ff9999">
-      <td>P</td>
+
+    <!-- P – Pulmonalarterienembolie = Rot -->
+    <tr style="background: var(--ct-red-bg); color: var(--ct-red-text);">
+      <td><b>P</b></td>
       <td>Pulmonalarterienembolie</td>
       <td>Massive LAE mit Rechtsherzversagen</td>
     </tr>
-    <tr style="background-color:#ffcc99">
-      <td>I</td>
+
+    <!-- I – Ischämie anderer Genese = Orange -->
+    <tr style="background: var(--ct-orange-bg); color: var(--ct-orange-text);">
+      <td><b>I</b></td>
       <td>Ischämie anderer Genese</td>
       <td>z. B. Aortendissektion, mesenteriale Ischämie</td>
     </tr>
-    <tr style="background-color:#ffffcc">
-      <td>T</td>
+
+    <!-- T – Takotsubo / toxisch / Trauma = Gelb -->
+    <tr style="background: var(--ct-yellow-bg); color: var(--ct-yellow-text);">
+      <td><b>T</b></td>
       <td>Takotsubo / toxisch / Trauma</td>
-      <td>Stress-Kardiomyopathie, Intoxikation, Thoraxtrauma</td>
+      <td>Stress‑Kardiomyopathie, Intoxikation, Thoraxtrauma</td>
     </tr>
+
   </tbody>
 </table>
 

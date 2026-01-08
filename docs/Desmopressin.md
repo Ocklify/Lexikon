@@ -11,9 +11,9 @@
 	→ **Wasserretention** 
 	→ **Hämostase ↑** (vWF, Faktor VIII)  
 ---
-## 🚨 CAVE / MERKE
+## 🚨 CAVE / MERKE 💡 
 - **[ADH](ADH.md) (Vasopressin) ≠ Desmopressin**    
-- **[Hyponatriämie](Hyponatriämie.md)-Risiko** bei Überdosierung
+- **[Hyponatriaemie](Hyponatriaemie.md)-Risiko** bei Überdosierung
 ---
 ## ✨ WIRKUNG
 #### 1. Niere  
@@ -34,7 +34,7 @@
 - **Nasale Applikation:** 150–300 µg (z. B. bei Diabetes insipidus oder vWF-Mangel)  
 - **Oral:** 0,1–0,4 mg (v. a. bei Enuresis nocturna)  
 
-⚠️ Flüssigkeitsrestriktion nach Gabe beachten ([Hyponatriämie](Hyponatriämie.md)-Risiko)  
+⚠️ Flüssigkeitsrestriktion nach Gabe beachten ([Hyponatriaemie](Hyponatriaemie.md)-Risiko)  
 
 ---
 ## 🚦 INDIKATIONEN
@@ -44,21 +44,20 @@
 - Hämophilie A (leichte bis moderate Formen)  
 - Perioperativ zur Blutungsprophylaxe bei milden Gerinnungsstörungen
 - [Desmopressin-Clamp](Desmopressin-Clamp.md)
-	→ bei Überkorrektur von [Hyponatriämie](Hyponatriämie.md)
+	→ bei Überkorrektur von [Hyponatriaemie](Hyponatriaemie.md)
 ---
 ## ❌ KONTRAINDIKATIONEN
-- [Hyponatriämie](Hyponatriämie.md) oder Risiko dafür  
+- [Hyponatriaemie](Hyponatriaemie.md) oder Risiko dafür  
 - Herzinsuffizienz, unkontrollierte Hypertonie  
 - Thromboembolische Ereignisse in der Vorgeschichte  
 - Kinder < 2 Jahre (erhöhtes Risiko für Hyponatriämie/Krämpfe)  
 ---
 ## 🌀 NEBENWIRKUNGEN
-- [Hyponatriämie](Hyponatriämie.md) 
+- [Hyponatriaemie](Hyponatriaemie.md) 
 	→ Kopfschmerzen, Übelkeit, Krampfanfälle  
 - Flush, Kopfschmerzen, Hypotonie  
 - Selten: Thrombosen (bei Prädisposition)  
 ---
-
 <details>
 <summary>🔤 Abkürzungen</summary>
 

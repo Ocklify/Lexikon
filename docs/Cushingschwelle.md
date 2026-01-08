@@ -11,14 +11,12 @@ Die **Cushingschwelle** beschreibt die tägliche Glucocorticoid-Dosis, ab der ei
 	→ perioperative Substitution abhängig von Eingriffsgröße  
 
 ---
-
 ## 🚨 CAVE / MERKE 💡
 - Referenz ist **Prednisolon-Äquivalent**, nicht Cortisol  
 - **Zu hohe Substitution**  
 	→ erhöhtes Infektions- und Wundheilungsrisiko  
 
 ---
-
 ## 💊 DOSIERUNG
 
 | Eingriffsgröße                                                      | Hydrocortison i.v.                   | Bemerkungen                                                           |
@@ -83,7 +81,6 @@ Problem:
 </details>
 
 ---
-
 ## 📜 LISTE – Äquivalenzdosen
 | Substanz           | Biol. HWZ     | Äquivalenzdosis (mg) |
 |--------------------|---------------|-----------------------|
@@ -99,7 +96,6 @@ Problem:
 | Dexamethason       | lang          | 0,75–1               |
 
 ---
-
 <details>
 <summary>🔤 Abkürzungen</summary>
 

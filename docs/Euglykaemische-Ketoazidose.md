@@ -1,10 +1,9 @@
 # Euglykämische Ketoazidose
-= Perioperativer Umgang mit einer euglykämischen Ketoazidose (EDKA)
+= Perioperativer Umgang mit einer euglykämischen, diabetischen Ketoazidose (EDKA)
 
-![EDKA](img/EuglykaemischeKetoazidose.jpeg)
+![EDKA](img/EuglykaemischeKetoazidose.jpeg){width="200"}
 
 ---
-
 ## PRÄOPERATIV
 - 📆 Absetzen von SGLT-2-Inhibitoren 
 	→ 3 Tage vor elektiver OP
@@ -20,7 +19,6 @@
 
 
 ---
-
 ## PERIOPERATIV
  - 👀 Überwachung
 	→ auch bei normoglykämischen Patienten!

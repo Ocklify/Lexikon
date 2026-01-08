@@ -3,14 +3,12 @@
 = Prostaglandin E1
 
 ---
-
 ## 💬 KURZ
 - Vasodilatation und [TAH](TAH.md)
 - **ultima ratio** bei pAVK im Stadium III und IV
 - wenn andere Verfahren nicht möglich oder erfolglos sind
 
 ---
-
 ## 🚨 CAVE / MERKE 💡
 - Vorsicht bei:  
 	→ eingeschränkter **Nierenfunktion** (Dosisanpassung erforderlich)  
@@ -18,7 +16,6 @@
 - Therapie nur stationär oder unter strenger ärztlicher Kontrolle
 
 ---
-
 ## 🚦 INDIKATIONEN
 - Reserveoption in individuellen Ausnahmefällen  
 	→ wenn Revaskularisation nicht möglich ist  
@@ -73,7 +70,6 @@
 </details>
 
 ---
-
 ## ✨ WIRKUNG
 - **Vasodilatation**:  
 	→ Verbesserung die Mikrozirkulation  
@@ -82,7 +78,6 @@
 	→ [TAH](TAH.md) deutlich schwächer als ASS 100  
 
 ---
-
 ## 💊 DOSIERUNG
 - 20–40(–60) µg, 1-0-1  
 	→ auf 50 ml NaCl aufziehen  
@@ -94,16 +89,14 @@
 	→ in der Regel 2–4 Wochen, abhängig vom klinischen Verlauf  
 
 ---
-
 ## ❌ KONTRAINDIKATIONEN
 - ❤️: Schwere Herzinsuffizienz, frischer Myokardinfarkt (< 6 Monate), höhergradige Herzrhythmusstörungen.  
-- 🫁: Schwere Lungenerkrankungen (z. B. Lungenödem, COPD im Endstadium).  
-- 🥠Leberfunktionsstörungen oder stark erhöhte Transaminasen.  
-- 🩸 Erhöhtes Blutungsrisiko (z. B. Ulzera, Polytrauma, Antikoagulation).  
+- 🫁: Schwere Lungenerkrankungen (z. B. Lungenödem, [COPD](COPD.md) im Endstadium).  
+- 🥠: Leberfunktionsstörungen oder stark erhöhte Transaminasen.  
+- 🩸: Erhöhtes Blutungsrisiko (z. B. Ulzera, Polytrauma, Antikoagulation).  
 - Überempfindlichkeit gegen Alprostadil oder Bestandteile des Präparats.  
 
 ---
-
 ## 🔄 WECHSELWIRKUNGEN
 - **Antihypertensiva & Vasodilatatoren**:  
 	→ Verstärkte Blutdrucksenkung möglich  
@@ -129,7 +122,6 @@
 	→ Hypotonie, Tachykardie  
 
 ---
-
 <details>
   <summary>🔤 Abkürzungen</summary>
   <table>

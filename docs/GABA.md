@@ -2,7 +2,6 @@
 = Gamma-Aminobuttersäure
 
 ---
-
 ## 🔤 KURZ
 - GABA ist der **wichtigste inhibitorische Neurotransmitter** im zentralen Nervensystem.  
 - Er reguliert die neuronale Erregbarkeit und wirkt **dämpfend** auf die Reizweiterleitung.
@@ -37,7 +36,7 @@
 
 ---
 ## 📌 MERKE
-- GABA wirkt **nicht analgetisch**, aber **sedierend & anxiolytisch**  
+- GABA wirkt **nicht analgetisch**, aber **sedierend & [anxiolytisch](Anxiolyse.md)**  
 - viele Anästhetika und Sedativa greifen am GABA-System an  
 - GABA-A: ionotrop (Cl⁻)  
 - GABA-B: metabotrop (G-Protein-gekoppelt)

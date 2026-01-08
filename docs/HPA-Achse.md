@@ -7,9 +7,7 @@
 4. Cortisol wirkt zurück (negative Rückkopplung) und reguliert Hypothalamus und Hypophyse.
 <img src="../img/HpaAchse.jpg" alt="HPA-Achse" 
      style="max-width:60%;height:auto;display:block;margin:1em 0 1em 0; text-align:left;">
-
 ---
-
 ## AKRONYM
 - H = Hypothalamus
 - P = Pituitary (engl. für Hypophyse)

@@ -2,7 +2,7 @@
 = Antidiuretisches Hormon  
 = Vasopressin ≠ [Desmopressin](Desmopressin.md)
 
-<img src="img/ADH.jpeg" alt="ADH" width="200"/>
+![ADH](img/ADH.jpeg){width="200"}
 
 (Bild 1)
 
@@ -17,10 +17,10 @@
 
 ## 🚨 CAVE / MERKE 💡
 - **ADH-Überschuss**  
-	→ [Hyponatriämie](Hyponatriämie.md) (z. B. SIADH)  
+	→ [Hyponatriaemie](Hyponatriaemie.md) (z. B. SIADH)  
 - **ADH-Mangel**  
 	→ Diabetes insipidus  
-- [Desmopressin](Desmopressin.md) darf **nicht** bei Herzinsuffizienz oder [Hyponatriämie](Hyponatriämie.md) gegeben werden  
+- [Desmopressin](Desmopressin.md) darf **nicht** bei Herzinsuffizienz oder [Hyponatriaemie](Hyponatriaemie.md) gegeben werden  
 
 ---
 
@@ -56,7 +56,7 @@
 - **Mangel**:  
 	→ Diabetes insipidus (Polyurie, Polydipsie)  
 - **Überschuss**:  
-	→ SIADH → [Hyponatriämie](Hyponatriämie.md), neurologische Symptome  
+	→ SIADH → [Hyponatriaemie](Hyponatriaemie.md), neurologische Symptome  
 
 ---
 
