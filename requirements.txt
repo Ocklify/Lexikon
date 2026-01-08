@@ -1,5 +1,6 @@
 mkdocs
 mkdocs-material
 pymdown-extensions
+mkdocs-callouts
 mkdocs-glightbox
-Mkdocs-gen-files
+mkdocs-gen-files
