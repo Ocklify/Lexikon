@@ -1,0 +1,59 @@
+/* Schmalere, linksbündige Boxen */
+.md-typeset .admonition,
+.md-typeset details.admonition {
+  max-width: 720px;
+  margin: 1rem 0;  /* statt auto → linksbündig */
+  padding: 0.4rem 0.8rem;
+}
+
+/* Innenabstände etwas luftiger */
+.md-typeset .admonition,
+.md-typeset details.admonition {
+  padding: 0.4rem 0.8rem;
+}
+
+/* 🔵 Beispiel (Blau) */
+.md-typeset .admonition.beispiel,
+.md-typeset details.beispiel {
+  border-left: 4px solid #2979ff;
+  background: rgba(41, 121, 255, 0.08);
+}
+
+/* 🟡 Merke (Gelb) */
+.md-typeset .admonition.merke,
+.md-typeset details.merke {
+  border-left: 4px solid #fbc02d;
+  background: rgba(251, 192, 45, 0.12);
+}
+
+/* 🔴 Achtung (Rot) */
+.md-typeset .admonition.achtung,
+.md-typeset details.achtung {
+  border-left: 4px solid #e53935;
+  background: rgba(229, 57, 53, 0.10);
+}
+.md-typeset .admonition .admonition-title,
+.md-typeset details.admonition summary {
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.md-typeset .admonition .admonition-title::before,
+.md-typeset details.admonition summary::before {
+  opacity: 0.75;
+}
+/* Pfeil-Icon etwas kleiner */
+.md-typeset details.admonition summary::after {
+  transform: scale(0.9);
+}
+
+/* Inhalt mit etwas Abstand zur Titelzeile */
+.md-typeset details.admonition > *:not(summary) {
+  margin-top: 0.6rem;
+}
+@media (max-width: 480px) {
+  .md-typeset .admonition,
+  .md-typeset details.admonition {
+    max-width: 100%;
+    margin: 0.75rem 0;
+  }
+}
