@@ -1,0 +1,12 @@
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.grid-3 > div {
+  background: rgba(0,0,0,0.02);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+}
