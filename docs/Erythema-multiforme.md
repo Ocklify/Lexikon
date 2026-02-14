@@ -7,7 +7,7 @@
 - Betrifft v. a. **Kinder und junge Erwachsene**  
 - Typisch: schießscheibenartige Hautläsionen  
 
-![EM1](img/EM1.jpeg){width=„200“}
+![EM1](img/EM1.jpeg){width=“200“}
 ([Bild 1](https://cdn-prod.medicalnewstoday.com/content/images/articles/323/323801/erythema-multiforme-on-a-childs-elbows-br-image-credit-dermnet-new-zealand-br.jpg))
 
 ---

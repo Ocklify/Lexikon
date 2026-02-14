@@ -81,17 +81,18 @@ $$
 $$
 VO_2 = (FiO_2 - EtO_2) \times MV
 $$
-- **Normwert VO₂**: 
+
+- Normwert VO₂: 
 	→ 3–4 ml/kg/min  
 	→ ≈ 250 ml/min bei 70 kg  
-- Sinkt bei:  
-	→ Hypothermie  
-	→ tiefer Narkose  
-	→ Kreislaufdepression. 
-- Steigt bei:  
-	→ Fieber  
-	→ Sepsis  
-	→ Hypermetabolismus  
+	- Sinkt bei:  
+		→ Hypothermie  
+		→ tiefer Narkose  
+		→ Kreislaufdepression. 
+	- Steigt bei:  
+		→ Fieber  
+		→ Sepsis  
+		→ Hypermetabolismus  
 
 #### ΔVT (Delta Tidalvolumen)
 - **Normwert**:  
@@ -104,23 +105,33 @@ $$
 ---
 
 <details>
-<summary>🩺 Praxisbeispiele</summary>
+  <summary>🩺 Praxisbeispiele</summary>
 
-- **COPD-Patient:**  
-  - EtCO₂ ↑ mit breitem Plateau → CO₂-Retention  
-  - MV × CO₂ ineffizient → Totraum ↑  
-  - ΔVT hoch → unregelmäßige Spontanatmung unter Narkose  
+  <ul>
+    <li><strong>COPD-Patient:</strong>
+      <ul>
+        <li>EtCO₂ ↑ mit breitem Plateau → CO₂-Retention</li>
+        <li>MV × CO₂ ineffizient → Totraum ↑</li>
+        <li>ΔVT hoch → unregelmäßige Spontanatmung unter Narkose</li>
+      </ul>
+    </li>
 
-- **Narkoseausleitung:**  
-  - EtO₂ steigt, Uptake sinkt → Wash-out der Narkosegase  
-  - ΔVT nimmt zu → Rückkehr der Spontanatmung  
-  - EtCO₂-Trend stabilisiert sich → Kreislauf stabil  
+    <li><strong>Narkoseausleitung:</strong>
+      <ul>
+        <li>EtO₂ steigt, Uptake sinkt → Wash-out der Narkosegase</li>
+        <li>ΔVT nimmt zu → Rückkehr der Spontanatmung</li>
+        <li>EtCO₂-Trend stabilisiert sich → Kreislauf stabil</li>
+      </ul>
+    </li>
 
-- **Lagerungseffekte (z. B. Bauchlagerung):**  
-  - Cdyn ↑ nach Rekrutierung → bessere Compliance  
-  - FiO₂–EtO₂-Differenz ↓ → verbesserte Oxygenierung  
-  - O₂ Uptake ↑ → gesteigerte alveoläre Aufnahme  
-
+    <li><strong>Lagerungseffekte (z. B. Bauchlagerung):</strong>
+      <ul>
+        <li>Cdyn ↑ nach Rekrutierung → bessere Compliance</li>
+        <li>FiO₂–EtO₂-Differenz ↓ → verbesserte Oxygenierung</li>
+        <li>O₂ Uptake ↑ → gesteigerte alveoläre Aufnahme</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 ---

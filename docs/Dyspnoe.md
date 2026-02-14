@@ -12,7 +12,7 @@
 ---
 ## ❓ URSACHEN
 #### 1. Herz ❤️
-→ Merkhilfe: „[CHAMPIT](CHAMPIT.md)“
+> Merkhilfe: „[CHAMPIT](CHAMPIT.md)“  
 - C oronarsyndrom (ACS)  
 - H ypertensiver Notfall  
 - A rrhythmien  
@@ -24,7 +24,7 @@
 #### 2. Lunge 🫁
 - Pneumonie  
 - [COPD](COPD.md)  
-- [[Asthma Bronchiale]]
+- [Asthma Bronchiale](Asthma%20Bronchiale.md)
 - Lungenembolie  
 - Pneumothorax  
 - Pleuraerguss  
@@ -48,7 +48,7 @@
 
 ---
 ## 🚑 KLINIK
-#### 1. [[Asthma Bronchiale]]
+#### 1. [Asthma Bronchiale](Asthma%20Bronchiale.md)
 - Anfallsartige Atemnot  
 - Allergische Disposition  
 - Giemen, verlängerte Exspiration
@@ -107,7 +107,7 @@
 - Monitoring (SpO₂, EKG, RR)
 
 #### 2. Exazerbierte [COPD](COPD.md) 🫁
-🚨B-Problem🚨
+🚨B-Problem🚨  
 - Oberkörper hoch  
 - O₂ vorsichtig titrieren (Atemantrieb 💡)  
 - Ggf. NIV (CPAP/BiPAP)  
@@ -119,7 +119,7 @@
 - Morphin niedrig dosiert bei schwerer Dyspnoe (Off-Label, palliativ gut belegt)
 
 #### 3. Fremdkörper / Bolusgeschehen 🍽️
-🚨A-Problem🚨
+🚨A-Problem🚨  
 - Sofortige Entfernung, ggf. Magill-Zange / Bronchoskopie  
 - Bei kompletter Obstruktion: Heimlich-Manöver / Notfallkoniotomie
 
@@ -140,14 +140,14 @@
 - Regelmäßige Bronchoskopie zur Reinigung
 
 #### 7. Palliativpatienten
-**Allgemein**💬
+**Allgemein**💬  
 - Aktivität fördern, Pausen einplanen  
 - Luftzug (Ventilator, Fenster)  
 - Lippenbremse  
 - Physio-/Ergotherapie  
-- Psychologische Unterstützung
+- Psychologische Unterstützung  
 
-**Medikamente**💊
+**Medikamente**💊  
 - Opiate (Morphin Goldstandard)  
 	  - 2,5–5 mg p.o. alle 4 h oder 1–2,5 mg s.c./i.v.  
 - Benzodiazepine (bei Angstkomponente)  

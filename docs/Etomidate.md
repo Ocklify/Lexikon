@@ -14,7 +14,7 @@ Etomidate ist ein kurzwirksames Hypnotikum zur Narkoseeinleitung. Es ist kreisla
 	→ bei 80 kg also ca. **20 mg**  
 	→ Maximaldosis: 80 mg  
 - Standardlösung: 0,2 % → **10 ml = 20 mg** 💡  
-- Sehr breite therapeutische Breite (letal erst bei ca. 20-facher Dosis)  
+- Sehr große therapeutische Breite (letal erst bei ca. 20-facher Dosis)  
 
 ---
 ## ⚗️ PHARMAKOLOGIE
