@@ -1,14 +1,14 @@
 # Metamizol
-= **Novalgin**, **Dipyrone (INN)**
+= **Novalgin**, **Dipyrone**
 
 ---
 ## 💬 KURZ
 - Starkes **Analgetikum**, **Antipyretikum** und **Spasmolytikum**, häufig perioperativ.
-- Hauptproblem ist die **idiosynkratische Agranulozytose** — selten, aber potenziell lebensbedrohlich.
+- Hauptproblem ist die **medikamenteninduzierte Agranulozytose** — selten, aber potenziell lebensbedrohlich.
 
 ---
 ## 🚨 CAVE / MERKE 💡
-- Keine Wirkung auf Thrombozytenaggregation  
+- Keine Wirkung auf [Thrombozytenaggregation](TAH.md)  
 - Keine antiinflammatorische Wirkung  
 - Gute gastrointestinale Verträglichkeit  
 - In vielen Ländern nicht zugelassen wegen Agranulozytoserisiko  
@@ -21,8 +21,8 @@
 - **Antipyretisch**  
 - **Spasmolytisch** (viszerale Schmerzen)  
 - Wirkeintritt:  
-  - **i.v.: 5–10 min**  
-  - p.o.: ~30 min  
+	- **i.v.: 5–10 min**  
+	- p.o.: ~30 min  
 - Wirkdauer: 4–6 h  
 
 ---
@@ -58,7 +58,7 @@
 - **Agranulozytose** (selten, aber gefährlich)  
 - Leukopenie, Panzytopenie  
 - Hypotonie, anaphylaktoide Reaktionen  
-- Hautreaktionen (selten SJS/TEN)  
+- Hautreaktionen (selten [SJS](Stevens-Johnson-Syndrom.md)/TEN)  
 - Transaminasenanstieg  
 
 ---
@@ -79,7 +79,7 @@
 <details>
 <summary><strong>🩺 Diagnostik</strong></summary>
 
-<p><strong>1) Blut 🩸</strong></p>
+<p style="margin-left: 20px;"><strong>1) Blut 🩸</strong></p>
 <ul>
     <li>Leukozyten insgesamt ↓</li>
     <li>Neutrophile absolut ↓↓↓</li>
@@ -109,7 +109,7 @@
     <p style="margin: 0;"><u>Interpretation:</u></p>
 </div>
 
-<div style="margin-left: 25px; margin-top: 4px;">
+<div style="margin-left: 20px; margin-top: 4px;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li>&gt;1,5 G/L – normal</li>
         <li>1,0–1,5 G/L – leichte Neutropenie</li>
@@ -171,17 +171,17 @@
 
 ## 🔍 Vergleich: Metamizol vs. NSAR vs. Paracetamol vs. Coxibe
 
-| Eigenschaft                 | Metamizol | NSAR                      | Paracetamol     | Coxibe |
-| --------------------------- | --------- | ------------------------- | --------------- | ------ |
-| **Analgesie**               | +++       | ++                        | +               | ++     |
-| **Antipyretisch**           | ++        | ++                        | +++             | +      |
-| **Antiinflammatorisch**     | –         | +++                       | –               | ++     |
-| **Spasmolytisch**           | ++        | –                         | –               | –      |
-| **GI‑Risiko**               | +         | +++                       | +               | +      |
-| **Thrombozytenhemmung**     | –         | ++ (irreversibel bei ASS) | –               | –      |
-| **Nierenrisiko**            | +         | +++                       | +               | ++     |
-| **Kardiovaskuläres Risiko** | +         | ++                        | +               | +++    |
-| **Agranulozytoserisiko**    | ++        | –                         | ± (sehr selten) | –      |
+| Eigenschaft                 | Metamizol | NSAR | [Paracetamol](Paracetamol.md) | Coxibe |
+| --------------------------- | --------- | ---- | ----------------------------- | ------ |
+| **Analgesie**               | +++       | ++   | +                             | ++     |
+| **Antipyretisch**           | ++        | ++   | +++                           | +      |
+| **Antiinflammatorisch**     | –         | +++  | –                             | ++     |
+| **Spasmolytisch**           | ++        | –    | –                             | –      |
+| **GI‑Risiko**               | +         | +++  | +                             | +      |
+| **Thrombozytenhemmung**     | –         | ++   | –                             | –      |
+| **Nierenrisiko**            | +         | +++  | +                             | ++     |
+| **Kardiovaskuläres Risiko** | +         | ++   | +                             | +++    |
+| **Agranulozytoserisiko**    | ++        | –    | ± (extrem selten)             | –      |
 
 ---
 
@@ -193,12 +193,28 @@
 <tr><th>Abkürzung</th><th>Bedeutung</th></tr>
 </thead>
 <tbody>
+
 <tr><td>ANC</td><td>Absolute Neutrophil Count / Neutrophile absolut</td></tr>
 <tr><td>G‑CSF</td><td>Granulozyten‑Kolonie‑stimulierender Faktor</td></tr>
 <tr><td>SJS</td><td>Stevens‑Johnson‑Syndrom</td></tr>
 <tr><td>TEN</td><td>Toxische epidermale Nekrolyse</td></tr>
+
+<tr><td>CRP</td><td>C‑reaktives Protein</td></tr>
+<tr><td>PCT</td><td>Prokalzitonin</td></tr>
+
+<tr><td>i.v.</td><td>intravenös</td></tr>
+<tr><td>p.o.</td><td>per os (oral)</td></tr>
+
+<tr><td>NSAR</td><td>Nichtsteroidale Antirheumatika</td></tr>
+<tr><td>ASS</td><td>Acetylsalicylsäure</td></tr>
+
+<tr><td>KI</td><td>Kontraindikation</td></tr>
+
+<tr><td>SJS/TEN</td><td>Schwere kutane Arzneimittelreaktionen</td></tr>
+
 </tbody>
 </table>
+
 
 </details>
 

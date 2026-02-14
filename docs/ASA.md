@@ -12,7 +12,7 @@
 
 > [!tip] Cleveres Vorgehen  
 > **Pragmatischer Ansatz:**  
-> Jede **pAVK, COPD, KHK, Diabetes und CNI automatisch ASA III**  
+> Jede **pAVK, [COPD](COPD.md), KHK, Diabetes und CNI automatisch ASA III**  
 > (auch wenn theoretisch ASA II)  
 >  
 > **Warum?**  
@@ -27,14 +27,14 @@
 > ASA beschreibt den **Gesundheitszustand**, nicht das **Operationsrisiko**.  
 > Für Risikoabschätzung → z. B. **RCRI**, **NSQIP**, **ACS-Risk-Tools**.
 
-| ASA | Definition | Beispiele (kurz) |
-|-----|------------|------------------|
-| **I** | Gesund | Keine Erkrankungen, keine Medikation |
-| **II** | Leichte systemische Erkrankung **ohne** Funktionseinschränkung | Gut eingestellte Hypertonie/DM, milde COPD ohne Dyspnoe, pAVK Stadium I, BMI 30–35, Raucher ohne Symptome |
-| **III** | Schwere systemische Erkrankung **mit** Funktionseinschränkung | COPD mit Belastungsdyspnoe, pAVK ab Stadium II, symptomatische KHK, DM mit Organmanifestation, BMI ≥40, starker Raucher mit Symptomen |
-| **IV** | Schwere Erkrankung mit **konstanter Lebensbedrohung** | Instabile Angina, dekompensierte HI, schwere Sepsis |
-| **V** | Moribund, stirbt ohne OP | Rupturiertes AAA, Polytrauma mit Schock |
-| **VI** | Hirntod, Organentnahme | Organspender |
+| ASA     | Definition                                                     | Beispiele (kurz)                                                                                                                                 |
+| ------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **I**   | Gesund                                                         | Keine Erkrankungen, keine Medikation                                                                                                             |
+| **II**  | Leichte systemische Erkrankung **ohne** Funktionseinschränkung | Gut eingestellte Hypertonie/DM, milde [COPD](COPD.md) ohne [Dyspnoe](Dyspnoe.md), pAVK Stadium I, BMI 30–35, Raucher ohne Symptome               |
+| **III** | Schwere systemische Erkrankung **mit** Funktionseinschränkung  | [COPD](COPD.md) mit Belastungsdyspnoe, pAVK ab Stadium II, symptomatische KHK, DM mit Organmanifestation, BMI ≥40, starker Raucher mit Symptomen |
+| **IV**  | Schwere Erkrankung mit **konstanter Lebensbedrohung**          | Instabile Angina, dekompensierte HI, schwere Sepsis                                                                                              |
+| **V**   | Moribund, stirbt ohne OP                                       | Rupturiertes AAA, Polytrauma mit Schock                                                                                                          |
+| **VI**  | Hirntod, Organentnahme                                         | Organspender                                                                                                                                     |
 
 ---
 
@@ -67,7 +67,7 @@ Erkrankung vorhanden, aber **gut kompensiert**, **keine** Einschränkung der Bel
 
 > [!tip] Tipp  
 > **Pragmatischer Ansatz:**  
-> → Jede pAVK, KHK, COPD, Diabetes und CNI = **ASA III**  
+> → Jede pAVK, KHK, [COPD](COPD.md), Diabetes und CNI = **ASA III**  
 >
 > **Warum?**  
 > 1. Mehr Sicherheit  
@@ -76,9 +76,9 @@ Erkrankung vorhanden, aber **gut kompensiert**, **keine** Einschränkung der Bel
 
 ### Theoretische ASA-II-Situationen
 
-#### COPD
+#### [COPD](COPD.md)
 - GOLD I  
-- Keine Dyspnoe im Alltag  
+- Keine [Dyspnoe](Dyspnoe.md) im Alltag  
 - Keine Exazerbationen im letzten Jahr  
 
 #### pAVK
@@ -126,8 +126,8 @@ Erkrankung mit **funktioneller Einschränkung**, **Organmanifestation**, **Insta
 
 ### Theoretische ASA-III-Situationen
 
-#### COPD
-- Dyspnoe bei geringer/moderater Belastung  
+#### [COPD](COPD.md)
+- [Dyspnoe](Dyspnoe.md) bei geringer/moderater Belastung  
 - ≥1 Exazerbation/Jahr  
 - Moderat–schwere Lungenfunktionseinschränkung  
 
@@ -156,7 +156,7 @@ Erkrankung mit **funktioneller Einschränkung**, **Organmanifestation**, **Insta
 #### Rauchen
 - Starker Raucher  
 - Chronischer Husten  
-- Belastungsdyspnoe  
+- [Belastungsdyspnoe](Dyspnoe.md)  
 
 #### Psychische Erkrankungen
 - Schwere Depression  
@@ -318,7 +318,7 @@ Schwere Erkrankung, die **ständig lebensbedrohlich** ist.
 - Instabile Angina  
 - Dekompensierte Herzinsuffizienz  
 - Schwere Sepsis  
-- Respiratorische Insuffizienz mit Ruhe-Dyspnoe  
+- Respiratorische Insuffizienz mit Ruhe-[Dyspnoe](Dyspnoe.md)  
 
 <details>
 <summary><strong>Warum ASA IV?</strong></summary>

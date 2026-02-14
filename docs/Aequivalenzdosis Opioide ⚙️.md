@@ -1,3 +1,5 @@
+# Äquivalenzdosis
+
 Hydromorphon 8mg oral
 = 4 mg Hydromorphon i.v. 
 = 60 mg Morphin oral

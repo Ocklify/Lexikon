@@ -49,7 +49,7 @@
 > 3. AF ≥20/min oder PaCO₂ ≤33 mmHg  
 > 4. Leukozytopenie / -zytose oder Linksverschiebung ≥10 % stabkernige Neutrophile  
 >
-> #### Sepsis
+> #### Sepsis (alt)
 > 1. **Sepsis** = SIRS + Verdacht auf Infektion  
 > 2. **Schwere Sepsis** = Sepsis + Organdysfunktion  
 > 3. **Septischer Schock** = schwere Sepsis + Hypotonie (MAP <65 mmHg)
@@ -62,11 +62,11 @@
 - v. a. für Rettungsdienst & Notaufnahme  
 - ≥2 Punkte → **hohes Risiko für schweren Verlauf**
 
-| Kriterium      | Schwelle    |
-|----------------|-------------|
-| Atemfrequenz   | ≥22/min     |
-| GCS            | <15         |
-| syst. RR       | ≤100 mmHg   |
+| Kriterium     | Schwelle    |
+| ------------- | --------- |
+| Atemfrequenz  | ≥22/min     |
+| [GCS](GCS.md) | <15         |
+| syst. RR      | ≤100 mmHg   |
 
 #### 2. SOFA
 - **Sepsis liegt vor, wenn eine akute SOFA‑Verschlechterung um ≥2 Punkte im Rahmen einer Infektion auftritt.**  
@@ -75,7 +75,7 @@
 
 |                                       | 0 Punkte     | 1 Punkt      | 2 Punkte                  | 3 Punkte                          | 4 Punkte                          |
 | ------------------------------------- | ------------ | ------------ | ------------------------- | --------------------------------- | --------------------------------- |
-| **ZNS** 🧠<br>GCS                     | 15           | 14–13        | 12–10                     | 9–6                               | <6                                |
+| **ZNS** 🧠<br>[GCS](GCS.md)           | 15           | 14–13        | 12–10                     | 9–6                               | <6                                |
 | **Herz** ❤️                           | MAP ≥70 mmHg | MAP <70 mmHg | Dopamin ≤5 oder Dobutamin | NOR ≤0,1 µg/kg/min<br>≈ <0,5 mg/h | NOR >0,1 µg/kg/min<br>≈ >0,5 mg/h |
 | **Lunge** 🫁<br>PaO₂/FiO₂             | ≥400         | <400         | <300                      | <200 (mit Beatmung)               | <100 (mit Beatmung)               |
 | **Niere** 🫘<br>Kreatinin<br>\[mg/dl] | <1,2         | 1,2–1,9      | 2,0–3,4                   | 3,5–4,9 oder Diurese <500 ml/d    | ≥5,0 oder Diurese <200 ml/d       |

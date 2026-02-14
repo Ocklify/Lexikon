@@ -1,6 +1,48 @@
-# MkDocs build output (wird von Netlify neu erzeugt)
+# ----------------------------------------
+# Obsidian (volatile local state)
+# ----------------------------------------
+.obsidian/cache/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/backups/
+
+# Plugin-spezifische volatile Daten
+.obsidian/plugins/*/data.json
+
+# ----------------------------------------
+# macOS / iCloud Artefakte
+# ----------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# ----------------------------------------
+# MkDocs build output
+# ----------------------------------------
 site/
 
+# ----------------------------------------
 # Python cache
+# ----------------------------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtuelle Umgebungen
+venv/
+env/
+.virtualenv/
+
+# ----------------------------------------
+# Netlify
+# ----------------------------------------
+.netlify/
