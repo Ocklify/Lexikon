@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Euglykaemische-Ketoazidose.md",
+                "file": "docs/Absetzen-von-Medikamenten-vor-OPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euglykaemische-Ketoazidose"
+              "title": "Absetzen-von-Medikamenten-vor-OPs"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a778ccaa95c08c57",
+  "active": "ba55f509087e43b9",
   "lastOpenFiles": [
+    "docs/Euglykaemische-Ketoazidose.md",
     "docs/Metamizol.md",
     "docs/Sepsis ⚙️.md",
-    "docs/Euglykaemische-Ketoazidose.md",
     "docs/Euglykämische Ketoazidose.md"
   ]
 }

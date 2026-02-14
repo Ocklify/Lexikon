@@ -1,5 +1,5 @@
 # Euglykämische Ketoazidose
-= Perioperativer Umgang mit einer euglykämischen, diabetischen Ketoazidose (EDKA)
+= Perioperativer Umgang mit einer euglykämischen, diabetischen Ketoazidose (EDKA) Test
 
 ![EDKA](img/EuglykaemischeKetoazidose.jpeg){width="200"}
 
