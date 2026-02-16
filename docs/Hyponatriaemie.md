@@ -77,8 +77,8 @@
 ---
 ## 🧩 EINTEILUNG
 #### 1. Schritt: Osmolalität bestimmen
- - Hypoton (<280 mOsm/kg):  
-	 → *echte Hyponatriämie* (häufigste Form)  
+ - **Hypoton** (<280 mOsm/kg):  
+	 → *echte Hyponatriämie* (**häufigste** Form)  
  - Isoton (280–300 mOsm/kg):  
 	 → *[Pseudohyponatriaemie](Pseudohyponatriaemie.md)* → falsch-niedriges Na im Labor → BGA  
  - Hyperton (>300 mOsm/kg):  

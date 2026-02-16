@@ -1,10 +1,10 @@
 # Translokationale Hyponatriämie  
 = Verdünnung durch osmotisch wirksame Substanzen und Shift von Wasser  
-=> [Hyponatriaemie](Hyponatriaemie.md) mit erhöhter, teils auch normaler Osmolalität  
+=> [Hyponatriämie](Hyponatriaemie.md) mit meist erhöhter, teils auch normaler Osmolalität  
 
 ---
 ## 🩺 Diagnostik
-- Serum-Natrium: [Hyponatriaemie](Hyponatriaemie.md)  
+- Serum-Natrium: [Hyponatriämie](Hyponatriaemie.md)
 - Serum-Osmolalität: meist >300 mOsm/kg (hyperton)  
 	→ teils auch isoton: 280–300 mOsm/kg  
 	→ selten!  

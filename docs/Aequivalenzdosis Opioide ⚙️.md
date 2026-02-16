@@ -1,4 +1,4 @@
-# Äquivalenzdosis
+# Äquivalenzdosis Opioide
 
 Hydromorphon 8mg oral
 = 4 mg Hydromorphon i.v. 

@@ -1,5 +1,6 @@
 # Pseudohyponatriämie
 = falsch-niedriges Natrium  
+= Messfehler im Labor bei ausgeprägter Hyperproteinämie oder Hyperlipidämie → BGA misst richtig 😉
 
 ---
 ## 🩺 DIAGNOSTIK

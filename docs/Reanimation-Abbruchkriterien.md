@@ -6,7 +6,7 @@
 - **Ausnahmen:** 
 	- Hypothermie („nobody is dead until warm and dead“)  
 	- Intoxikationen  
-	- [ECPR](ECPR.md)/ECLS  
+	- [Extrakorporale kardiopulmonale Reanimation](Extrakorporale%20kardiopulmonale%20Reanimation.md)/ECLS  
 - Leitlinien empfehlen, nach ca. 20–30 Minuten ohne ROSC die Situation kritisch zu bewerten.  
 
 ---
@@ -37,7 +37,7 @@ Reanimation sinnvoll bei:
 - reversiblen Ursachen ([Hs-und-HITS](Hs-und-HITS.md))  
 - beobachtetem Kollaps  
 - initialem Kammerflimmern (nur 20% der Fälle)
-- realistischem Therapieziel (z. B. PCI, [ECPR](ECPR.md) in spezialisierten Zentren).  
+- realistischem Therapieziel (z. B. PCI, [Extrakorporale kardiopulmonale Reanimation](Extrakorporale%20kardiopulmonale%20Reanimation.md) in spezialisierten Zentren).  
 
 ---
 ## ❌ KONTRAINDIKATIONEN  

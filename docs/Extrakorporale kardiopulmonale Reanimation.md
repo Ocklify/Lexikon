@@ -1,5 +1,5 @@
-# eCPR
-= Extrakorporale kardiopulmonale Reanimation
+# Extrakorporale kardiopulmonale Reanimation
+= eCPR
 
 ---
 ## 💬 KURZ
