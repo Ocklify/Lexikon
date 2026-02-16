@@ -76,11 +76,11 @@
 
 ---
 ## 🧩 EINTEILUNG
-#### 1. Schritt: Osmolalität bestimmen
+#### 1. Schritt: Serum-Osmolalität bestimmen
  - **Hypoton** (<280 mOsm/kg):  
 	 → *echte Hyponatriämie* (**häufigste** Form)  
  - Isoton (280–300 mOsm/kg):  
-	 → *[Pseudohyponatriaemie](Pseudohyponatriaemie.md)* → falsch-niedriges Na im Labor → BGA  
+	 → *[Pseudohyponatriaemie](Pseudohyponatriaemie.md)* → falsch-niedriges Na im Labor → BGA machen  
  - Hyperton (>300 mOsm/kg):  
 	 → *[Translokationale Hyponatriämie](Translokationale-Hyponatriaemie.md)*(z. B. Hyperglykämie, Mannitol)  
  - Synonyme:  
@@ -164,14 +164,14 @@ $$\text{Na}_{\text{corr}} = \text{Na}_{\text{gemessen}} + 1{,}6 \times \frac{\te
 
 #### 2. Generelle Therapie
 - **Hypovolämisch:**  
-	→ VEL, 50-150 ml/h  
+	→ VEL, 50-150 ml/h (Kein NaCl 0,9%!)  
 	→ Diuretika absetzen  
 	→ ggf. Steroidgabe  
 	→ Na alle 2-4 h kontrollieren  
 - **Euvolämisch (SIADH):**  
 	→ Flüssigkeitsrestriktion  
 	→ Ursache behandeln  
-	→ ggf. Vaptane  
+	→ ggf. [Vaptane](Vaptane.md)  
 - **Hypervolämisch:**  
 	→ Diuretika  
 	→ Grunderkrankung behandeln  
@@ -221,6 +221,7 @@ $$\text{Na}_{\text{corr}} = \text{Na}_{\text{gemessen}} + 1{,}6 \times \frac{\te
     <li>Orlemann T. <em>Diagnostik und Therapie der Hyponatriämie.</em> Notfall + Rettungsmedizin. 2021;24:123–134.</li>
     <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10904443/" target="_blank">PMC10904443 – Comprehensive review on hyponatremia</a></li>
     <li>Schwarz C, Lindner G, Windpessl M, Knechtelsdorfer M, Saemann MD. Konsensusempfehlungen zur Diagnose und Therapie der Hyponatriämie der Österreichischen Gesellschaft für Nephrologie 2024. <em>Wien Klin Wochenschr</em>. 2024;136(13–14):557–574. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10904443/" target="_blank">Link</a></li>
+    <li>von Kieseritzky K. <em>Warnzeichen bei Hyponatriämie nicht übersehen.</em> DIVI 2025 – Kongressbericht. Springer Medizin. 15.12.2025. Verfügbar unter: https://www.springermedizin.de/divi-2025/hyponatriaemie/warnzeichen-bei-hyponatriaemie-nicht-uebersehen/51817434 (Zugriff am 15.02.2026).</li>
   </ul>
 </details>
 

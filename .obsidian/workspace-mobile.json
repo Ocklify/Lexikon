@@ -162,6 +162,20 @@
             }
           },
           {
+            "id": "1d5d574bce3f83e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/LungenprotektiveBeatmung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LungenprotektiveBeatmung"
+            }
+          },
+          {
             "id": "bd49629d97e9e95f",
             "type": "leaf",
             "state": {
@@ -270,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -361,7 +375,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Metamizol.md",
+            "file": "LungenprotektiveBeatmung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -418,12 +432,18 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "9f59f4818f98b1f0",
+  "active": "cff38043174fbb7b",
   "lastOpenFiles": [
+    "docs/TRALI.md",
+    "docs/LungenprotektiveBeatmung.md",
+    "docs/ASA.md",
+    "docs/Metamizol.md",
+    "docs/Hyponatriaemie.md",
+    "docs/Translokationale-Hyponatriaemie.md",
+    "docs/Pseudohyponatriaemie.md",
     "docs/Verminderte ICG-Clearance bei Cholestase.md",
     "docs/PDK-Vorgehen-bei-postinterventioneller-Parese-oder-Parästhesie.md",
     "docs/Antidota.md",
-    "docs/Metamizol.md",
     "docs/Stevens-Johnson-Syndrom.md",
     "docs/Midazolam.md",
     "docs/Blutgruppensysteme.md",
@@ -456,12 +476,6 @@
     "docs/Heparin-Perfusor-Schema.md",
     "docs/Euglykaemische-Ketoazidose.md",
     "docs/HAS-BLED Score.md",
-    "docs/4-DMAP.md",
-    "docs/Schleifendiuretika.md",
-    "docs/Propofol.md",
-    "docs/CiCa-Dialyse.md",
-    "docs/Äquivalenzdosis Opioide ⚙️.md",
-    "docs/POTS.md",
     "docs/scripts",
     "docs/styles",
     "docs/img",
