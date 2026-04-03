@@ -8,29 +8,29 @@
 - Häufig durch **Kombination serotonerger Substanzen**
 	→ SSRI, MAO-Hemmer, Tramadol, Pethidin, Linezolid, [Ondansetron](Ondansetron.md) u.a.
 - **Anästhesie-Relevanz**:  
-  → Vermeidung serotonerger Kombinationen (z. B. MAO-Hemmer + Pethidin/Tramadol)  
-  → Vorsicht mit Antiemetika ([Ondansetron](Ondansetron.md), Granisetron) bei SSRI-Patienten  
-  → Awareness bei perioperativer Analgesie (Tramadol, Fentanyl, Methadon)  
+	→ Vermeidung serotonerger Kombinationen (z. B. MAO-Hemmer + Pethidin/Tramadol)  
+	→ Vorsicht mit Antiemetika ([Ondansetron](Ondansetron.md), Granisetron) bei SSRI-Patienten  
+	→ Awareness bei perioperativer Analgesie (Tramadol, Fentanyl, Methadon)  
 
 ---
 ## 🚑 KLINIK
 - **Neuromuskulär**: Hyperreflexie, Myoklonien, Tremor, Rigor  
 - **Vegetativ**: Hyperthermie, Tachykardie, Hypertonie, Diaphorese, Diarrhoe  
-- **Psychisch**: Agitation, Verwirrtheit, Angst, Delir  
+- **Psychisch**: Agitation, Verwirrtheit, [Angst](Anxiolyse.md), Delir  
 
 ---
 ## 🔀 Differenzialdiagnosen
 
-| Erkrankung / Syndrom                                                    | Abgrenzung zum Serotonerges Syndrom                                                                                    |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Malignes neuroleptisches Syndrom (MNS)**                              | Langsamer Beginn (Tage), ausgeprägte Rigidität, CK stark erhöht, meist durch Neuroleptika.                             |
-| **Maligne Hyperthermie**                                                | Auftreten intraoperativ nach Exposition mit volatilen Anästhetika oder Succinylcholin, genetische Prädisposition.      |
-| **Anticholinerges Syndrom**                                             | Mydriasis, trockene Haut/Schleimhäute, Harnverhalt, keine Hyperreflexie oder Klonus.                                   |
-| **Opioid-Entzug / Alkoholentzug**                                       | Tremor, vegetative Symptome, aber keine Hyperreflexie oder Klonus.                                                     |
-| **Infektionen ([Sepsis](Sepsis.md), Meningitis, Enzephalitis)** | Fieber, Bewusstseinsstörung, aber meist mit laborchemischen Entzündungszeichen.                                        |
-| **Endokrine Krisen (Thyreotoxische Krise, Phäochromozytom-Krise)**      | Hyperthermie, Tachykardie, vegetative Symptome, aber spezifische Laborwerte (TSH, Katecholamine).                      |
-| **Epileptischer Anfall / Status epilepticus**                           | Postiktale Verwirrtheit, CK-Anstieg, aber keine typische Trias aus Hyperreflexie, Klonus und vegetativer Instabilität. |
-| **Heat Stroke (Hitzschlag)**                                            | Exposition gegenüber Hitze, trockene Haut, keine Medikamentenanamnese.                                                 |
+| Erkrankung / Syndrom                                               | Abgrenzung zum Serotonerges Syndrom                                                                                    |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Malignes neuroleptisches Syndrom (MNS)**                         | Langsamer Beginn (Tage), ausgeprägte Rigidität, CK stark erhöht, meist durch Neuroleptika.                             |
+| **[Maligne Hyperthermie](Maligne-Hyperthermie.md)**                | Auftreten intraoperativ nach Exposition mit volatilen Anästhetika oder Succinylcholin, genetische Prädisposition.      |
+| **Anticholinerges Syndrom**                                        | [Mydriasis](Mydriasis.md), trockene Haut/Schleimhäute, Harnverhalt, keine Hyperreflexie oder Klonus.                   |
+| **Opioid-Entzug / Alkoholentzug**                                  | Tremor, vegetative Symptome, aber keine Hyperreflexie oder Klonus.                                                     |
+| **Infektionen ([Sepsis](Sepsis.md), Meningitis, Enzephalitis)**    | Fieber, Bewusstseinsstörung, aber meist mit laborchemischen Entzündungszeichen.                                        |
+| **Endokrine Krisen (Thyreotoxische Krise, Phäochromozytom-Krise)** | Hyperthermie, Tachykardie, vegetative Symptome, aber spezifische Laborwerte (TSH, Katecholamine).                      |
+| **Epileptischer Anfall / Status epilepticus**                      | Postiktale Verwirrtheit, CK-Anstieg, aber keine typische Trias aus Hyperreflexie, Klonus und vegetativer Instabilität. |
+| **Heat Stroke (Hitzschlag)**                                       | Exposition gegenüber Hitze, trockene Haut, keine Medikamentenanamnese.                                                 |
 
 ---
 ## ❓ URSACHEN

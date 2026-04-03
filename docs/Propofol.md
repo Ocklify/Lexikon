@@ -1,12 +1,13 @@
 # Propofol  
 = Disoprivan®
+(Stand: 24.03.2026)
 
 ---
 ## 🚨 CAVE / MERKE 💡
 - 🤰**Schwangerschaft:** nur bei zwingender Indikation; keine generelle KI  
 - 🍼 **Stillzeit:** keine Stillpause nötig (geringe Milchkonzentration)  
 - bei Polytrauma oder Ähnlichem
-	→ ggf. Ketamin oder [Etomidate](Etomidate.md) bevorzugen 
+	→ ggf. [Ketamin](Ketamin.md) oder [Etomidate](Etomidate.md) bevorzugen 
 		→ weniger kreislaufdepressiv  
 - Propofol-Infusionssyndrom ([PRIS](PRIS.md)) bei Langzeitanwendung möglich  
 - Vorsicht bei Leber-/Niereninsuffizienz:  
@@ -34,7 +35,7 @@
 
 #### TCI (Target Controlled Infusion)
 - Modelle: **Marsh** (Erwachsene), **Schnider** (Berücksichtigung Alter/Körperbau)  
-- Zielwerte: 2–6 µg/ml (Bewusstseinsverlust bei ca. 3–4 µg/ml)  
+- Zielwerte: 2–6 µg/ml    
 - Vorteil: präzisere Steuerung, geringere Überdosierung
 
 ---
@@ -51,10 +52,10 @@
 
 ---
 ## ✨ WIRKUNG
-- verstärkt **GABA-A** 
-	→ GABA = inhibitorischer Neurotransmitter  
-- hemmt indirekt **NMDA** 
-	→ NMDA = exzitatorischer Neurotransmitter  
+- verstärkt **[GABA](GABA.md)-A** 
+	→ [GABA](GABA.md) = inhibitorischer Neurotransmitter  
+- hemmt indirekt **[NMDA](NMDA.md)** 
+	→ [NMDA](NMDA.md) = exzitatorischer Neurotransmitter  
 - moduliert Na⁺- und K⁺-Kanäle 
 	→ führt durch Hyperpolarisation der Nervenzellen zu verringerter Erregbarkeit  
 - Amnesie, [Anxiolyse](Anxiolyse.md), Bewusstlosigkeit  
@@ -92,6 +93,16 @@
 - Kinder < 1 Monat  
 - Langzeitsedierung bei < 16 Jährigen   
 - Schwangerschaft (relativ, nur bei zwingender Indikation)  
+
+---
+## 📊 VERGLEICH
+| Substanz                       | Kreislaufwirkung | Atemdepression | Besonderheiten                             |
+| ------------------------------ | ---------------- | -------------- | ------------------------------------------ |
+| [Etomidate](Etomidate.md)      | neutral          | gering         | Cortisol-Suppression, Myoklonien           |
+| [Propofol](Propofol.md)        | RR↓, HR↓         | ausgeprägt     | antiemetisch, Lipidformulierung            |
+| [Thiopental](Thiopental.md) | RR↓              | mittel         | Histaminfreisetzung, lange HWZ             |
+| [Midazolam](Midazolam.md)      | leicht RR↓       | mittel         | Amnesie, anxiolytisch                      |
+| [Ketamin](Ketamin.md)          | RR↑, HR↑         | gering         | Analgesie, Dissoziation, Bronchodilatation |
 
 ---
 ## 🧪 CIPROFOL

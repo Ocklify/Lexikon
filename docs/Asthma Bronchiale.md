@@ -23,9 +23,9 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 #### Intraoperativ
 - Trigger vermeiden: Intubationsreiz, kalte Gase, Histaminliberatoren  
 - Narkosemittel:  
-  - Propofol (bronchodilatierend)  
-  - Ketamin (bronchodilatierend, gut bei Status asthmaticus)  
-  - Sevofluran (bronchodilatierend)  
+	- [Propofol](Propofol.md) (bronchodilatierend)  
+	- [Ketamin](Ketamin.md) (bronchodilatierend, gut bei Status asthmaticus)  
+	- [Sevofluran](Sevofluran.md) (bronchodilatierend)  
 - Atemweg: Larynxmaske bevorzugt, Intubation mit Vorsicht  
 - Beatmung: verlängerte Exspiration, permissive Hyperkapnie  
 
@@ -64,7 +64,7 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
 ---
 ## 🚑 KLINIK
 - Leitsymptome:  
-  1. Anfallsartige Dyspnoe  
+  1. Anfallsartige [Dyspnoe](Dyspnoe.md)  
   2. Exspiratorischer Stridor („Luft geht nicht raus“)  
 - Angst zu ersticken  
 - Husten  

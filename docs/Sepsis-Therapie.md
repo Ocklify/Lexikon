@@ -1,5 +1,5 @@
 # Sepsis‑Therapie  
-(ausführlich, S3‑Leitlinie 2025)
+*(Stand: S3‑Leitlinie 2025)*
 
 ---
 ## 🎯 Zielparameter
@@ -75,11 +75,11 @@
 
 #### 2. Laktatazidose ⚗️
 - **NaBic bei pH <7,15**  
-- **Thiamin** erwägen  
+- **Thiamin** erwägen (100 mg)  
 	→ Mangel häufig, verbessert Laktat-Clearance 💡  
 - ❌ **Dialyse zur Laktat‑Clearance** nicht empfohlen  
 - Medikamente beachten:  
-	→ **Propofol, Epinephrin, Linezolid**  
+	→ **[Propofol](Propofol.md), Epinephrin, Linezolid**  
 	→ können **Laktat erhöhen**  
 	→ mitochondriale Dysfunktion / β‑Stimulation / toxische Azidose  
 
@@ -105,7 +105,7 @@
 	- Peritonitis  
 	- Ileus  
 	- Anastomoseninsuffizienz  
-	- Abszessen  
+	- Abszesse  
 
 ---
 ## 🍽️ Ernährung & Supplemente

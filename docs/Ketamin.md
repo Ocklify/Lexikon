@@ -3,7 +3,8 @@
 ---
 ## 💬 KURZ
 - S‑Ketamin ist ein **dissoziatives Anästhetikum** mit **analgetischer** und **sympathomimetischer** Wirkung.  
-- Besonderheit: Erhalt der Schutzreflexe, gute extraklinische Anwendbarkeit.
+- **Pro**: Erhalt der Schutzreflexe, gute extraklinische Anwendbarkeit.
+- **Contra**: „Bad Trips“ möglich  
 
 ---
 ## 🚨 CAVE / MERKE 💡
@@ -88,13 +89,13 @@
 
 ---
 ## 📊 VERGLEICH
-| Substanz                  | Kreislaufwirkung | Atemdepression | Besonderheiten                             |
-| ------------------------- | ---------------- | -------------- | ------------------------------------------ |
-| [Etomidate](Etomidate.md) | neutral          | gering         | Cortisol-Suppression, Myoklonien           |
-| [Propofol](Propofol.md)   | RR↓, HR↓         | ausgeprägt     | antiemetisch, Lipidformulierung            |
-| Thiopental                | RR↓              | mittel         | Histaminfreisetzung, lange HWZ             |
-| [Midazolam](Midazolam.md) | leicht RR↓       | mittel         | Amnesie, anxiolytisch                      |
-| Ketamin                   | RR↑, HR↑         | gering         | Analgesie, Dissoziation, Bronchodilatation |
+| Substanz                    | Kreislaufwirkung | Atemdepression | Besonderheiten                             |
+| --------------------------- | ---------------- | -------------- | ------------------------------------------ |
+| [Etomidate](Etomidate.md)   | neutral          | gering         | Cortisol-Suppression, Myoklonien           |
+| [Propofol](Propofol.md)     | RR↓, HR↓         | ausgeprägt     | antiemetisch, Lipidformulierung            |
+| [Thiopental](Thiopental.md) | RR↓              | mittel         | Histaminfreisetzung, lange HWZ             |
+| [Midazolam](Midazolam.md)   | leicht RR↓       | mittel         | Amnesie, anxiolytisch                      |
+| [Ketamin](Ketamin.md)       | RR↑, HR↑         | gering         | Analgesie, Dissoziation, Bronchodilatation |
 
 ---
 <details>

@@ -80,7 +80,7 @@
 - NaSSA (z. B. Mirtazapin):  
 	→ Sedierung kann verstärkt sein, sonst meist unproblematisch  
 - SNDRI (z. B. Bupropion):  
-	→ Krampfschwelle gesenkt, Risiko für Arrhythmien, Vorsicht bei Ketamin/Tramadol  
+	→ Krampfschwelle gesenkt, Risiko für Arrhythmien, Vorsicht bei [Ketamin](Ketamin.md)/Tramadol  
 
 ---
 ## Myasthenia gravis

@@ -17,7 +17,7 @@
 
 ## 💊 MEDIKAMENTE
 
-### **1. Xipamid (p.o.)**
+#### 1. Xipamid (p.o.)
 - **10–20 mg**, max. 40 mg  
 - Gut steuerbar, gute Wirksamkeit auch bei niedriger GFR  
 - In Deutschland etabliert  
@@ -25,7 +25,7 @@
 
 ---
 
-### **2. Metolazon (p.o.)**
+#### 2. Metolazon (p.o.)
 - **2,5–5 mg**, max. 10 mg  
 - Sehr starke Natriurese  
 - Internationaler Standard bei Diuretikaresistenz  
@@ -35,7 +35,7 @@
 
 ---
 
-### **3. Chlorthalidon (p.o.)**
+#### 3. Chlorthalidon (p.o.)
 - **12,5–25 mg**, max. 50 mg  
 - Lange Wirkdauer (bis 60 h) → schwer titrierbar  
 - Sehr wirksam, aber Risiko für verzögerte [Hyponatriämie](Hyponatriämie)  
@@ -43,7 +43,7 @@
 
 ---
 
-### **4. Hydrochlorothiazid (HCT, p.o.)**
+#### 4. Hydrochlorothiazid (HCT, p.o.)
 - **12,5–25 mg**, max. 50 mg  
 - Schwach wirksam bei GFR↓  
 - Vorteil: verfügbar, gut bekannt  

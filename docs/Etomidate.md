@@ -36,7 +36,7 @@ Etomidate ist ein kurzwirksames Hypnotikum zur Narkoseeinleitung. Es ist kreisla
 ---
 ## ✅ PRO
 - Kreislaufneutral → geeignet bei kardiovaskulären Risikopatienten  
-- Weniger Atemdepression als [Propofol](Propofol.md) & Thiopental  
+- Weniger Atemdepression als [Propofol](Propofol.md) & [Thiopental](Thiopental.md)  
 - Kaum/keine Histaminfreisetzung → Vorteil bei [Asthmatikern](Asthma%20Bronchiale.md)  
 - Senkung des intrakraniellen Drucks (CBF↓ & CMRO₂↓ → CPP↓)  
 
@@ -69,13 +69,13 @@ Etomidate ist ein kurzwirksames Hypnotikum zur Narkoseeinleitung. Es ist kreisla
 
 ---
 ## 📊 VERGLEICH
-| Substanz                  | Kreislaufwirkung | Atemdepression | Besonderheiten                             |
-| ------------------------- | ---------------- | -------------- | ------------------------------------------ |
-| Etomidate                 | neutral          | gering         | Cortisol-Suppression, Myoklonien           |
-| [Propofol](Propofol.md)   | RR↓, HR↓         | ausgeprägt     | antiemetisch, Lipidformulierung            |
-| Thiopental                | RR↓              | mittel         | Histaminfreisetzung, lange HWZ             |
-| [Midazolam](Midazolam.md) | leicht RR↓       | mittel         | Amnesie, [anxiolytisch](Anxiolyse.md)      |
-| [Ketamin](Ketamin.md)     | RR↑, HR↑         | gering         | Analgesie, Dissoziation, Bronchodilatation |
+| Substanz                       | Kreislaufwirkung | Atemdepression | Besonderheiten                             |
+| ------------------------------ | ---------------- | -------------- | ------------------------------------------ |
+| Etomidate                      | neutral          | gering         | Cortisol-Suppression, Myoklonien           |
+| [Propofol](Propofol.md)        | RR↓, HR↓         | ausgeprägt     | antiemetisch, Lipidformulierung            |
+| [Thiopental](Thiopental.md) | RR↓              | mittel         | Histaminfreisetzung, lange HWZ             |
+| [Midazolam](Midazolam.md)      | leicht RR↓       | mittel         | Amnesie, [anxiolytisch](Anxiolyse.md)      |
+| [Ketamin](Ketamin.md)          | RR↑, HR↑         | gering         | Analgesie, Dissoziation, Bronchodilatation |
 
 ---
 <details>

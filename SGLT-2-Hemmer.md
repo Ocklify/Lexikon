@@ -16,12 +16,12 @@
 
 ## 💊 WIRKSTOFFE
 
-| Substanz        | Handelsname     | Zulassung für…                          |
-|-----------------|-----------------|-----------------------------------------|
-| *Empagliflozin* | Jardiance®      | T2DM, Herzinsuffizienz, CKD             |
-| *Dapagliflozin* | Forxiga®        | T2DM, Herzinsuffizienz, CKD             |
-| *Canagliflozin* | Invokana®       | T2DM, CKD (USA)                         |
-| *Ertugliflozin* | Steglatro®      | T2DM                                    |
+| Substanz        | Handelsname | Zulassung für…              |
+| --------------- | ----------- | --------------------------- |
+| *Empagliflozin* | Jardiance®  | T2DM, Herzinsuffizienz, CKD |
+| *Dapagliflozin* | Forxiga®    | T2DM, Herzinsuffizienz, CKD |
+| *Canagliflozin* | Invokana®   | T2DM, CKD (USA)             |
+| *Ertugliflozin* | Steglatro®  | T2DM                        |
 
 > [!tip]  
 > In Europa dominieren *Empagliflozin* und *Dapagliflozin* — beide mit breiter Zulassung.
@@ -144,32 +144,6 @@ Zusätzlich: leichte **Natriurese** → milde Diurese
 </div>
 </details>
 </div>
-
----
-
-## 📈 STUDIEN & EVIDENZ
-
-- **EMPA‑REG OUTCOME** (*Empagliflozin*)  
-	→ ↓ kardiovaskuläre Mortalität bei T2DM  
-- **DAPA‑HF** (*Dapagliflozin*)  
-	→ ↓ Hospitalisierung bei HFrEF  
-- **CREDENCE** (*Canagliflozin*)  
-	→ ↓ Progression bei CKD  
-- **DELIVER** (*Dapagliflozin*)  
-	→ Nutzen auch bei HFpEF
-
-> [!tip]  
-> SGLT2‑Hemmer sind heute **Standardtherapie bei Herzinsuffizienz**, unabhängig vom Diabetesstatus.
-
----
-
-## 🎯 KLINIK‑PEARLS
-
-- Bei Herzinsuffizienz: **nicht als Diuretika ersetzen**, sondern **ergänzen**  
-- Bei CKD: auch bei **nicht‑diabetischer Nephropathie** wirksam  
-- Bei T2DM: **kardioprotektiv** ab dem ersten Tag  
-- Bei Volumenmangel: **pausieren**, nicht einfach weitergeben  
-- Bei OP / Fasten: **vorübergehend absetzen** (Ketoazidose‑Risiko)
 
 ---
 

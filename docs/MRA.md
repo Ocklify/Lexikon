@@ -63,7 +63,7 @@ Aldosteron bindet an MR → Na⁺/H₂O-Retention
 ---
 
 ## ❌ KONTRAINDIKATIONEN
-- **Kalium >5,0 mmol/l**  
+- **[Kalium](Kalium.md) >5,0 mmol/l**  
 - **GFR <30 ml/min**  
 - Akutes Nierenversagen  
 - Kombination mit Kalium‑sparenden Medikamenten (z. B. *Amilorid*)  
@@ -73,7 +73,7 @@ Aldosteron bindet an MR → Na⁺/H₂O-Retention
 ---
 
 ## 🔄 WECHSELWIRKUNGEN
-- Hyperkaliämie‑Risiko ↑ bei:  
+- [Hyperkaliämie](Kalium.md)‑Risiko ↑ bei:  
 	- ACE‑Hemmern (z.B. *Ramipril*)  
 	- ARB (z.B. *Valsartan*)  
 	- ARNIs (*Sacubitril*)  

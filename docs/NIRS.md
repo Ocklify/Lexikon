@@ -4,6 +4,9 @@
 ![NIRS1](img/NIRS1.jpeg){width="200"}
 (Bild 1)
 
+> [!warning] CAVE 🚨
+> Elektroden und Basiswert VOR Narkoseeinleitung!
+
 ---
 ## 💬 KURZ
 - ermöglicht die kontinuierliche Messung der regionalen zerebralen Sauerstoffversorgung.  

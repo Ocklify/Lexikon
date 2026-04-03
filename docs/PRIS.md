@@ -21,14 +21,14 @@
 ---
 ## ⚠️ RISIKOFAKTOREN
 
-| Faktor       | Schwellenwert / Hinweis        |
-| ------------ | ------------------------------ |
-| Dosis        | ≥ 5 mg/kg/h                    |
-| Dauer        | ≥ 48 h                         |
-| Alter        | Kinder besonders gefährdet     |
-| Erkrankungen | Polytrauma, SHT, Sepsis        |
-| Medikation   | Katecholamine, Glukokortikoide |
-| Stoffwechsel | Stress, leere Glykogenspeicher |
+| Faktor       | Schwellenwert / Hinweis              |
+| ------------ | ------------------------------------ |
+| Dosis        | ≥ 5 mg/kg/h                          |
+| Dauer        | ≥ 48 h, v.a. ≥ 7 d                   |
+| Alter        | Kinder besonders gefährdet           |
+| Erkrankungen | Polytrauma, SHT, [Sepsis](Sepsis.md) |
+| Medikation   | Katecholamine, Glukokortikoide       |
+| Stoffwechsel | Stress, leere Glykogenspeicher       |
 
 ---
 ## 🔍 KLINIK / DIAGNOSTIK

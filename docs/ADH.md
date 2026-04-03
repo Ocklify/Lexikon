@@ -34,7 +34,7 @@
 
 ## ✨ WIRKUNG
 ### 1. V1-Rezeptoren
-- Vasokonstriktion  
+- **Vasokonstriktion**  
 	→ Blutdrucksteigerung  
 
 ### 2. V2-Rezeptoren
@@ -45,7 +45,7 @@
 	→ RR-Anstieg  
 
 ### 3. Hämostase
-- Freisetzung von von-Willebrand-Faktor (vWF)  
+- **Freisetzungw von von-Willebrand-Faktor (vWF)**  
 - Steigerung von Faktor VIII  
 - Aktivierung thrombozytärer Adhäsionsmoleküle  
 - Klinisch: Verbesserung der primären und sekundären Hämostase  
