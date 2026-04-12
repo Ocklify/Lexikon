@@ -6,7 +6,7 @@
 ## 🚨 KURZ & WICHTIG 💡
 > [!warning]
 > - Hemmung des **Na⁺‑Cl⁻‑Cotransporters (NCC)** im distalen Tubulus  
-> - Wichtiger Bestandteil der **[sequentiellen Nephronblockade](Sequentielle%20Nephronblockade.md)**  
+> - Wichtiger Bestandteil der **[sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)**  
 > - Verstärken Schleifendiuretika (synergistisch)  
 > - **Hauptgefahr:** Elektrolytstörungen ([Hyponatriämie](Hyponatriämie), [Hypokaliämie](Kalium.md), Hypomagnesiämie)  
 > - Nur **oral** verfügbar → nicht für akute Situationen  
@@ -47,7 +47,7 @@
 - **12,5–25 mg**, max. 50 mg  
 - Schwach wirksam bei GFR↓  
 - Vorteil: verfügbar, gut bekannt  
-- Für [Sequentielle Nephronblockade](Sequentielle%20Nephronblockade.md) meist zu schwach  
+- Für [Sequentielle-Nephronblockade](Sequentielle-Nephronblockade.md) meist zu schwach  
 	→ Indikation v.a. Hypertonie
 
 ---
@@ -67,7 +67,7 @@ NCC-Blockade (distaler Tubulus)
 ```
 
 Die distale Blockade verstärkt die Wirkung von Schleifendiuretika  
-	→ **[Sequentielle Nephronblockade](Sequentielle%20Nephronblockade.md)**
+	→ **[Sequentielle-Nephronblockade](Sequentielle-Nephronblockade.md)**
 
 ---
 

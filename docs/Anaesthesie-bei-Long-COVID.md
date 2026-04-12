@@ -85,6 +85,7 @@
 ---
 ## Myasthenia gravis
 Viele Long-COVID-Betroffene leiden unter Muskelschwäche, [Fatigue](Fatigue.md) und Belastungsintoleranz. Diese Symptome ähneln einer Myasthenie, sind aber in der Regel nicht durch Myasthenia gravis bedingt, sondern durch:  
+
 - mitochondriale Dysfunktion  
 - autonome Dysregulation (z. B. [POTS](POTS.md))  
 - muskuläre Dekonditionierung  

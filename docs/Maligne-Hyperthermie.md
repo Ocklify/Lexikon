@@ -13,7 +13,7 @@
 > - **NaHCO₃**: Nur bei **pH < 7,20** – nicht routinemäßig
 
 ---
-## 📊 **EPIDEMIOLOGIE**
+## 📊 EPIDEMIOLOGIE
 - **Inzidenz:** 1:5.000–1:100.000 Narkosen  
 - **Mortalität (unbehandelt):** > 70%  
 - **Mortalität (behandelt):** < 5% (bei frühzeitiger [Dantrolen](Dantrolen.md)-Gabe)  
@@ -23,7 +23,7 @@
 	- aber beide Geschlechter gleichmäßig betroffen  
 
 ---
-## ❓ **URSACHEN / TRIGGER**
+## ❓ URSACHEN / TRIGGER
 - **Genetisch:**  
 	- Autosomal-dominante Vererbung (variable Penetranz)  
 	- **Hauptmutationen:** *RYR1* (Ryanodin-Rezeptor, ~70% der Fälle), *CACNA1S* (Dihydropyridin-Rezeptor)  
@@ -35,20 +35,20 @@
 		- *klinisch* keine Auslösung durch Kaffee/Tee!  
 
 ---
-## ⚙️ **PATHOGENESE**
-#### 1. **Trigger-induzierte Calcium-Freisetzung**
+## ⚙️ PATHOGENESE
+#### 1. Trigger-induzierte Calcium-Freisetzung
    - Mutierter Ryanodin-Rezeptor (RYR1) reagiert pathologisch auf Trigger-Substanzen  
    - **Unkontrollierte Ca²⁺-Freisetzung** aus dem sarkoplasmatischen Retikulum  
    - **Hypermetabolismus** (ATP-Verbrauch ↑, Wärmeproduktion ↑, Laktat ↑)  
 
-#### 2. **Folgen der Calcium-Überlastung**
+#### 2. Folgen der Calcium-Überlastung
    - **Muskelrigidität** (Aktin-Myosin-Brückenbildung)  
    - **Hyperthermie** (gestörte Wärmeabgabe + erhöhte Produktion)  
    - **Rhabdomyolyse** (CK ↑, Myoglobin → Gefahr Nierenversagen)  
    - **Azidose** (anaerobe Glykolyse)  
    - **[Hyperkaliämie](Kalium.md)** (Zelllyse)  
 
-#### 3. **Systemische Entgleisung**
+#### 3. Systemische Entgleisung
    - Tachykardie, Arrhythmien, Kreislaufkollaps (Katecholamin-Sturm)  
 
 ---
@@ -90,8 +90,9 @@
 - **In-vitro-Kontrakturtest (IVCT):** Muskelbiopsie + Halothan/Koffein-Exposition
 
 ---
-## 🏥 **THERAPIE**
-### **1. SOFORTMASSNAHMEN**
+## 🏥 THERAPIE
+### 1. SOFORTMASSNAHMEN
+
 | **Maßnahme**                  | **Details**                                                                                                                    |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Trigger stoppen!**          | *Kein* volatiles Anästhetikum/Succinylcholin mehr!                                                                             |
@@ -113,18 +114,18 @@
 > 	- **250 mg/5 ml** (liposomales [Dantrolen](Dantrolen.md), schneller wirksam, aber teurer)
 > 	- **Dosierung:** 1–2 mg/kg (80 kg → **80–160 mg** = **1–2 Flaschen**)
 
-### **2. INTENSIVTHERAPIE (Fortführung)**
-- **[Dantrolen](Dantrolen.md)-Dauertherapie:**
-	- **48–72 h** nach Symptomkontrolle (1–2 mg/kg/Tag in 4 ED)
-	- **Absetzen:** Nach **24–48 h symptomfrei** + CK-Rückgang (< 5.000 U/L)
-- **Monitoring:**
+### 2. INTENSIVTHERAPIE
+- **[Dantrolen](Dantrolen.md)-Dauertherapie:**  
+	- **48–72 h** nach Symptomkontrolle (1–2 mg/kg/Tag in 4 ED)  
+	- **Absetzen:** Nach **24–48 h symptomfrei** + CK-Rückgang (< 5.000 U/L)  
+- **Monitoring:**  
 	- **Temperatur** (stündlich)  
 	- **CK** (6-stdl.)  
-	- **Elektrolyte**, **BGA**, **EKG**
-- **Komplikationen managen:**
-	- **Nierenversagen** (bei Myoglobinurie: Alkalisierung + Diurese)
-	- **DIC** ([FFP](Fresh-Frozen-Plasma.md), Gerinnungsmanagement)
-	- **Rezidivprophylaxe:** *Keine* Trigger-Substanzen lebenslang!
+	- **Elektrolyte**, **BGA**, **EKG**  
+- **Komplikationen managen:**  
+	- **Nierenversagen** (bei Myoglobinurie: Alkalisierung + Diurese)  
+	- **DIC** ([FFP](Fresh-Frozen-Plasma.md), Gerinnungsmanagement)  
+	- **Rezidivprophylaxe:** *Keine* Trigger-Substanzen lebenslang!  
 
 ---
 

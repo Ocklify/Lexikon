@@ -12,19 +12,19 @@
 ---
 ## ❓ URSACHEN
 #### 1. Herz ❤️
-> Merkhilfe: „[CHAMPIT](CHAMPIT.md)“  
-- C oronarsyndrom (ACS)  
-- H ypertensiver Notfall  
-- A rrhythmien  
-- M echanische Ursachen (Klappenvitien, Perikarderguss)  
-- P ulmonalarterienembolie
-- I schämien anderer Genese
-- T akotsubo, Trauma oder toxisch
+> [!info] Merkhilfe: „[CHAMPIT](CHAMPIT.md)“  
+> - C oronarsyndrom (ACS)  
+> - H ypertensiver Notfall  
+> - A rrhythmien  
+> - M echanische Ursachen (Klappenvitien, Perikarderguss)  
+> - P ulmonalarterienembolie
+> - I schämien anderer Genese
+> - T akotsubo, Trauma oder toxisch
 
 #### 2. Lunge 🫁
 - Pneumonie  
 - [COPD](COPD.md)  
-- [Asthma Bronchiale](Asthma%20Bronchiale.md)
+- [Asthma-Bronchiale](Asthma-Bronchiale.md)
 - Lungenembolie  
 - Pneumothorax  
 - Pleuraerguss  
@@ -48,7 +48,7 @@
 
 ---
 ## 🚑 KLINIK
-#### 1. [Asthma Bronchiale](Asthma%20Bronchiale.md)
+#### 1. [Asthma-Bronchiale](Asthma-Bronchiale.md)
 - Anfallsartige Atemnot  
 - Allergische Disposition  
 - Giemen, verlängerte Exspiration
@@ -108,6 +108,7 @@
 
 #### 2. Exazerbierte [COPD](COPD.md) 🫁
 🚨B-Problem🚨  
+
 - Oberkörper hoch  
 - O₂ vorsichtig titrieren (Atemantrieb 💡)  
 - Ggf. NIV (CPAP/BiPAP)  
@@ -120,6 +121,7 @@
 
 #### 3. Fremdkörper / Bolusgeschehen 🍽️
 🚨A-Problem🚨  
+
 - Sofortige Entfernung, ggf. Magill-Zange / Bronchoskopie  
 - Bei kompletter Obstruktion: Heimlich-Manöver / Notfallkoniotomie
 
@@ -141,6 +143,7 @@
 
 #### 7. Palliativpatienten
 **Allgemein**💬  
+
 - Aktivität fördern, Pausen einplanen  
 - Luftzug (Ventilator, Fenster)  
 - Lippenbremse  
@@ -148,6 +151,7 @@
 - Psychologische Unterstützung  
 
 **Medikamente**💊  
+
 - Opiate (Morphin Goldstandard)  
 	  - 2,5–5 mg p.o. alle 4 h oder 1–2,5 mg s.c./i.v.  
 - Benzodiazepine (bei Angstkomponente)  

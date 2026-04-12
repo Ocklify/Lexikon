@@ -93,7 +93,7 @@
 ## 🏥 THERAPIE
 - Transfusion sofort stoppen  
 - Oberkörperhochlagerung  
-- Sauerstoffgabe, ggf. nicht-invasive oder invasive Beatmung (lungenprotektiv)  
+- Sauerstoffgabe, ggf. nicht-invasive oder invasive Beatmung ([lungenprotektiv](Lungenprotektive-Beatmung.md))  
 - **Diuretika** (z. B. *Furosemid*)  
 - Intensivmedizinische Überwachung bei schweren Verläufen  
 

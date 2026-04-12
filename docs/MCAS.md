@@ -4,7 +4,6 @@
 
 ---
 ## 💬 KURZ
-
 - Überaktive Mastzellen setzen vermehrt Botenstoffe frei 🎯  
 - Multisystemische Symptome, oft ohne klassischen Allergieauslöser  
 - Notfalltherapie:  
@@ -130,7 +129,7 @@
 		- 1–2 mg 2×/Tag (H1-Blocker + Mastzellstabilisator)
 - Leukotrien‑Antagonisten
 	- *Montelukast*: 10 mg 1×/Tag  
-		→ v. a. bei Atemwegssymptomen, [Asthma Bronchiale](Asthma%20Bronchiale.md)
+		→ v. a. bei Atemwegssymptomen, [Asthma-Bronchiale](Asthma-Bronchiale.md)
 - Vitamin C
 	- 500–1000 mg/Tag  
 		→ antioxidativ, mastzellstabilisierend

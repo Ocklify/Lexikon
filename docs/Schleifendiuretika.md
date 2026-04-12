@@ -10,7 +10,7 @@
 > - Wirken auch bei **niedriger GFR** (bis ca. 5–10 ml/min)  
 > - Hauptgefahren: **[Hypokaliämie](Kalium.md)**, **[Hyponatriämie](Hyponatriämie)**, **Hypovolämie**, **Ototoxizität**  
 > - Hohe Dosen → **postdiuretische Natriumretention** (Rebound)  
-> - Zentrale Rolle bei **akuter Entstauung** und **[Sequentieller Nephronblockade](Sequentielle%20Nephronblockade.md)**  
+> - Zentrale Rolle bei **akuter Entstauung** und **[Sequentieller Nephronblockade](Sequentielle-Nephronblockade.md)**  
 > - Engmaschige Kontrollen: **Na, K, Mg, Kreatinin, Bilanz**
 
 ---
@@ -100,7 +100,7 @@ NKCC2-Blockade (Henle-Schleife)
 	- Sympathikusaktivierung  
 - Klinisch:  
 	- „Rebound‑Ödeme“ bei einmaliger Hochdosis ohne Folgetherapie  
-	- Grundlage der **[Sequentiellen Nephronblockade](Sequentielle%20Nephronblockade.md)**
+	- Grundlage der **[Sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)**
 
 #### 3. Bronchodilatation
 - Wirkungseintritt: **innerhalb von Minuten** (i.v.)  
@@ -150,7 +150,7 @@ NKCC2-Blockade (Henle-Schleife)
 - Periphere Ödeme (Herz, Niere, Leber)  
 - Hypertonie (selten)  
 - Forcierte Diurese  
-- Bestandteil der **[Sequentiellen Nephronblockade](Sequentielle%20Nephronblockade.md)**
+- Bestandteil der **[Sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)**
 
 ---
 

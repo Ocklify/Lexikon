@@ -139,7 +139,7 @@
 - ausgeprägte Bradykardie  
 - kardiogener Schock  
 - dekompensierte Herzinsuffizienz  
-- [Asthma Bronchiale](Asthma%20Bronchiale.md) (bei nicht-selektiven Substanzen)  
+- [Asthma-Bronchiale](Asthma-Bronchiale.md) (bei nicht-selektiven Substanzen)  
 - relative KI: [COPD](COPD.md), pAVK, Schwangerschaft/Stillzeit (substanzabhängig)  
 
 ---

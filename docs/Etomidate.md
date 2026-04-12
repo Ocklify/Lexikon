@@ -37,7 +37,7 @@ Etomidate ist ein kurzwirksames Hypnotikum zur Narkoseeinleitung. Es ist kreisla
 ## ✅ PRO
 - Kreislaufneutral → geeignet bei kardiovaskulären Risikopatienten  
 - Weniger Atemdepression als [Propofol](Propofol.md) & [Thiopental](Thiopental.md)  
-- Kaum/keine Histaminfreisetzung → Vorteil bei [Asthmatikern](Asthma%20Bronchiale.md)  
+- Kaum/keine Histaminfreisetzung → Vorteil bei [Asthmatikern](Asthma-Bronchiale.md)  
 - Senkung des intrakraniellen Drucks (CBF↓ & CMRO₂↓ → CPP↓)  
 
 ---

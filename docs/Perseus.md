@@ -55,7 +55,7 @@
 | Kurvenform             | Beschreibung                                     | Ursache                                                      |
 | ---------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
 | **Normal**             | Flaches Plateau, schnelle Rückkehr zur Baseline. | Gesunde Lunge.                                               |
-| **Haifischflosse**     | Langsamer Anstieg, verzögerter Abfall.           | **Bronchospasmus** (z. B. [Asthma](Asthma%20Bronchiale.md)). |
+| **Haifischflosse**     | Langsamer Anstieg, verzögerter Abfall.           | **Bronchospasmus** (z. B. [Asthma](Asthma-Bronchiale.md)). |
 | **Plötzlicher Abfall** | Abrupter Abfall auf 0.                           | ⚠️**Kreislaufstillstand** oder Tubusdislokation.             |
 
 > [!tip]

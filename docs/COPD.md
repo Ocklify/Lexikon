@@ -6,12 +6,12 @@
 	→ Auswurf  
 	→ Husten  
 	→ [Atemnot](Dyspnoe.md)**   
----
+
 ---
 ## 🚨 CAVE / MERKE 💡
 - COPD = weltweit vierthäufigste Todesursache  
 - ICS nur bei Eosinophilie oder häufigen Exazerbationen  
----
+
 ---
 ## ❓ URSACHEN
 | Ursache                          | Details                                   |
@@ -21,7 +21,6 @@
 | Infektionen 🦠                   | *H. influenzae, Pneumokokken, Rhinoviren* |
 | **α1‑Antitrypsin‑Mangel**        | v. a. bei jungen Patienten                |
 
----
 ---
 ## ⚙️ PATHOPHYSIOLOGIE
 **Inhalative Noxen (v. a. Rauchen)**  
@@ -43,7 +42,6 @@
 **Ventilations‑Perfusions‑Mismatch** → **Hypoxie / Hyperkapnie**
 
 ---
----
 ## 🚑 KLINIK
 | Befund | Hinweise |
 |--------|----------|
@@ -52,7 +50,6 @@
 | Hypoxämie | Zyanose, Trommelschlägelfinger |
 | Cor pulmonale | Halsvenenstauung, Ödeme, Stauungsleber |
 
----
 ---
 ## 🧩 EINTEILUNG
 
@@ -94,7 +91,6 @@
 </details>
 
 ---
----
 ## 🩺 DIAGNOSTIK
 
 #### 1. Untersuchung
@@ -132,13 +128,12 @@
 | Röntgen | Überblähung, Emphysem, Cor pulmonale |
 
 ---
----
 ## 🔀 DIFFERENTIALDIAGNOSEN
 
 #### 1. Lunge 🫁 
 | DD                                          | Typische Merkmale                                      | Abgrenzung zu COPD                  |
 | ------------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
-| [Asthma Bronchiale](Asthma%20Bronchiale.md) | variabel, anfallsartig, oft allergisch                 | reversibel, häufig junges Alter     |
+| [Asthma-Bronchiale](Asthma-Bronchiale.md) | variabel, anfallsartig, oft allergisch                 | reversibel, häufig junges Alter     |
 | Pneumonie                                   | Fieber, Husten, fokale RGs                             | akuter Beginn, Infiltrat im Röntgen |
 | Pneumothorax                                | plötzliche [Dyspnoe](Dyspnoe.md), einseitig hypersonor | fehlendes Atemgeräusch, Röntgen     |
 | Lungenembolie                               | akute [Dyspnoe](Dyspnoe.md), Tachykardie               | D‑Dimer, CT‑Angio                   |
@@ -152,7 +147,6 @@
 | Asthma cardiale  | nächtliche [Dyspnoe](Dyspnoe.md) | kardiale Ursache, Echo |
 | ACS              | Thoraxschmerz, Risikofaktoren    | EKG, Troponin          |
 
----
 ---
 ## 🏥 THERAPIE
 
@@ -223,12 +217,10 @@
 | **Sekretmobilisation**     | PEEP, Inhalation, Vibration                                          |
 
 ---
----
 ## ⏰ VERLAUF
 - Langsam progredient, häufige Exazerbationen bestimmen Prognose.  
 - Reha verbessert Lebensqualität stärker als jede Einzelmedikation.
 
----
 ---
 ## 🆘 AKUTE EXAZERBATION
 

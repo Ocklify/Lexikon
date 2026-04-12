@@ -1,8 +1,8 @@
 # Akrinor
 = Cafedrin & Theodrenalin  
-= Theophyllin + Norephedrin (Cafedrin) &  
-  Theophyllin + Noradrenalin (Theodrenalin)  
-  Verhältnis 20 : 1  
+	→ Cafedrin = Theophyllin + Norephedrin  
+	→ Theodrenalin = Theophyllin + Noradrenalin  
+	→ Verhältnis 20 : 1  
 = Antihypothonikum  
 = Inotropikum  
 

@@ -95,7 +95,7 @@
 - **Sofortige Transfusionsunterbrechung**.  
 - Supportive Maßnahmen:  
 	- Sauerstoffgabe, Oberkörper hoch  
-	- ggf. NIV oder invasive Beatmung (lungenprotektiv: niedrige Tidalvolumina, höhere AF)  
+	- ggf. NIV oder invasive Beatmung ([lungenprotektiv](Lungenprotektive-Beatmung.md): niedrige Tidalvolumina, höhere AF)  
 	- Ultima ratio: ECMO  
 - Keine spezifische kausale Therapie verfügbar.  
 ---

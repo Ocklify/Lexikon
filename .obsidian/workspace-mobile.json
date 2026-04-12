@@ -8,353 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31836e37660e3c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/Callouts.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Callouts"
-            }
-          },
-          {
-            "id": "7aaf9ba97454e497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/Sequentielle Nephronblockade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sequentielle Nephronblockade"
-            }
-          },
-          {
-            "id": "fc9f395f4da44dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thiazide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thiazide"
-            }
-          },
-          {
-            "id": "6c39fa5aa5de20fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACC"
-            }
-          },
-          {
-            "id": "6524569609ad9c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MRA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MRA"
-            }
-          },
-          {
-            "id": "f170faa57df00ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/Thiazide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thiazide"
-            }
-          },
-          {
-            "id": "8d1af72e65f9d79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/ENaC-Blocker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ENaC-Blocker"
-            }
-          },
-          {
-            "id": "73be78e4e292321c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/Absetzen-von-Medikamenten-vor-OPs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Absetzen-von-Medikamenten-vor-OPs"
-            }
-          },
-          {
-            "id": "3f763454d757536c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGLT-2-Hemmer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SGLT-2-Hemmer"
-            }
-          },
-          {
-            "id": "14223f2739873d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lexikon/docs/Vaptane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vaptane"
-            }
-          },
-          {
-            "id": "9f59f4818f98b1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Hyponatriaemie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyponatriaemie"
-            }
-          },
-          {
-            "id": "1d5d574bce3f83e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Perseus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perseus"
-            }
-          },
-          {
-            "id": "3dd5dfe937d287de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Fatigue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fatigue"
-            }
-          },
-          {
-            "id": "e0c43fd11ea8ba14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Etomidate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etomidate"
-            }
-          },
-          {
-            "id": "89293a6cb0dad79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Serotonerges-Syndrom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Serotonerges-Syndrom"
-            }
-          },
-          {
-            "id": "204f347b459f3aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Mydriasis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mydriasis"
-            }
-          },
-          {
             "id": "06e993fe686ed2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Miosis.md",
+                "file": "docs/HIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miosis"
-            }
-          },
-          {
-            "id": "bd49629d97e9e95f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AB0-Blutgruppensystem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AB0-Blutgruppensystem"
-            }
-          },
-          {
-            "id": "0e2ef014909aa2b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blutgruppensysteme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blutgruppensysteme"
-            }
-          },
-          {
-            "id": "37ea67c2967a9d93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TACO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TACO"
-            }
-          },
-          {
-            "id": "bb5dcc87f684b453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bluttransfusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bluttransfusion"
-            }
-          },
-          {
-            "id": "e5deaddced0b8f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sepsis ⚙️.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sepsis ⚙️"
-            }
-          },
-          {
-            "id": "7b4a13487fb69420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sepsis ⚙️.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sepsis ⚙️"
-            }
-          },
-          {
-            "id": "f2c0370491112980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sepsis temp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sepsis temp"
-            }
-          },
-          {
-            "id": "5c9aa0a605a113c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "HIT"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -382,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Lungenprot",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -445,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Miosis.md",
+            "file": "docs/Schrittmacher-perioperativ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -504,32 +171,35 @@
   },
   "active": "06e993fe686ed2d8",
   "lastOpenFiles": [
-    "docs/Mydriasis.md",
-    "docs/Miosis.md",
-    "docs/Serotonerges-Syndrom.md",
-    "docs/Perseus.md",
-    "docs/Sevofluran.md",
-    "docs/Maligne Hyperthermie.md",
-    "docs/Dantrolen.md",
-    "docs/Etomidate.md",
-    "docs/Desmopressin.md",
-    "docs/ACC.md",
-    "docs/Betablocker.md",
-    "docs/Akrinor.md",
-    "docs/Alprostadil.md",
-    "docs/Fatigue.md",
-    "docs/Euglykaemische-Ketoazidose.md",
+    "docs/Schrittmacher-perioperativ.md",
+    "docs/PRIS.md",
+    "docs/Seltene-Blutgruppensysteme.md",
+    "docs/Fresh-Frozen-Plasma.md",
+    "docs/HIT.md",
     "docs/Erythema-multiforme.md",
-    "docs/Thiopental.md",
-    "docs/Ketamin.md",
-    "docs/Propofol.md",
-    "docs/Anaesthesie-bei-Long-COVID.md",
+    "docs/4-DMAP.md",
+    "docs/ENaC-Blocker.md",
+    "docs/Dyspnoe.md",
+    "docs/Duffy-Blutgruppensystem.md",
+    "docs/ADH.md",
+    "docs/Desmopressin.md",
+    "docs/Dantrolen.md",
+    "docs/Cushingschwelle.md",
+    "docs/Coombs-Test.md",
+    "docs/CiCa-Dialyse.md",
+    "docs/Cholestase.md",
+    "docs/CHAMPIT.md",
+    "docs/COPD.md",
+    "docs/CHA₂DS₂-VASc-Score.md",
+    "docs/Bluttransfusion.md",
     "docs/Sepsis-Therapie.md",
-    "docs/Asthma Bronchiale.md",
-    "Callouts.md",
-    "docs/Ondansetron.md",
-    "docs/Tiffeneau-Index.md",
-    "docs/TIVA.md",
+    "docs/Sepsis.md",
+    "IMG_9910.jpeg",
+    "docs/Blutgruppensysteme.md",
+    "docs/Absetzen-von-Medikamenten-vor-OPs.md",
+    "docs/Anxiolyse.md",
+    "IMG_9899 1.jpeg",
+    "docs/img/MiosisMydriasis.jpeg",
     "docs/scripts/generate_index_grid.py",
     "docs/scripts/alt_generate_index.py",
     "docs/scripts/config.js",
@@ -543,9 +213,6 @@
     "docs/img/Lungenvolumina.jpeg",
     "docs/img/HpaAchse.jpg",
     "docs/img/Ivabradin.jpeg",
-    "docs/img/Meulengracht.png",
-    "docs/img/EM1.jpeg",
-    "docs/img/Thromboztenzahl.jpeg",
     "docs/scripts",
     "docs/styles",
     "docs/img",

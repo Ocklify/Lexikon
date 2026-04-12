@@ -58,7 +58,7 @@ Aldosteron bindet an MR → Na⁺/H₂O-Retention
 - Post‑Myokardinfarkt mit EF ↓  
 - Hyperaldosteronismus (primär/sekundär)  
 - Leberzirrhose mit Aszites  
-- Ergänzend in der **[Sequentiellen Nephronblockade](Sequentielle%20Nephronblockade.md)** (Kaliumschutz)
+- Ergänzend in der **[Sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)** (Kaliumschutz)
 
 ---
 

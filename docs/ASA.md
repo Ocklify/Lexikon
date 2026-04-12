@@ -311,10 +311,10 @@ Erkrankung mit **funktioneller Einschränkung**, **Organmanifestation**, **Insta
 ## 🔴 ASA IV
 = Schwere systemische Erkrankung mit konstanter Lebensbedrohung
 
-**Definition:**  
+#### Definition:  
 Schwere Erkrankung, die **ständig lebensbedrohlich** ist.
 
-**Beispiele:**  
+#### Beispiele:  
 - Instabile Angina  
 - Dekompensierte Herzinsuffizienz  
 - Schwere Sepsis  
@@ -333,10 +333,10 @@ Die Wahrscheinlichkeit eines schweren Ereignisses ist bereits im Alltag hoch.
 ## ⚫ ASA V
 = Moribunder Patient, der ohne OP nicht überleben wird
 
-**Definition:**  
+#### Definition:  
 Patient stirbt ohne Operation **innerhalb kurzer Zeit**.
 
-**Beispiele:**  
+#### Beispiele:  
 - Rupturiertes AAA  
 - Polytrauma mit Schock  
 - Massive ICB mit Herniationszeichen  

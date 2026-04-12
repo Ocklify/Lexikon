@@ -11,10 +11,9 @@
 | 6–8 g/dl | erwägen | abhängig von klinischem Zustand |
 | >8 g/dl | nur bei akuter Blutung | keine Routinegabe |
 | >10 g/dl | keine Transfusion | außer bei massiver Blutung |
-
-➡️ **Zusatz:**  
-- Bei **kardiovaskulären Vorerkrankung**: Trigger **7–8 g/dl**  
-- Bei **Sepsis**: Trigger **7 g/dl** 
+> [!tip] **Zusatz:**  
+> → Bei **kardiovaskulären Vorerkrankung**: Trigger **7–8 g/dl**  
+> → Bei **Sepsis**: Trigger **7 g/dl** 
 
 
 #### Indikationen für TKs
@@ -27,9 +26,9 @@
 | <100.000/nl      | bei Polytrauma                                                 | prophylaktisch      |
 | >50.000/nl       | bei aktiver Blutung oder DIC                                   | Zielwert            |
 
-➡️ **Zusatz:**  
-- TKs müssen **AB0-kompatibel** transfundiert werden — genau wie EKs.  
-- Zusätzlich sollte bei **RhD-negativen Frauen im gebärfähigen Alter** möglichst **RhD-negativ** transfundiert werden.
+> [!tip] **Zusatz:**  
+> - TKs müssen **AB0-kompatibel** transfundiert werden — genau wie EKs.  
+> - Zusätzlich sollte bei **RhD-negativen Frauen im gebärfähigen Alter** möglichst **RhD-negativ** transfundiert werden.
 
 ---
 ## 🗣️ RISIKOAUFKLÄRUNG  
@@ -98,7 +97,7 @@
 - LDH >240 U/l  
 - Indirektes Bilirubin ↑  
 - Kreatinin ↑  
-- Hyperkaliämie möglich  
+- [Hyperkaliämie](Kalium.md) möglich  
 - Freies Hämoglobin ↑  
 - Direkter Coombs-Test positiv  
 - D-Dimere ↑ (bei DIC)  
@@ -147,8 +146,8 @@
 - Ggf. forcierte Diurese oder [Dialyse](CiCa-Dialyse.md)  
 - *Methylprednisolon* bis 1 g  
 - Antihistaminika:  
-	- *Fenistil* 4–8 mg  
-	- *Ranitidin* 50–100 mg (alternativ *Famotidin* 20 mg)  
+	- *Dimetinden* (*“Fenistil“*) 4–8 mg (H1-Blocker)  
+	- *Ranitidin* 50–100 mg (H2-Blocker, alternativ *Cimetidin* 200-400 mg oder *Famotidin* 20 mg)  
 - Ggf. *Eculizumab* off-label innerhalb von 2h  
 
 ---
@@ -160,17 +159,16 @@
 | A          | A, AB           | A, 0           |
 | B          | B, AB           | B, 0           |
 | AB         | AB              | AB, A, B, 0    |
-![ABO](img/AB0.jpeg){width=“200“}
+![ABO](img/AB0.jpeg){width="200"}
 
 | Komponente                     | Kompatibilitätsregel              | Begründung                                                                                                                                         |
 | ------------------------------ | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EKs                            | **AB0-kompatibel**                | Erythrozyten tragen AB0-Antigene → inkompatible Transfusion führt zu sofortiger Hämolyse                                                           |
 | TKs                            | **AB0-kompatibel**                | Thrombozyten exprimieren AB0-Antigene → inkompatible Transfusion führt zu rascher Zerstörung der TKs und immunologischen Reaktionen                |
 | [FFPs](Fresh-Frozen-Plasma.md) | **nach Antikörperkompatibilität** | Enthält Antikörper gegen AB0-Antigene → entscheidend ist, dass die Antikörper im Plasma nicht gegen die Erythrozyten des Empfängers gerichtet sind |
-
-➡️ **Merke:**  
-- EKs und TKs müssen **wie Zellen** AB0-kompatibel transfundiert werden.  
-- [FFPs](Fresh-Frozen-Plasma.md) richten sich nach den **Antikörpern im Plasma**, nicht nach den Antigenen auf Zellen.  
+> [!tip] **Merke:**  
+> - EKs und TKs müssen **wie Zellen** AB0-kompatibel transfundiert werden.  
+> - [FFPs](Fresh-Frozen-Plasma.md) richten sich nach den **Antikörpern im Plasma**, nicht nach den Antigenen auf Zellen.  
 
 ---
 <details>

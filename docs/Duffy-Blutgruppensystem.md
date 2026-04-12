@@ -23,12 +23,14 @@ Wichtigste Antigene:
 - **Fyᵇ**
 
 Phänotypen:  
+
 - **Fy(a+b–)**  
 - **Fy(a–b+)**  
 - **Fy(a+b+)**  
 - **Fy(a–b–)** (häufig in Subsahara‑Afrika, selten in Europa)
 
 **Häufigkeit (Europa):**
+
 - Fyᵃ+: ~66 %  
 - Fyᵇ+: ~83 %  
 - Fy(a–b–): <1 %
@@ -46,10 +48,10 @@ Phänotypen:
 | **Fyᵇ+** | Fyᵇ+ / Fyᵇ– | Fyᵇ– ist möglich |
 | **Fyᵇ–** | **nur Fyᵇ–** | Fyᵇ+ vermeiden (seltenes Anti‑Fyᵇ) |
 
-**Praxis:**  
-- Anti‑Fyᵃ ist der relevante Antikörper  
-- Anti‑Fyᵇ ist selten  
-- Fy(a–b–) Patienten benötigen **Fy(a–b–)** Blut (selten → Spezialfall)
+> [!info] **Praxis:**  
+> - Anti‑Fyᵃ ist der relevante Antikörper  
+> - Anti‑Fyᵇ ist selten  
+> - Fy(a–b–) Patienten benötigen **Fy(a–b–)** Blut (selten → Spezialfall)
 
 ---
 <details>

@@ -28,13 +28,13 @@ Dantrolen **hemmt** die **Calcium-Freisetzung** aus dem sarkoplasmatischen Retik
 
 ---
 ## ⚗️ PHARMAKOLOGIE
-| Parameter        | Wert                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| **WE** 🧭        | 5–10 min (Ryanodex®: 2 min)                                                                |
-| **WD** ⏳         | 4–6 h (HWZ ~12 h)                                                                          |
-| **Metabolismus** | Hepatisch (CYP3A4)                                                                         |
-| **Elimination**  | Renal (aktive Metaboliten)                                                                 |
-| **Formulierung** | **Dantrolen**: 20 mg Pulver + 60 ml Aqua → **20 mg/60 ml**.<br>**Ryanodex®**: 250 mg/5 ml. |
+| Parameter        | Wert                                                                    |
+| ---------------- | ----------------------------------------------------------------------- |
+| **WE** 🧭        | 5–10 min (Ryanodex®: 2 min)                                             |
+| **WD** ⏳         | 4–6 h (HWZ ~12 h)                                                       |
+| **Metabolismus** | Hepatisch (CYP3A4)                                                      |
+| **Elimination**  | Renal (aktive Metaboliten)                                              |
+| **Formulierung** | **Dantrolen**: 20 mg Pulver + 60 ml Aqua<br>**Ryanodex®**: 250 mg/5 ml. |
 
 ---
 ## ✨ WIRKMECHANISMUS

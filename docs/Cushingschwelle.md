@@ -1,7 +1,9 @@
 # Cushingschwelle 
 
 ## 💬 KURZ
-Die **Cushingschwelle** beschreibt die tägliche Glucocorticoid-Dosis, ab der eine relevante Suppression der [HPA-Achse](HPA-Achse.md) zu erwarten ist.  
+
+> [!tip] Die **Cushingschwelle** beschreibt die tägliche Glucocorticoid-Dosis, ab der eine relevante Suppression der [HPA-Achse](HPA-Achse.md) zu erwarten ist.  
+
 - Schwelle:  
 	→ **≥ 5 mg Prednisolon-Äquivalent/Tag**  
 	→ **länger als 3 Wochen**❗️  

@@ -21,7 +21,7 @@
 | -------------------------------------------- | --------------- | -------------- | ---------------- |
 | Anästhesie                                   | 0,5–1 mg/kg     | 1,5–2,5 mg/kg  | –                |
 | Analgesie                                    | 0,1–0,25 mg/kg  | 0,5–1 mg/kg    | –                |
-| Status [asthmaticus](Asthma%20Bronchiale.md) | 0,5–1 mg/kg     | –              | –                |
+| Status [asthmaticus](Asthma-Bronchiale.md) | 0,5–1 mg/kg     | –              | –                |
 | Sedierung                                    | –               | –              | 0,25–0,5 mg/kg/h |
 | Schmerztherapie                              | Bolus 6–12,5 mg | –              | 0,05–0,5 mg/kg/h |
 #### 2. Ketamin

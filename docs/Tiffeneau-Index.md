@@ -70,7 +70,7 @@ $$\text{Tiffeneau-Index} = \frac{\text{FEV}_1}{\text{FVC}} \times 100\%$$
 ## 🚑 Klinische Bedeutung
 | Befund                    | Typische Interpretation                                                                                                                               |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ↓ Tiffeneau-Index (< LLN) | **Obstruktive Ventilationsstörung** (z. B. [COPD](COPD.md), [[Asthma Bronchiale]])                                                                    |
+| ↓ Tiffeneau-Index (< LLN) | **Obstruktive Ventilationsstörung** (z. B. [COPD](COPD.md), [[Asthma-Bronchiale]])                                                                    |
 | Normaler Index + ↓ FVC    | V.a. **Restriktive Ventilationsstörung** (z. B. Lungenfibrose)<br>→ zur definitiven Diagnose muss in der Bodyplethysmographie die TLC gemessen werden |
 
 ---

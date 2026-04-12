@@ -2,7 +2,7 @@
 = gezielte medikamentöse Angstlösung
 
 ---
-## ✨ DEFINITION
+## 📖 DEFINITION
 - Anxiolyse bezeichnet die **pharmakologische Reduktion von Angstzuständen**, ohne vollständige Sedierung oder Bewusstseinsverlust.  
 - Ziel: Beruhigung bei erhaltenem Bewusstsein – z. B. vor Eingriffen, bei Panik oder akuter Belastung.  
 

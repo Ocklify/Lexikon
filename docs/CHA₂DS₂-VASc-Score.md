@@ -4,7 +4,7 @@
 - Der CHA₂DS₂-VASc Score dient der **Risikostratifizierung für Schlaganfälle** bei Patienten mit **Vorhofflimmern**
 - Weiterentwicklung des CHADS₂-Scores
 - wird in den aktuellen **ESC-Leitlinien** zur Entscheidung über eine orale Antikoagulation empfohlen
-- der [HAS-BLED Score](HAS-BLED%20Score.md) dagegen, dient der Risikostratifizierung von Blutungen
+- der [HAS-BLED-Score](HAS-BLED-Score.md) dagegen, dient der Risikostratifizierung von Blutungen
 
 ---
 ## 📊 SCORE
@@ -19,9 +19,10 @@
 | V      | Vascular disease (pAVK, Myokardinfarkt, Aortenplaque) | 1      |
 | A      | Age 65–74 Jahre                                       | 1      |
 | Sc     | Sex category: weiblich                                | 1      |
-⚠️ Hinweis: In den **ESC-Leitlinien 2024** wird eine modifizierte Version empfohlen, bei der das weibliche Geschlecht (Sc) nicht mehr als Risikofaktor gezählt wird:
-	→ **CHA₂DS₂-VA-Score**
-	→ ohne „Sc“ am Schluss 😉
+> [!warning] Hinweis: 
+> In den **ESC-Leitlinien 2024** wird eine modifizierte Version empfohlen, bei der das weibliche Geschlecht (Sc) nicht mehr als Risikofaktor gezählt wird:  
+> → **CHA₂DS₂-VA-Score**
+> → ohne „Sc“ am Schluss 😉
 	
 ---
 ## 🧠 INTERPRETATION

@@ -49,21 +49,17 @@ Jedes System ist verlinkt auf eine eigene Detailseite.
 ## [Seltene-Blutgruppensysteme](Seltene-Blutgruppensysteme.md)
 > → selten, aber transfusionsmedizinisch relevant
 
-**Diego**  
-- Ethnisch variabel; gelegentlich relevant  
+**Diego**: → Ethnisch variabel; gelegentlich relevant  
 
-**Colton**  
-- Selten, aber transfusionsrelevant  
+**Colton**: → Selten, aber transfusionsrelevant  
 
-**Yt (Cartwright)**  
-- Seltene Antikörper, gelegentlich relevant  
+**Yt (Cartwright)**: → Seltene Antikörper, gelegentlich relevant  
 
-**Xg**  
-- Genetisch interessant, klinisch kaum relevant  
+**Xg**: → Genetisch interessant, klinisch kaum relevant  
 
 **Scianna, Dombrock, Knops, Cromer, Indian, OK**  
-- Selten klinisch relevant  
-- Wichtig in Spezialfällen oder bei komplexer Antikörperdiagnostik  
+	→ Selten klinisch relevant  
+	→ Wichtig in Spezialfällen oder bei komplexer Antikörperdiagnostik  
 
 ---
 <details>

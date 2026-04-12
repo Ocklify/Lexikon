@@ -11,12 +11,12 @@
 - Dann blau (CiCa) an blau (Shaldon) anschließen  
 - Fertig. Dialyse starten.  
 
-![CiCa](img/CiCa.png){width=“200“}
+![CiCa](img/CiCa.png){width="200"}
 (Bild 1)  
 
 ---
 ## ⚙️ ANFANGSEINSTELLUNGEN
-= sogenanntes *Berliner Protokoll*  
+(= sogenanntes *Berliner Protokoll*)
 - Dialysat-Fluss: 2000 ml/h  
 - Blut-Fluss = 100 ml/h  
 	→ Verhältnis = **20 : 1**  

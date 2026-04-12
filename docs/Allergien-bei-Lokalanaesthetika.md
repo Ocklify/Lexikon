@@ -5,9 +5,9 @@
 - Echte allergische Reaktionen sind selten  
   → meist Pseudoallergien  
 - Kreuzallergien  
-  → zwischen Amid-LA: sehr selten 🟢  
-  → zwischen Ester-LA: eher häufiger 🔴  
-  → zwischen Amid & Ester: quasi nie  
+  → zwischen Amid-LA: sehr selten 👍  
+  → zwischen Ester-LA: eher häufiger ⚠️  
+  → zwischen Amid & Ester: quasi nie 🤩  
 
 ---
 ## 🧬 KLASSIFIKATION & KREUZREAKTIONEN

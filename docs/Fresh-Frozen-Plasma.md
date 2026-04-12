@@ -4,14 +4,14 @@
 
 ---
 ## 💬 KURZ
-- FFP = **komplettes Plasma ohne Zellen** → enthält **alle Gerinnungsfaktoren, [Albumin](Albumin.md), Immunglobuline, Komplement, [Fibrinogen](Fibrinogen.md)** und die üblichen Plasma-Elektrolyte.   
+- FFP = **komplettes Plasma ohne Zellen** → enthält **alle Gerinnungsfaktoren, [Albumin](Albumin.md), Immunglobuline, Komplement, [Fibrinogen](Fibrinogen.md)** und die üblichen Plasma-Elektrolyte  
 - Hauptindikation: **Substitution von Gerinnungsfaktoren** bei Blutung oder hohem Blutungsrisiko. 🩸  
 
 ---
 ## 💊 DOSIERUNG 
 - 10–15 ml/kg
-	→ Ziel: INR < 1,5.  
-- ggf. Wiederholung nach Gerinnungskontrolle
+	→ Ziel: INR < 1,5  
+- ggf. Wiederholung nach Gerinnungskontrolle  
 
 ---
 ## 🚨 CAVE / MERKE 💡
@@ -50,20 +50,24 @@
 ## 🧪 ZUSAMMENSETZUNG
 
 #### 1. Gerinnungsfaktoren
-- Faktor I ([Fibrinogen](Fibrinogen.md)) → 2–4 g/L  
-- Faktor II (Prothrombin)  
-- Faktor V  
-- Faktor VII  
-- Faktor VIII  
-- Faktor IX  
-- Faktor X  
-- Faktor XI  
-- Faktor XIII  
-- Von-Willebrand-Faktor (vWF)  
-- Gerinnungsinhibitoren: Antithrombin, Protein C, Protein S  
+- **Faktor I ([Fibrinogen](Fibrinogen.md))**: 2–4 g/L (ca. 2–4 mg/ml)
+- **Faktor II (Prothrombin)**: 0,5–1 IE/ml
+- **Faktor V**: 0,7–1,2 IE/ml
+- **Faktor VII**: 0,5–1 IE/ml
+- **Faktor VIII**: 0,5–1 IE/ml (labil, Aktivität nimmt nach Auftauen schnell ab)
+- **Faktor IX**: 0,5–1 IE/ml
+- **Faktor X**: 0,5–1 IE/ml
+- **Faktor XI**: 0,5–1 IE/ml
+- **Faktor XII**: 0,5–1 IE/ml
+- **Faktor XIII**: 0,01–0,02 mg/ml (ca. 1–2 IE/ml)
+- **Von-Willebrand-Faktor (vWF)**: 0,5–1 IE/ml
+- **Gerinnungsinhibitoren**: Antithrombin (0,8–1,2 IE/ml), Protein C (0,7–1,4 IE/ml), Protein S (0,6–1,2 IE/ml)
 
-👉 **Besonderheit:** Faktor V und XI sind *nur über [FFPs](Fresh-Frozen-Plasma.md)* substituierbar (keine kommerziellen Konzentrate verfügbar).  
+> [!tip] **Besonderheit:** 
+> Faktor V und XI sind *nur über [FFPs](Fresh-Frozen-Plasma.md)* substituierbar (keine kommerziellen Konzentrate verfügbar).
 
+> [!warning] Aktivität nach Auftauen
+> → nach dem Auftauen sind nur etwa 70% der GF aktiv verfügbar
 #### 2. Andere Plasmaproteine
 - **[Albumin](Albumin.md)**: ca. 40–50 g/L  
 - **Immunglobuline**: IgG, IgA, IgM (ca. 10–20 g/L)  

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Serotonerges-Syndrom.md",
+                "file": "docs/Schrittmacher-perioperativ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serotonerges-Syndrom"
+              "title": "Schrittmacher-perioperativ"
             }
           }
         ],
@@ -225,13 +225,21 @@
   },
   "active": "4bb3d7038b20e1a7",
   "lastOpenFiles": [
+    "docs/Serotonerges-Syndrom.md",
+    "IMG_9910.jpeg",
+    "Succinylcholin.md",
+    "Unbenannt.md",
+    "docs/Sequentielle-Nephronblockade.md",
+    "docs/Lungenprotektive-Beatmung.md",
+    "docs/HAS-BLED-Score.md",
+    "docs/Extrakorporale-kardiopulmonale-Reanimation.md",
+    "docs/Asthma-Bronchiale.md",
     "docs/Lymphdrainage.md",
     "docs/Maligne Hyperthermie.md",
     "docs/Lutheran-Blutgruppensystem.md",
     "docs/Dantrolen.md",
     "docs/Desmopressin.md",
     "docs/Sevofluran.md",
-    "docs/Serotonerges-Syndrom.md",
     "docs/Ondansetron.md",
     "docs/Mydriasis.md",
     "docs/NIRS.md",
@@ -239,18 +247,10 @@
     "Mydriasis.md",
     "Dantrolen.md",
     "Maligne Hyperthermie.md",
-    "Unbenannt.md",
     "docs/Thiopental.md",
     "docs/HIT.md",
     "SGLT-2-Hemmer.md",
     "docs/Thiazide.md",
-    "docs/TACO.md",
-    "docs/MRA.md",
-    "docs/Morbus-Meulengracht.md",
-    "docs/Propofol.md",
-    "docs/PRIS.md",
-    "docs/POTS.md",
-    "docs/Perseus.md",
     "docs/temp2",
     "docs/temp1"
   ]

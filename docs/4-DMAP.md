@@ -53,7 +53,7 @@
 - gleichzeitige Vergiftung mit CO  
 	→ 4-DMAP = Methämoglobinbilder  
 	→ also besser [Hydroxocobalamin](Hydroxocobalamin.md) 💡  
-- [Asthma Bronchiale](Asthma%20Bronchiale.md)  
+- [Asthma-Bronchiale](Asthma-Bronchiale.md)  
 - Säuglinge (verminderte Methämoglobin-Reduktase)  
 - G6PD-Mangel  
 - Schwangerschaft und Stillzeit  

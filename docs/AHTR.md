@@ -25,7 +25,7 @@
 - Übelkeit/Erbrechen  
 ---
 ## 🩺 DIAGNOSTIK
-- DCT **positiv**  
+- DCT **positiv** („direkter Coombs Test“)  
 - Haptoglobin ↓  
 - LDH ↑  
 - Indirektes Bilirubin ↑  

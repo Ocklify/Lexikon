@@ -12,7 +12,7 @@
 >   → gute Wirkung bei **pH >7,45**  
 >   → geringe Wirkung bei **pH 7,35–7,45**  
 >   → ungünstig bei **pH <7,35** (Azidose‑Verschlechterung)  
-> - Optionaler Baustein der **[sequentiellen Nephronblockade](Sequentielle%20Nephronblockade.md)**  
+> - Optionaler Baustein der **[sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)**  
 > - Engmaschige Kontrolle von **pH, Bicarbonat, Na, K, Kreatinin**
 
 ---
@@ -44,7 +44,7 @@ Carboanhydrase-Hemmung (proximaler Tubulus)
 ```
 
 Die proximale Blockade verstärkt die Wirkung von Schleifendiuretika und [Thiaziden](Thiazide.md)  
-→ **[Sequentielle Nephronblockade](Sequentielle%20Nephronblockade.md)**  
+→ **[Sequentielle-Nephronblockade](Sequentielle-Nephronblockade.md)**  
 
 > [!info] **Klinische Essenz**
 > ACC ist ein „Alkalose‑Diuretikum“: ideal bei metabolischer Alkalose + Stauung, ungeeignet bei bestehender Azidose.
@@ -54,7 +54,7 @@ Die proximale Blockade verstärkt die Wirkung von Schleifendiuretika und [Thiazi
 ## 🚦 INDIKATIONEN
 - **Metabolische Alkalose** bei gleichzeitiger Volumenüberladung  
 - Akut dekompensierte Herzinsuffizienz mit Alkalose (z. B. nach hoher Schleifendiuretika‑Dosis)  
-- [Sequentielle Nephronblockade](Sequentielle%20Nephronblockade.md) bei Diuretikaresistenz, wenn Alkalose limitierend ist  
+- [Sequentielle-Nephronblockade](Sequentielle-Nephronblockade.md) bei Diuretikaresistenz, wenn Alkalose limitierend ist  
 - Weitere (nicht primär relevant für diesen Kontext):  
 	- Glaukom  
 	- Idiopathische intrakranielle Hypertension  

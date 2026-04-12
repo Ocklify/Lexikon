@@ -1,6 +1,15 @@
 # ADH
 = Antidiuretisches Hormon  
-= Vasopressin ≠ [Desmopressin](Desmopressin.md)
+= Vasopressin = Argipressin („Empressin“) ≠ [Desmopressin](Desmopressin.md)
+
+---
+
+> [!warning] verwirrende Namen
+> - ADH wird auch Vasopressin oder Adiuretin genannt
+> - Argipressin ist das Medikament, welches wie ADH wirkt
+> - Desmopressin ist ein synthetisches Analogon, welches nur am V2-Rezeptor wirkt (Niere & Gerinnung)
+
+---
 
 ![ADH](img/ADH.jpeg){width="200"}
 

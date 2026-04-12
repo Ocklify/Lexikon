@@ -1,6 +1,9 @@
 # Sepsis‑Therapie  
 *(Stand: S3‑Leitlinie 2025)*
 
+![](../IMG_9910.jpeg){width="200"}
+(Bild 1, Stand 05.04.2026, [Quelle](https://youtu.be/VN2Gr-RruRQ?is=0WqivMNQOqq8wb9d))
+
 ---
 ## 🎯 Zielparameter
 - **MAP ≥ 65 mmHg**  
@@ -17,7 +20,7 @@
 ## ❤️ Herz‑Kreislauf
 
 #### 1. Volumen 💦
-- **Balancierte Kristalloide** (Ringer‑Laktat, Ringer‑Acetat, Plasma‑Lyte)  
+- **Balancierte Kristalloide** (z.B. Jonosteril VEL)  
 - ❌ **Kein HES**, ❌ **kein NaCl 0,9%**  
 - **Volumentestung (dynamisch!)**  
 	- Passive Leg Raise (PLR)  
@@ -54,7 +57,7 @@
 ---
 ## 🫁 Lunge
 - **SpO₂ 90–96%**  
-- **Lungenprotektive Beatmung: 4–6 ml/kg**  
+- **[Lungenprotektive-Beatmung](Lungenprotektive-Beatmung.md): 4–6 ml/kg**  
 - Driving Pressure <15 mmHg  
 - Pmax <30 mmHg  
 - **PEEP**: individuell, kein generelles „hoch“  

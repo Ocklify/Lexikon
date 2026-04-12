@@ -1,7 +1,8 @@
 # Desmopressin
 = DDAVP = Desamino‑D‑Arginin‑Vasopressin
-= Miniron ®
+= Minirin®
 
+---
 ## 💬 KURZ
 - **Desmopressin (DDAVP)** = synthetisches Analogon von Vasopressin ([ADH](ADH.md))  
 - Selektive Wirkung auf **V2-Rezeptoren**

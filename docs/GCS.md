@@ -5,15 +5,14 @@
 > - quantitative Beurteilung der Bewusstseinslage  
 > - gültig für Erwachsene & Kinder **≥ 5 Jahre**  
 > - immer **E – V – M getrennt** dokumentieren  
-> - Sediert/intubiert → Komponenten einzeln angeben (*Vt*, *nb*)  
-> - **Motorik** ist der stärkste Prädiktor  
-> - **GCS ≤ 8** → Risiko für Verlust der Schutzreflexe  
+> - **Motorik** ist der **stärkste** Prädiktor  
+> - **GCS ≤ 8** → Risiko für Verlust der Schutzreflexe → ITN  
 
 ---
 
 ## 🧩 EINTEILUNG
 
-### 👁️ Augenöffnung (E)
+### 👁️ Augenöffnung (E - Eyes)
 
 | Score | Erwachsene | Kinder |
 |-------|------------|--------|
@@ -21,7 +20,8 @@
 | **3** | auf Ansprache | auf Schreien |
 | **2** | auf Schmerzreiz | auf Schmerzreiz |
 | **1** | keine | keine |
-### 🗣️ Verbale Reaktion (V)
+
+### 🗣️ Verbale Reaktion (V - verbal)
 
 | Score | Erwachsene                   | Kinder     |
 | ----- | ---------------------------- | ---------- |
@@ -30,7 +30,8 @@
 | **3** | inadäquate Worte / Wortsalat | untröstbar |
 | **2** | Laute                        | Laute      |
 | **1** | keine                        | keine      |
-### ✋ Motorische Reaktion (M)
+
+### ✋ Motorische Reaktion (M - Motorik)
 
 | Score | Erwachsene | Kinder |
 |-------|------------|--------|
@@ -47,7 +48,7 @@
 
 - **GCS 13–15** → leicht  
 - **GCS 9–12** → moderat  
-- **GCS ≤ 8** → schwer, potenziell intubationspflichtig  
+- **GCS ≤ 8** → schwer, potenziell **intubationspflichtig**  
 - **Abfall ≥ 2 Punkte** → akute neurologische Verschlechterung  
 - **Asymmetrische Motorik** → strukturelle Läsion bis Beweis des Gegenteils  
 

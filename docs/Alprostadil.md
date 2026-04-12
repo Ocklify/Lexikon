@@ -117,9 +117,9 @@
 | Blutungen 🩸            | Hämatome, Epistaxis, GI-Blutungen (verstärkt bei Antikoagulation)        |
 | Selten ⚠️               | **Herzrhythmusstörungen**, Transaminasenerhöhung, allergische Reaktionen |
 
-- **Häufig**:  
-	→ Kopfschmerzen, Flush  
-	→ Hypotonie, Tachykardie  
+> [!tip] **Häufig**:  
+> → Kopfschmerzen, Flush  
+> → Hypotonie, Tachykardie  
 
 ---
 <details>
