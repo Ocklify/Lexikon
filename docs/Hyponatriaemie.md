@@ -46,33 +46,33 @@
 ---
 ## 📊 NATRIUMGEHALT
 
-| Präparat / Substanz         | Einheit             | Na⁺ (mmol) |
-| --------------------------- | ------------------- | ---------- |
-| **NaCl 0,9 %**              | 1000 ml             | 154        |
-| **NaCl 3 %**                | 100 ml              | 51,3       |
-|                             | 150 ml              | 77         |
-| **Jonosteril (VEL)**        | 1.000 ml            | 137        |
-| **NaBic 8,4 %**             | 100 ml              | 100        |
-| **NaCl-Tablette**           | 1 g                 | 17         |
-|                             | 2 g                 | 34         |
-| **Fosfomycin**              | 1 Durchstechflasche | 28,4       |
-| **Moxifloxacin**            | 400 mg              | 13,5       |
-| **Ciprofloxacin**           | 400 mg              | 12,0       |
-| **Levofloxacin**            | 500 mg              | 6,1        |
-| **Fluconazol**              | 200 mg              | 6,1        |
-| **Humanalbumin 20%**        | 100 ml              | 5,7        |
-| **Ampicillin/Sulbactam**    | 2/1 g               | 4,0        |
-| **Piperacillin/Tazobactam** | 4/0,5 g             | 3,7        |
-| **Ceftriaxon**              | 2 g                 | 2,9        |
-| **Linezolid**               | 600 mg              | 2,0        |
-| **Flucloxacillin**          | 2 g                 | 1,7        |
-| **Meropenem**               | 1 g                 | 1,6        |
-| **Cefuroxim**               | 1,5 g               | 1,4        |
-| **Valproat**                | 400 mg              | 0,9        |
-| **Cotrimoxazol**            | 480 mg              | 0,6        |
-| **Levetiracetam**           | 500 mg              | 0,3        |
+| Präparat / Substanz         | Einheit             | Na⁺-Gehalt (mmol) |
+| --------------------------- | ------------------- | ----------------- |
+| **NaCl 0,9 %**              | 1000 ml             | 154               |
+| **NaCl 3 %**                | 100 ml              | 51,3              |
+|                             | 150 ml              | 77                |
+| **Jonosteril (VEL)**        | 1.000 ml            | 137               |
+| **NaBic 8,4 %**             | 100 ml              | 100               |
+| **NaCl-Tablette**           | 1 g                 | 17                |
+|                             | 2 g                 | 34                |
+| **Fosfomycin**              | 1 Durchstechflasche | 28,4              |
+| **Moxifloxacin**            | 400 mg              | 13,5              |
+| **Ciprofloxacin**           | 400 mg              | 12,0              |
+| **Levofloxacin**            | 500 mg              | 6,1               |
+| **Fluconazol**              | 200 mg              | 6,1               |
+| **Humanalbumin 20%**        | 100 ml              | 5,7               |
+| **Ampicillin/Sulbactam**    | 2/1 g               | 4,0               |
+| **Piperacillin/Tazobactam** | 4/0,5 g             | 3,7               |
+| **Ceftriaxon**              | 2 g                 | 2,9               |
+| **Linezolid**               | 600 mg              | 2,0               |
+| **Flucloxacillin**          | 2 g                 | 1,7               |
+| **Meropenem**               | 1 g                 | 1,6               |
+| **Cefuroxim**               | 1,5 g               | 1,4               |
+| **Valproat**                | 400 mg              | 0,9               |
+| **Cotrimoxazol**            | 480 mg              | 0,6               |
+| **Levetiracetam**           | 500 mg              | 0,3               |
 
-*(Berechnung: 1 g NaCl = 17,1 mmol Na⁺; Angaben gerundet, Quelle: Fachinformationen, Herstellerangaben)*
+*(Berechnung: 1 g NaCl = 17,1 mmol Na⁺; Angaben gerundet, Quellen: Fachinformationen, Herstellerangaben)*
 
 ---
 ## 🧩 EINTEILUNG
@@ -127,6 +127,7 @@ $$\text{Na}_{\text{corr}} = \text{Na}_{\text{gemessen}} + 1{,}6 \times \frac{\te
 | **TSH**                                | Hypothyreose → seltene DD der euvolämen Hyponatriämie                                                                                             |
 | **Lipide, Proteine**                   | [Pseudohyponatriaemie](Pseudohyponatriaemie.md) → Lipide/Proteine ↑                                                                               |
 | **Kortisol (morgens, ggf. ACTH-Test)** | NNR-Insuffizienz (Cortisol-/Aldosteronmangel) → hypovolämische Hyponatriämie                                                                      |
+
 #### 3. Volumenstatus
  - Ödeme
  - Hautturgor

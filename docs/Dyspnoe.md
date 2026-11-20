@@ -115,7 +115,7 @@
 - Inhalation:
 	→ Salbutamol + Ipratropiumbromid  
 - ggf. systemisches β₂-Mimetikum
-	→ Reproterol  
+	→ [Reproterol](Reproterol.md) - 1 Amp. = 0,09 mg  
 - ggf. Prednisolon 50–100 mg i.v.  
 - Morphin niedrig dosiert bei schwerer Dyspnoe (Off-Label, palliativ gut belegt)
 

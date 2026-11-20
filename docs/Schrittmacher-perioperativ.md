@@ -3,7 +3,7 @@
 
 ---
 ## 🚨 CAVE / MERKE 💡
-- **Succinylcholin** meiden (Artefakte durch Faszikulationen)  
+- **[Succinylcholin](Succinylcholin.md)** meiden (Artefakte durch Faszikulationen)  
 - **ZVK** eher NICHT  
 	→ wenn doch, dann höchst aseptisch (Gefahr SM-Infektion)  
 	→ Gegenseite oder Vena femoralis  

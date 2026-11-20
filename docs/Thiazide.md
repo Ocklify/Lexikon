@@ -7,7 +7,7 @@
 > [!warning]
 > - Hemmung des **Na⁺‑Cl⁻‑Cotransporters (NCC)** im distalen Tubulus  
 > - Wichtiger Bestandteil der **[sequentiellen Nephronblockade](Sequentielle-Nephronblockade.md)**  
-> - Verstärken Schleifendiuretika (synergistisch)  
+> - Verstärken [Schleifendiuretika](Schleifendiuretika.md) (synergistisch)  
 > - **Hauptgefahr:** Elektrolytstörungen ([Hyponatriämie](Hyponatriämie), [Hypokaliämie](Kalium.md), Hypomagnesiämie)  
 > - Nur **oral** verfügbar → nicht für akute Situationen  
 > - Vorsicht bei **GFR <20 ml/min** und älteren Patienten  
@@ -75,7 +75,7 @@ Die distale Blockade verstärkt die Wirkung von Schleifendiuretika
 - Add‑on bei **Diuretikaresistenz**  
 - Persistierende **Volumenüberladung**  
 - Akut dekompensierte Herzinsuffizienz (oral)  
-- Wenn Schleifendiuretika‑Eskalation wenig erfolgversprechend ist  
+- Wenn [Schleifendiuretika](Schleifendiuretika.md)‑Eskalation wenig erfolgversprechend ist  
 
 ---
 
@@ -93,21 +93,21 @@ Die distale Blockade verstärkt die Wirkung von Schleifendiuretika
 
 ## 🔄 WECHSELWIRKUNGEN
 - Verstärkte [Hypokaliämie](Kalium.md) bei:  
-	- Schleifendiuretika  
+	- [Schleifendiuretika](Schleifendiuretika.md)  
 	- Glukokortikoiden  
 	- Beta‑Agonisten  
 - [Hyponatriämie](Hyponatriämie)‑Risiko ↑ bei SSRI/SNRI  
 - Antihypertensiva → verstärkte Wirkung  
 
 > [!warning] **Lithium**
-> Thiazide erhöhen Lithium‑Spiegel → Risiko für Intoxikation.
+> [Thiazide](Thiazide.md) erhöhen Lithium‑Spiegel → Risiko für Intoxikation.
 
 ---
 
 ## 🌀 NEBENWIRKUNGEN
 - Vor allem **Elektrolytstörungen**:  
 	→ [Hyponatriämie](Hyponatriämie),  
-	→ [Hypokaliämie](Kalium.md) m 
+	→ [Hypokaliämie](Kalium.md)  
 	→ Hypomagnesiämie  
 - Exsikkose, Müdigkeit  
 - Hyperurikämie (gelegentlich)  

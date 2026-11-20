@@ -194,17 +194,17 @@
 </details>
 
 #### 3. Wirkstoffe 
-| Gruppe            | Beispiele                                                     |
-| ----------------- | ------------------------------------------------------------- |
-| **SAMA**          | *Ipratropium*                                                 |
-| **SABA**          | *Salbutamol, Fenoterol, Reproterol, Terbutalin*               |
-| **LAMA**          | *Tiotropium, Glycopyrronium, Umeclidinium, Aclidinium*        |
-| **LABA**          | *Formoterol, Salmeterol, Indacaterol, Vilanterol, Olodaterol* |
-| **ICS**           | *Budesonid, Fluticason, Beclometason, Mometason, Ciclesonid*  |
-| **PDE‑4‑Hemmer**  | *Roflumilast*                                                 |
-| ***Theophyllin*** | Reserve, geringe therapeutische Breite                        |
-| **Mukolytika**    | *Acetylcystein*                                               |
-| **Antibiotika**   | *Amoxicillin/Clavulanat, Doxycyclin* (bei Exazerbation)       |
+| Gruppe            | Beispiele                                                            |
+| ----------------- | -------------------------------------------------------------------- |
+| **SAMA**          | *Ipratropium*                                                        |
+| **SABA**          | *Salbutamol, Fenoterol, [Reproterol](Reproterol.md), Terbutalin*     |
+| **LAMA**          | *Tiotropium, [Glycopyrronium](Robinul.md), Umeclidinium, Aclidinium* |
+| **LABA**          | *Formoterol, Salmeterol, Indacaterol, Vilanterol, Olodaterol*        |
+| **ICS**           | *Budesonid, Fluticason, Beclometason, Mometason, Ciclesonid*         |
+| **PDE‑4‑Hemmer**  | *Roflumilast*                                                        |
+| ***Theophyllin*** | Reserve, geringe therapeutische Breite                               |
+| **Mukolytika**    | *Acetylcystein*                                                      |
+| **Antibiotika**   | *Amoxicillin/Clavulanat, Doxycyclin* (bei Exazerbation)              |
 
 ---
 

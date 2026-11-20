@@ -9,7 +9,9 @@
 > - ↓ Natrium‑ und Wasserretention, ↑ Kaliumretention  
 > - **Lebensverlängernd** bei Herzinsuffizienz (HFrEF) (*Spironolacton* & *Eplerenon*)  
 > - Wirken **langsam** (Stunden bis Tage) → kein Akutdiuretikum  
-> - Hauptgefahr: **Hyperkaliämie**  
+> - Hauptgefahren:
+> 	→ **Hyperkaliämie**  
+> 	→ **Nephrotoxisch** ⚠️  
 > - Vorsicht bei **GFR <30 ml/min** und Kalium >5,0 mmol/l  
 > - Regelmäßige Kontrollen: **Kreatinin & Kalium** (Tag 3, Tag 7, dann monatlich)
 
@@ -89,7 +91,7 @@ Aldosteron bindet an MR → Na⁺/H₂O-Retention
 
 ## 🌀 NEBENWIRKUNGEN
 - **[Hyperkaliämie](Kalium.md)**  
-- Verschlechterung der Nierenfunktion  
+- **Verschlechterung der Nierenfunktion**  
 - *Spironolacton*:  
 	- Gynäkomastie  
 	- Libido ↓  

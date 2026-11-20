@@ -1,5 +1,9 @@
 # Midazolam  
 = kurzwirksames Benzodiazepin
+= Dormicum ® 
+*(Stand: Juli 2026)*
+
+🔗 [Link zur Fachinfo](https://www.fachinfo.de/fi/detail/005599/dormicum-r-filmtabletten?query=Midaz)
 
 ---
 ## 🚨 CAVE / MERKE 💡
@@ -33,10 +37,10 @@
 | Perfusor | 30–300 µg/kg/h |
 
 #### Antikonvulsiv
-| Anwendung | Dosis |
-|----------|-------|
-| i.v. | 2–5 mg |
-| i.m. | 5–10 mg |
+| Anwendung | Dosis                                    |
+| --------- | ---------------------------------------- |
+| i.v.      | 2–5 mg (ggf. nach 10–15 min wiederholen) |
+| i.m.      | 5–10 mg                                  |
 
 ---
 ## ⚗️ PHARMAKOLOGIE
@@ -59,6 +63,7 @@
 - Sedierung, **[Anxiolyse](Anxiolyse.md)**, anterograde Amnesie  
 - Antikonvulsiv, leichte Muskelrelaxation  
 - zerebral: **CBF↓**, **ICP↓**, **CMRO₂↓** (weniger ausgeprägt als bei [Propofol](Propofol.md))
+	- CBF: -20–30% (Midazolam) und -40–50% (Propofol)  
 
 ---
 ## ✅ PRO
@@ -85,14 +90,16 @@
 - Engwinkelglaukom  
 - schwere Ateminsuffizienz / **[OSAS ⚙️](OSAS%20⚙️.md)** / **[COPD](COPD.md)**  
 - bekannte Benzodiazepin‑Abhängigkeit  
-- schwere Leberinsuffizienz (relativ)  
-- Schwangerschaft (relativ)
+- schwere Leberinsuffizienz (relativ) 
+	→ DALI: -50% Dosisreduktion
+- Schwangerschaft (relativ)  
+	→ strenge Indikationsstellung  
 
 ---
 ## 🔄 WECHSELWIRKUNGEN
 - **CYP3A4‑Inhibitoren** (Makrolide, Azole, Grapefruit)  
 	→ Wirkung ↑  
-- **CYP3A4‑Induktoren** (Rifampicin, Carbamazepin, Phenytoin)  
+- **CYP3A4‑Induktoren** (Johanniskraut, Rifampicin, Carbamazepin, Phenytoin)  
 	→ Wirkung ↓  
 - synergistisch mit:  
 	- Opioiden  

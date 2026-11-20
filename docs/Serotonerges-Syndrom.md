@@ -21,16 +21,16 @@
 ---
 ## 🔀 Differenzialdiagnosen
 
-| Erkrankung / Syndrom                                               | Abgrenzung zum Serotonerges Syndrom                                                                                    |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| **Malignes neuroleptisches Syndrom (MNS)**                         | Langsamer Beginn (Tage), ausgeprägte Rigidität, CK stark erhöht, meist durch Neuroleptika.                             |
-| **[Maligne Hyperthermie](Maligne-Hyperthermie.md)**                | Auftreten intraoperativ nach Exposition mit volatilen Anästhetika oder Succinylcholin, genetische Prädisposition.      |
-| **Anticholinerges Syndrom**                                        | [Mydriasis](Mydriasis.md), trockene Haut/Schleimhäute, Harnverhalt, keine Hyperreflexie oder Klonus.                   |
-| **Opioid-Entzug / Alkoholentzug**                                  | Tremor, vegetative Symptome, aber keine Hyperreflexie oder Klonus.                                                     |
-| **Infektionen ([Sepsis](Sepsis.md), Meningitis, Enzephalitis)**    | Fieber, Bewusstseinsstörung, aber meist mit laborchemischen Entzündungszeichen.                                        |
-| **Endokrine Krisen (Thyreotoxische Krise, Phäochromozytom-Krise)** | Hyperthermie, Tachykardie, vegetative Symptome, aber spezifische Laborwerte (TSH, Katecholamine).                      |
-| **Epileptischer Anfall / Status epilepticus**                      | Postiktale Verwirrtheit, CK-Anstieg, aber keine typische Trias aus Hyperreflexie, Klonus und vegetativer Instabilität. |
-| **Heat Stroke (Hitzschlag)**                                       | Exposition gegenüber Hitze, trockene Haut, keine Medikamentenanamnese.                                                 |
+| Erkrankung / Syndrom                                               | Abgrenzung zum Serotonerges Syndrom                                                                                                    |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Malignes neuroleptisches Syndrom (MNS)**                         | Langsamer Beginn (Tage), ausgeprägte Rigidität, CK stark erhöht, meist durch Neuroleptika.                                             |
+| **[Maligne Hyperthermie](Maligne-Hyperthermie.md)**                | Auftreten intraoperativ nach Exposition mit volatilen Anästhetika oder [Succinylcholin](Succinylcholin.md), genetische Prädisposition. |
+| **Anticholinerges Syndrom**                                        | [Mydriasis](Mydriasis.md), trockene Haut/Schleimhäute, Harnverhalt, keine Hyperreflexie oder Klonus.                                   |
+| **Opioid-Entzug / Alkoholentzug**                                  | Tremor, vegetative Symptome, aber keine Hyperreflexie oder Klonus.                                                                     |
+| **Infektionen ([Sepsis](Sepsis.md), Meningitis, Enzephalitis)**    | Fieber, Bewusstseinsstörung, aber meist mit laborchemischen Entzündungszeichen.                                                        |
+| **Endokrine Krisen (Thyreotoxische Krise, Phäochromozytom-Krise)** | Hyperthermie, Tachykardie, vegetative Symptome, aber spezifische Laborwerte (TSH, Katecholamine).                                      |
+| **Epileptischer Anfall / Status epilepticus**                      | Postiktale Verwirrtheit, CK-Anstieg, aber keine typische Trias aus Hyperreflexie, Klonus und vegetativer Instabilität.                 |
+| **Heat Stroke (Hitzschlag)**                                       | Exposition gegenüber Hitze, trockene Haut, keine Medikamentenanamnese.                                                                 |
 
 ---
 ## ❓ URSACHEN

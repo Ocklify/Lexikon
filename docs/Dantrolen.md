@@ -48,7 +48,7 @@ Dantrolen **hemmt** die **Calcium-Freisetzung** aus dem sarkoplasmatischen Retik
 	- **Wärmeproduktion** ↓  
 		→ keine exzessive ATP-Hydrolyse mehr  
 - **Kein Effekt auf:**  
-	- Neuromuskuläre Endplatte (↔ Curare, Succinylcholin)  
+	- Neuromuskuläre Endplatte (↔ Curare, [Succinylcholin](Succinylcholin.md))  
 	- ZNS (keine Sedierung/Analgesie!)  
 
 ---

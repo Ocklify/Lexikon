@@ -2,7 +2,7 @@
 
 ---
 ## 💬 KURZ
-- Wichtiger Elektrolyt für Energiestoffwechsel, Membranfunktion, Signaltransduktion und Knochenmineralisation
+- Wichtiger Elektrolyt für **Energiestoffwechsel**, **Membranfunktion**, **Signaltransduktion** und **Knochenmineralisation**
 - Klinisch relevant v. a. bei schwerer Ausprägung (< 0,32 mmol/l)
 
 ---
@@ -82,7 +82,7 @@
 2. **Orale Substitution** (bei leichter Hypophosphatämie, z. B. Phosphat-Granulat)
 3. **Intravenöse Substitution** (bei moderater/schwerer Hypophosphatämie oder Symptomatik):  
 	   - Na- oder K-Phosphat  
-	   - 2040 mmol über 2–4 h i.v. (ZVK)  
+	   - 20–40 mmol über 2–4 h i.v. (ZVK)  
 	   - Kontrolle: Serum-Phosphat, Ca²⁺, K⁺, Mg²⁺, Nierenfunktion  
 
 ---

@@ -174,7 +174,7 @@ Wichtiger Parameter für Substanzwahl bei SPA/PDA und Risikopatient:innen.
 
 | Subtyp        | Vertreter                                                              | Bemerkung                     |
 | ------------- | ---------------------------------------------------------------------- | ----------------------------- |
-| **Amid-Typ**  | [Lidocain](Lidocain.md), Mepivacain, Prilocain, Bupivacain, Ropivacain | hepatischer Metabolismus      |
+| **Amid-Typ**  | [Acetazolamid](Acetazolamid.md), Mepivacain, Prilocain, Bupivacain, Ropivacain | hepatischer Metabolismus      |
 | **Ester-Typ** | Procain, Tetracain, Benzocain                                          | rascher Abbau durch Esterasen |
 → siehe auch [Allergien bei Lokalanästhetika](Allergien-bei-Lokalanaesthetika.md)
 
@@ -185,7 +185,7 @@ Wichtiger Parameter für Substanzwahl bei SPA/PDA und Risikopatient:innen.
 
 | Substanz                | WE        | WD      |
 | ----------------------- | --------- | ------- |
-| [Lidocain](Lidocain.md) | 1–2 min   | 1,5–3 h |
+| [Acetazolamid](Acetazolamid.md) | 1–2 min   | 1,5–3 h |
 | Mepivacain              | 1–5 min   | 2–3 h   |
 | Bupivacain              | 5–15 min  | 3–8 h   |
 | Ropivacain              | 10–20 min | 2–6 h   |

@@ -93,8 +93,8 @@
 ## 🏥 THERAPIE
 #### 1. Hypokaliämie
 - Langsame Substitution
-	- Rekawan (8 mmol, Tablette)
-	- Kalinor Brause (40 mmol, Brausetablette)
+	- **Rekawan (8 mmol**, Tablette)
+	- **Kalinor Brause (40 mmol**, Brausetablette)
 	- K-Perfusor 7,45%: 1 ml = 1 mmol
 		- peripher: max. 2 mmol/h
 		- ZVK: 
@@ -104,19 +104,21 @@
 
 #### 2. Hyperkaliämie
 
-| Medi                           | Dosis               | WE      | WD       |
-| ------------------------------ | ------------------- | ------- | -------- |
-| *Calziumglukonat* 10%          | 30 ml (KI)          | sofort  | ~30 min  |
-| *Reproterol*                   | 0,5 mg              | ~10 min | ~2 h     |
-| *NaBiC 8,4%*                   | 50–100 mmol         | ~10 min | ~2 h     |
-| *Furosemid*                    | 20–40 mg            | ~10 min | variabel |
-| *Glukose 20% + Insulin*        | 200 ml + 20 IE (KI) | ~30 min | ~5 h     |
-| *Resonium*                     | oral / rektal       | ~60 min | ~5 h     |
-| [Hämodialyse](CiCa-Dialyse.md) | —                   | sofort  | —        |
+| Medi                                 | Dosis               | WE      | WD       |
+| ------------------------------------ | ------------------- | ------- | -------- |
+| *Calciumgluconat* 10%                | 30 ml (KI)          | sofort  | ~30 min  |
+| *[Reproterol](Reproterol.md)*        | 0,5 mg ≈ 1/2 Amp.   | ~10 min | ~2 h     |
+| *NaBiC 8,4%*                         | 50–100 mmol         | ~10 min | ~2 h     |
+| *[Furosemid](Schleifendiuretika.md)* | 20–40 mg            | ~10 min | variabel |
+| *Glukose 20% + Insulin*              | 200 ml + 20 IE (KI) | ~30 min | ~5 h     |
+| *Resonium*                           | oral / rektal       | ~60 min | ~5 h     |
+| [Hämodialyse](CiCa-Dialyse.md)       | —                   | sofort  | —        |
 
 **CAVE 🚨**  
-- anstatt 30 ml *Calciumglukonat* auch 10 ml *Calciumchlorid* möglich
-- Calcium **nicht** mit *NaBiC* kombinieren ⚠️ 
+- anstatt 30 ml *Calciumgluconat* auch 10 ml *Calciumchlorid* möglich
+- Calcium **nicht** mit *NaBiC* über gleich Zugang
+	→ Gefahr der Aus
+	fällung ⚠️ 
 - *Resonium*: GI-Nebenwirkungen, zeitversetzte Einnahme anderer Medikamente beachten 
 
 ![HyperkaliämieTherapie](img/HyperkaliaemieTherapie.jpeg){width="200"}

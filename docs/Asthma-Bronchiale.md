@@ -506,7 +506,7 @@ https://www.doctopia.de/wissen/asthma-karteikarten-100.html
           <tr>
             <td><strong>Reproterol</strong></td>
             <td>i.v.</td>
-            <td>1 μg/kg KG langsam über 5 Min</td>
+            <td>1 μg/kg KG (≈ 1 Amp. 😉) langsam über 5 Min</td>
           </tr>
           <tr>
             <td><strong>Terbutalin</strong></td>

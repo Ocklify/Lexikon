@@ -29,7 +29,7 @@ LAST bezeichnet die **systemische Toxizität** von [Lokalanaesthetika](Lokalanae
 	  - 0,25 ml/kg/min Perfusor  
 	  - max. 10 ml/kg gesamt  
 - **Krampfanfälle**: Benzodiazepine  
-- **Kein [Vasopressin](ADH.md), kein [Lidocain](Lidocain.md) während der Reanimation!**  
+- **Kein [Vasopressin](ADH.md), kein [Acetazolamid](Acetazolamid.md) während der Reanimation!**  
 
 ---
 ## 🧭 Prävention

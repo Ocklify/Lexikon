@@ -1,6 +1,7 @@
 # Schleifendiuretika  
 = NKCC2‑Blocker  
 = Henle‑Schleifen‑Diuretika  
+*(Stand: Juli 2026)*
 
 ---
 
@@ -29,12 +30,6 @@
 - **Besonderheiten:** hohe Bioverfügbarkeit (~90 %), längere Wirkdauer  
 - **Wann bevorzugt:** chronische Therapie, bessere Steuerbarkeit
 
-#### 3. *Bumetanid* (i.v./p.o.)
-- **Dosis:** 0,5–1 mg (max. 10 mg/Tag)  
-- **Wirkeintritt:** 30–60 min p.o., 5–10 min i.v.  
-- **Besonderheiten:** sehr potente Substanz, gute Bioverfügbarkeit (~80 %)  
-- **Wann bevorzugt:** Diuretikaresistenz, wenn *Furosemid* schlecht wirkt
-
 <div>
 <details>
 <summary>💊 Äquivalenz‑Dosen</summary>
@@ -44,7 +39,6 @@
 <tr><th>Substanz</th><th>i.v.</th><th>oral</th></tr>
 <tr><td><em>Furosemid</em></td><td>40 mg</td><td>20–40 mg</td></tr>
 <tr><td><em>Torasemid</em></td><td>20 mg</td><td>20 mg</td></tr>
-<tr><td><em>Bumetanid</em></td><td>1 mg</td><td>1 mg</td></tr>
 </table>
 
 <p><strong>Hinweis:</strong> orale Bioverfügbarkeit von <em>Furosemid</em> sehr variabel (10–90%).</p>
@@ -107,7 +101,7 @@ NKCC2-Blockade (Henle-Schleife)
 - Unabhängig von Natriurese oder Volumenstatus  
 - Klinisch: **spürbare Atemerleichterung**, bevor die Diurese einsetzt  
 
-> [!note]  
+> [!note] MERKE 💡 
 > Diese Wirkung ist **nicht** bei allen Schleifendiuretika gleich stark ausgeprägt — *Furosemid* ist hier der Hauptvertreter.
 
 <div>

@@ -14,7 +14,7 @@
 
 | Typ              | Wirkstoffe                                                                       | Kreuzreaktion-Risiko    | Bemerkung                                |
 | ---------------- | -------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
-| **Amid**         | [Lidocain](Lidocain.md), Ropivacain, Bupivacain, Mepivacain, Articain, Prilocain | 🟢 sehr selten          | Struktur heterogen, kaum Kreuzreaktionen |
+| **Amid**         | [Acetazolamid](Acetazolamid.md), Ropivacain, Bupivacain, Mepivacain, Articain, Prilocain | 🟢 sehr selten          | Struktur heterogen, kaum Kreuzreaktionen |
 | **Ester**        | Procain, Tetracain, Benzocain, Cocain                                            | 🔴 häufig untereinander | PABA-Struktur als gemeinsames Allergen   |
 | **Amid ↔ Ester** | –                                                                                | ⚪ ausgeschlossen        | chemisch völlig unterschiedlich          |
 

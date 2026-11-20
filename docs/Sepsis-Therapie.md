@@ -1,7 +1,7 @@
 # Sepsis‑Therapie  
 *(Stand: S3‑Leitlinie 2025)*
 
-![](../IMG_9910.jpeg){width="200"}
+![](img/SepsisPRISM.jpeg){width="200"}
 (Bild 1, Stand 05.04.2026, [Quelle](https://youtu.be/VN2Gr-RruRQ?is=0WqivMNQOqq8wb9d))
 
 ---

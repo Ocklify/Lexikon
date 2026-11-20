@@ -29,7 +29,7 @@
 	- **Hauptmutationen:** *RYR1* (Ryanodin-Rezeptor, ~70% der Fälle), *CACNA1S* (Dihydropyridin-Rezeptor)  
 - **Trigger-Substanzen:**  
 	- **Volatile Anästhetika:** Halothan, [Sevofluran](Sevofluran.md), Desfluran, Isofluran  
-	- **Depolarisierendes Muskelrelaxans:** Succinylcholin  
+	- **Depolarisierendes Muskelrelaxans:** [Succinylcholin](Succinylcholin.md)  
 	- **Koffein:**   
 		- nur *Experimentell* relevant (IVCT-Testung)  
 		- *klinisch* keine Auslösung durch Kaffee/Tee!  
@@ -57,21 +57,21 @@
 #### 1. Frühzeichen (innerhalb Minuten) ⏱️
 - **Tachykardie** (erstes Zeichen!)  
 - **Hyperkapnie**  
-- **Masseter-Spasmus** (nach Succinylcholin)  
+- **Masseter-Spasmus** (nach [Succinylcholin](Succinylcholin.md))  
 - **Metabolische Azidose** (BGA: pH ↓, Laktat ↑, Base Excess ↓)  
 
 #### 2. Clinical Grading Scale (mod. nach Larach) 📈 
 
-| **Punkte** | **Kriterien**                                                                 |
-|------------|-------------------------------------------------------------------------------|
-| **50**     | **Rhabdomyolyse** (CK > 20.000 U/L)                                          |
-| **30**     | **Hyperthermie** (> 38,8°C)                                                  |
-| **20**     | **Metabolische Azidose** (BE < -8, pH < 7,25)                                |
-| **15**     | **Tachykardie** (unklärbar, > 150/min)                                       |
-| **10**     | **CO₂-Anstieg** (ETCO₂ > 55 mmHg *ohne Hypoventilation*)                      |
-| **10**     | **Muskelrigidität** (generalisiert)                                          |
-| **5**      | **Familienanamnese** (MH-Verdacht)                                          |
-| **5**      | **Trigger-Exposition** (volatiles Anästhetikum/Succinylcholin)               |
+| **Punkte** | **Kriterien**                                                                       |
+| ---------- | ----------------------------------------------------------------------------------- |
+| **50**     | **Rhabdomyolyse** (CK > 20.000 U/L)                                                 |
+| **30**     | **Hyperthermie** (> 38,8°C)                                                         |
+| **20**     | **Metabolische Azidose** (BE < -8, pH < 7,25)                                       |
+| **15**     | **Tachykardie** (unklärbar, > 150/min)                                              |
+| **10**     | **CO₂-Anstieg** (ETCO₂ > 55 mmHg *ohne Hypoventilation*)                            |
+| **10**     | **Muskelrigidität** (generalisiert)                                                 |
+| **5**      | **Familienanamnese** (MH-Verdacht)                                                  |
+| **5**      | **Trigger-Exposition** (volatiles Anästhetikum/[Succinylcholin](Succinylcholin.md)) |
 
 **Interpretation:**
 - **≥ 50 Punkte:** *Hochwahrscheinlich MH*  
@@ -95,7 +95,7 @@
 
 | **Maßnahme**                  | **Details**                                                                                                                    |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Trigger stoppen!**          | *Kein* volatiles Anästhetikum/Succinylcholin mehr!                                                                             |
+| **Trigger stoppen!**          | *Kein* volatiles Anästhetikum/[Succinylcholin](Succinylcholin.md) mehr!                                                        |
 | **[Dantrolen](Dantrolen.md)** | **Initialdosis:** 2,5 mg/kg i.v. (Wiederholung alle 5–10 min)                                                                  |
 | **Hyperventilation**          | **AMV ↑ auf 10–15 L/min** (CO₂-Elimination!), **FiO₂ 1.0** (15 L/min)                                                          |
 | **Kühlung**                   | **Zieltemperatur: < 38°C**<br>(aktive Kühlung mit Kühlmatten, Eiswasser-Magenspülung, kühle Infusionen)<br>**nicht < 36°C 💡** |

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/HIT.md",
+                "file": "docs/Isoprenalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HIT"
+              "title": "Isoprenalin"
+            }
+          },
+          {
+            "id": "8890cfe821d75bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Kalium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kalium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Dateiexplorer"
@@ -49,7 +66,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Lungenprot",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Schrittmacher-perioperativ.md",
+            "file": "Bradykardie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,35 +186,35 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "06e993fe686ed2d8",
+  "active": "cff38043174fbb7b",
   "lastOpenFiles": [
-    "docs/Schrittmacher-perioperativ.md",
-    "docs/PRIS.md",
-    "docs/Seltene-Blutgruppensysteme.md",
-    "docs/Fresh-Frozen-Plasma.md",
-    "docs/HIT.md",
-    "docs/Erythema-multiforme.md",
-    "docs/4-DMAP.md",
-    "docs/ENaC-Blocker.md",
-    "docs/Dyspnoe.md",
-    "docs/Duffy-Blutgruppensystem.md",
-    "docs/ADH.md",
+    "docs/Heparin-Perfusor-Schema.md",
+    "Bradykardie.md",
+    "docs/Vaptane.md",
+    "docs/Antidota.md",
+    "docs/cABCDE.md",
+    "docs/Isoprenalin.md",
+    "docs/Kalium.md",
+    "docs/Ivabradin.md",
+    "docs/ITP.md",
+    "docs/Metamizol.md",
+    "Callouts.md",
+    "docs/Sequentielle-Nephronblockade.md",
+    "docs/Thiazide.md",
+    "docs/Schleifendiuretika.md",
+    "docs/Acetazolamid.md",
+    "docs/MRA.md",
+    "ACC.md",
+    "docs/Reproterol.md",
+    "docs/Etomidate.md",
     "docs/Desmopressin.md",
-    "docs/Dantrolen.md",
-    "docs/Cushingschwelle.md",
-    "docs/Coombs-Test.md",
-    "docs/CiCa-Dialyse.md",
-    "docs/Cholestase.md",
-    "docs/CHAMPIT.md",
-    "docs/COPD.md",
-    "docs/CHA₂DS₂-VASc-Score.md",
-    "docs/Bluttransfusion.md",
-    "docs/Sepsis-Therapie.md",
-    "docs/Sepsis.md",
-    "IMG_9910.jpeg",
-    "docs/Blutgruppensysteme.md",
-    "docs/Absetzen-von-Medikamenten-vor-OPs.md",
-    "docs/Anxiolyse.md",
+    "docs/Akrinor.md",
+    "docs/Alprostadil.md",
+    "ROSC.md",
+    "docs/Reanimation-Abbruchkriterien.md",
+    "docs/Remifentanil.md",
+    "docs/Euglykaemische-Ketoazidose.md",
+    "docs/img/SepsisPRISM.jpeg",
     "IMG_9899 1.jpeg",
     "docs/img/MiosisMydriasis.jpeg",
     "docs/scripts/generate_index_grid.py",

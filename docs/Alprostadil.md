@@ -82,7 +82,7 @@
 - 20–40(–60) µg, 1-0-1  
 	→ auf 50 ml NaCl aufziehen  
 	→ via Perfusor über 2 h  
-- Bei Niereninsuffizienz:  
+- Bei Niereninsuffizienz (GFR <60 mg/dl):  
 	→ Beginn mit halber Dosis (10–20 µg, 1-0-1)  
 	→ langsame Steigerung möglich  
 - Therapiedauer:  

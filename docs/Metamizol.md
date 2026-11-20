@@ -11,9 +11,10 @@
 - Keine Wirkung auf [Thrombozytenaggregation](TAH.md)  
 - Keine antiinflammatorische Wirkung  
 - Gute gastrointestinale Verträglichkeit  
-- In vielen Ländern nicht zugelassen wegen Agranulozytoserisiko  
+- In vielen Ländern nicht zugelassen wegen **Agranulozytoserisiko**  
 - **Agranulozytose** kann jederzeit auftreten, unabhängig von Dosis oder Dauer  
-- Warnzeichen: Fieber, Halsschmerzen, Stomatitis → **sofort absetzen**   
+	- Warnzeichen: Fieber, Halsschmerzen, Stomatitis → **sofort absetzen**   
+	- Inzidenz: ca. 1-10 pro 1.000.000 (je nach Quelle)
 
 ---
 ## ✨ WIRKUNG
@@ -49,7 +50,13 @@
 
 ---
 ## 🔄 WECHSELWIRKUNGEN
+#### 1. Wirkungsreduktion
 - Cyclosporin → Spiegel ↓  
+- Midazolam (–68%)  
+- Oneprazol (–66%)  
+- Quetiapin (–50%)  
+- v.a. durch Induktion von CYP3A4, CYP2B6, CYP2C19 & CYP2C9
+#### 2. Wirkungsverstärkung
 - Methotrexat → Toxizität ↑  
 - Alkohol → verstärkte hypotensive Reaktion möglich  
 
@@ -60,6 +67,7 @@
 - Hypotonie, anaphylaktoide Reaktionen  
 - Hautreaktionen (selten [SJS](Stevens-Johnson-Syndrom.md)/TEN)  
 - Transaminasenanstieg  
+- CYP-Interaktionen → s. Wechselwirkungen  
 
 ---
 
@@ -251,6 +259,7 @@
 
     <li>Hoffbrand AV et al. Essential Haematology. 7th Edition. Wiley‑Blackwell.<br>
         <a href="https://www.wiley.com" target="_blank">https://www.wiley.com</a></li>
+	<li>Metamizol – Indikationen und Risiken. Dtsch Arztebl Int 2026; 123: 27-34; DOI: <a href="https://www.aerzteblatt.de/archiv/metamizol-indikationen-und-risiken-7415e4d4-0a59-4abc-98d6-53e9c7fa8a30" target="_blank">10.3238/arztebl.m2025.0214</a></li>
 </ol>
 
 </details>

@@ -16,7 +16,7 @@
 | -------------- | --------------------------------------------------------------------------- | --------------------------- |
 | Hypnotika      | *[Propofol](Propofol.md), [Etomidate](Etomidate.md), [Ketamin](Ketamin.md)* | Narkose                     |
 | Analgetika     | *[Remifentanil](Remifentanil.md), Sufentanil*                               | Analgesie                   |
-| Relaxantien    | *Rocuronium, Atracurium*                                                    | Muskelrelaxation (optional) |
+| Relaxantien    | *[Rocuronium](Rocuronium.md), Atracurium*                                   | Muskelrelaxation (optional) |
 
 ---
 ## 👍 Vorteile

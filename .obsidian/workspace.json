@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d47c63a7f8bf5d01",
+        "id": "c737450106037104",
         "type": "tabs",
         "children": [
           {
-            "id": "ba55f509087e43b9",
+            "id": "013b9c809333dbff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "06e69d7131adbfcd",
+            "id": "b84a139147429b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGLT-2-Hemmer.md",
+                "file": "docs/Aminomix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SGLT-2-Hemmer"
-            }
-          },
-          {
-            "id": "4bb3d7038b20e1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Schrittmacher-perioperativ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schrittmacher-perioperativ"
+              "title": "Aminomix"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,12 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bb3d7038b20e1a7",
+  "active": "a778ccaa95c08c57",
   "lastOpenFiles": [
+    "docs/Thiopental.md",
+    "docs/Thiazide.md",
+    "docs/Vaptane.md",
+    "docs/Aminomix.md",
+    "Bradykardie.md",
+    "docs/ASA.md",
+    "docs/Schrittmacher-perioperativ.md",
     "docs/Serotonerges-Syndrom.md",
     "IMG_9910.jpeg",
     "Succinylcholin.md",
-    "Unbenannt.md",
     "docs/Sequentielle-Nephronblockade.md",
     "docs/Lungenprotektive-Beatmung.md",
     "docs/HAS-BLED-Score.md",
@@ -246,11 +238,6 @@
     "docs/SGLT2-Hemmer.md",
     "Mydriasis.md",
     "Dantrolen.md",
-    "Maligne Hyperthermie.md",
-    "docs/Thiopental.md",
-    "docs/HIT.md",
-    "SGLT-2-Hemmer.md",
-    "docs/Thiazide.md",
     "docs/temp2",
     "docs/temp1"
   ]

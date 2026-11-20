@@ -40,7 +40,7 @@
 > **Lebensbedrohliche Organdysfunktion durch eine fehlregulierte Wirtsantwort auf eine Infektion.**
 
 #### Septischer Schock
-= Sepsis + Katecholamine nötig + Laktat ≥2 mmol/l
+= Sepsis + Katecholamine nötig + Laktat ≥2 mmol/l (≈18 mg/dl 😉)
 
 > [!info]- Frühere SIRS-basierte Definition
 > #### SIRS

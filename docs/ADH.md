@@ -1,6 +1,9 @@
 # ADH
-= Antidiuretisches Hormon  
-= Vasopressin = Argipressin („Empressin“) ≠ [Desmopressin](Desmopressin.md)
+= „Antidiuretisches Hormon“  
+= Vasopressin 
+≈ Argipressin („Empressin“) 
+≠ [Desmopressin](Desmopressin.md) (das ist ein synthetisches Analogon 😉)
+*(Stand: Juli 2026)*
 
 ---
 
@@ -20,7 +23,8 @@
 ## 💬 KURZ
 - ADH ist ein im Hypothalamus gebildetes und im Hypophysenhinterlappen gespeichertes Hormon  
 - Es reguliert den Wasserhaushalt, den Gefäßtonus und beeinflusst die Hämostase  
-- Das synthetische Analogon **[Desmopressin](Desmopressin.md)** wirkt länger und selektiv über V2-Rezeptoren  
+- Das Medikament Argipressin („Empressin“) wird z.B. im Septischen Schock verwendet  
+- Das synthetische Analogon **[Desmopressin](Desmopressin.md)** wirkt länger und selektiv über V2-Rezeptoren (Niere & Gerinnung)  
 
 ---
 
@@ -30,6 +34,31 @@
 - **ADH-Mangel**  
 	→ Diabetes insipidus  
 - [Desmopressin](Desmopressin.md) darf **nicht** bei Herzinsuffizienz oder [Hyponatriaemie](Hyponatriaemie.md) gegeben werden  
+
+---
+
+## 💊 DOSIERUNG (von Argipressin)
+
+| **Indikation**              | **Zieldosis (IE/min)** | **Dosierung (ml/h)** | **Hinweise**                                                        |
+| --------------------------- | ---------------------- | -------------------- | ------------------------------------------------------------------- |
+| Septischer Schock           | 0,01 IE/min            | **0,75 ml/h**        | Startdosierung                                                      |
+|                             | 0,02 IE/min            | **1,5 ml/h**         | Standarddosierung in den meisten Protokollen.                       |
+|                             | 0,03 IE/min            | **2,25 ml/h**        | Standarddosierung in den meisten Protokollen.                       |
+|                             | 0,04 IE/min            | **3,0 ml/h**         | Maximaldosis, nur bei refraktärem Schock.                           |
+| Ösophagusvarizenblutung     | 0,2–0,4 IE/min         | **15–30 ml/h**       | Kurzzeitanwendung (20–40 min), kombiniert mit Nitroglycerin.        |
+| Kardiopulmonale Reanimation | 0,04 IE/min (Bolus)    | **3,0 ml/h**         | Einmalige Gabe von 40 IE (50 ml), aber in der Praxis oft als Bolus. |
+> [!INFO] Perfusor-Konzentration: Vasopressin
+> **Standardmischung:**
+> - **40 IE Vasopressin** in **50 ml NaCl 0,9%**
+> - **Konzentration:** **0,8 IE/ml**
+>
+> **Hinweise:**
+> - **Einstellung in ml/h** (nicht in IE/min).
+> - **Umrechnung:**
+>   `1 ml/h = 0,8 IE/h ≈ 0,013 IE/min`
+> - **Praktische Dosierung:**
+>   - **1 ml/h** ≈ **0,013 IE/min** (Startdosis)
+>   - **3 ml/h** ≈ **0,04 IE/min** (Maximaldosis bei septischem Schock)
 
 ---
 
